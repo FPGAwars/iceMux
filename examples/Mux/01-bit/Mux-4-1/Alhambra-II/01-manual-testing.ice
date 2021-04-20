@@ -47,7 +47,7 @@
           },
           "position": {
             "x": -40,
-            "y": -64
+            "y": 0
           }
         },
         {
@@ -67,7 +67,7 @@
           },
           "position": {
             "x": -40,
-            "y": 16
+            "y": 80
           }
         },
         {
@@ -99,7 +99,7 @@
           "type": "80ac841b78ab68b7668296f4d0b0b4daadc7bcf9",
           "position": {
             "x": 112,
-            "y": 0
+            "y": 64
           },
           "size": {
             "width": 96,
@@ -140,6 +140,70 @@
           "size": {
             "width": 96,
             "height": 160
+          }
+        },
+        {
+          "id": "82666a7f-b48f-4044-a748-656d652668cb",
+          "type": "basic.info",
+          "data": {
+            "info": "0%",
+            "readonly": true
+          },
+          "position": {
+            "x": 24,
+            "y": -96
+          },
+          "size": {
+            "width": 72,
+            "height": 32
+          }
+        },
+        {
+          "id": "7fc96298-d077-4eb3-a734-340ba9d8fd14",
+          "type": "basic.info",
+          "data": {
+            "info": "25%",
+            "readonly": true
+          },
+          "position": {
+            "x": 24,
+            "y": -184
+          },
+          "size": {
+            "width": 72,
+            "height": 32
+          }
+        },
+        {
+          "id": "8efd0dc4-ebae-462f-a0d4-aec314a0ef69",
+          "type": "basic.info",
+          "data": {
+            "info": "50%",
+            "readonly": true
+          },
+          "position": {
+            "x": 24,
+            "y": -264
+          },
+          "size": {
+            "width": 72,
+            "height": 32
+          }
+        },
+        {
+          "id": "5392f137-495f-44c2-bd95-4730c4235b0a",
+          "type": "basic.info",
+          "data": {
+            "info": "100%",
+            "readonly": true
+          },
+          "position": {
+            "x": 24,
+            "y": -368
+          },
+          "size": {
+            "width": 72,
+            "height": 32
           }
         }
       ],
