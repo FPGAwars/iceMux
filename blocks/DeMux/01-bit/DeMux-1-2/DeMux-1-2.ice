@@ -32,7 +32,7 @@
           "data": {
             "name": "",
             "clock": false,
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 136,
@@ -65,7 +65,7 @@
           "type": "basic.output",
           "data": {
             "name": "1",
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 1032,
@@ -99,7 +99,7 @@
           "data": {
             "name": "sel",
             "clock": false,
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 136,
@@ -125,7 +125,7 @@
           "type": "basic.output",
           "data": {
             "name": "0",
-            "virtual": false
+            "virtual": true
           },
           "position": {
             "x": 1040,
