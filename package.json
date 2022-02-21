@@ -2,6 +2,9 @@
   "name": "icemux",
   "version": "0.1.0",
   "description": "Collection with muxes and demuxes",
+  "header": "https://github.com/FPGAwars/iceMux/raw/main/wiki/Logo/iceMux-collection-github.png",
+  "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
+  "wiki": "https://github.com/FPGAwars/iceMux/wiki",
   "keywords": ["mux","demux"],
   "license": "GPL-2.0",
   "authors": [{
