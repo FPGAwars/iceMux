@@ -1,0 +1,60 @@
+name: 'Updating English texts and README'
+# -- Extract the English texts to the locale/translation.js
+# -- Update all the .po files
+# -- UPdate the README.md file
+
+# Controls when the action will run. 
+on:
+
+# Manual activation
+ workflow_dispatch:
+
+ push:
+   branches: [ master ]
+   
+ pull_request:
+   branches: [ master ]
+
+ 
+# Only one Job
+jobs:
+
+  #-- Update the English texts
+  update:
+    runs-on: ubuntu-20.04
+
+    steps:
+      
+      - name: Checkout sources
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with: 
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+              sudo apt-get install gettext
+              pip install icm click colorama polib semantic_version
+              icm --version
+
+      - name: Execute the update script
+        run: bash update.sh
+
+      - name: Commit files 
+        run: |
+          git config --local user.email "test@github.com"
+          git config --local user.name "GitHub Action test"
+          git add *
+          git commit -m "Automatic English texts updated"
+
+      - name: Push changes 
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+            
