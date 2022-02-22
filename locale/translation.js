@@ -177,7 +177,7 @@ gettext('Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires')
 gettext('01-Mux-2-1');
 gettext('DeMux');
 gettext('Mux');
-gettext('00-index');
+gettext('000-index');
 gettext('# INDEX: IceMux Collection');
 gettext('## MUX');
 gettext('### Mux-2-1');
@@ -205,7 +205,7 @@ gettext('### Mux-4-1-BUS');
 gettext('### Mux-8-1');
 gettext('### MuxF-8-1');
 gettext('### Mux-8-1-BUS');
-gettext('01-index');
+gettext('001-index');
 gettext('### 9-BITs');
 gettext('### 10-BITs');
 gettext('### 11-BITs');
