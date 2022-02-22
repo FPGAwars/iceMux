@@ -46,24 +46,24 @@
             "clock": false
           },
           "position": {
-            "x": 408,
-            "y": 488
+            "x": 416,
+            "y": 544
           }
         },
         {
           "id": "6981dc81-e55c-4ec7-86ad-d585e88de5e9",
           "type": "basic.info",
           "data": {
-            "info": "## Example: Manual testing of the 1-to-2 Mux\n\n",
+            "info": "## Example: Manual testing of the 1-to-2 Mux\n\nThe LED is on (at its maximum bright) when the button is not pressed.  \nWhen the button is pressed a 50% duty cycle signal is sent to the  \nLED. The LED is on but less bright",
             "readonly": true
           },
           "position": {
-            "x": 440,
-            "y": 72
+            "x": 344,
+            "y": -48
           },
           "size": {
             "width": 544,
-            "height": 56
+            "height": 104
           }
         },
         {
@@ -95,11 +95,123 @@
           "type": "04c9d47a2c9524c97707672f8bb13f0129b306db",
           "position": {
             "x": 408,
-            "y": 240
+            "y": 192
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "daa6e3aa-b5a4-43d9-831e-3b871cbbd96b",
+          "type": "basic.info",
+          "data": {
+            "info": "T-Flip flop",
+            "readonly": true
+          },
+          "position": {
+            "x": 424,
+            "y": 272
+          },
+          "size": {
+            "width": 136,
+            "height": 40
+          }
+        },
+        {
+          "id": "67eb0276-2911-4efa-a4c9-745b218a54b9",
+          "type": "basic.info",
+          "data": {
+            "info": "50% duty cycle",
+            "readonly": true
+          },
+          "position": {
+            "x": 528,
+            "y": 184
+          },
+          "size": {
+            "width": 136,
+            "height": 40
+          }
+        },
+        {
+          "id": "1d8a44b1-fe84-4fc3-a7be-454cdb045d5f",
+          "type": "basic.info",
+          "data": {
+            "info": "Divisor",
+            "readonly": true
+          },
+          "position": {
+            "x": 440,
+            "y": 152
+          },
+          "size": {
+            "width": 96,
+            "height": 32
+          }
+        },
+        {
+          "id": "b51c4121-2ea9-4f7e-bd65-d99aecfdf3de",
+          "type": "basic.info",
+          "data": {
+            "info": "Channel 1",
+            "readonly": true
+          },
+          "position": {
+            "x": 272,
+            "y": 216
+          },
+          "size": {
+            "width": 104,
+            "height": 40
+          }
+        },
+        {
+          "id": "e1bcb6f4-d45d-4406-97da-54df4a738ba1",
+          "type": "basic.info",
+          "data": {
+            "info": "Channel 0",
+            "readonly": true
+          },
+          "position": {
+            "x": 272,
+            "y": 352
+          },
+          "size": {
+            "width": 104,
+            "height": 40
+          }
+        },
+        {
+          "id": "5b510fa7-57bd-410d-937c-214ba78ca67f",
+          "type": "basic.info",
+          "data": {
+            "info": "button for selecting the  \nchannel to send to the LED",
+            "readonly": true
+          },
+          "position": {
+            "x": 360,
+            "y": 488
+          },
+          "size": {
+            "width": 232,
+            "height": 56
+          }
+        },
+        {
+          "id": "8242f114-f5c4-4bc4-8d8f-9bb61adc5473",
+          "type": "basic.info",
+          "data": {
+            "info": "**1-to-2 Mux**",
+            "readonly": true
+          },
+          "position": {
+            "x": 592,
+            "y": 432
+          },
+          "size": {
+            "width": 152,
+            "height": 40
           }
         }
       ],
