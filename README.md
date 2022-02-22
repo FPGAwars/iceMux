@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/0) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/1) |
 
 ## Blocks
 * **DeMux**
@@ -123,136 +123,137 @@ For installing and using this colection in Icestudio follow these steps:
 * **01-Mux-2-1**
   * **Alhambra-II**
     * 01-Mux-2-1-button-LED
-* **DeMux**
-  * **01-bit**
-    * **DeMux-1-2**
+* **TESTs**
+  * **DeMux**
+    * **01-bit**
       * **DeMux-1-2**
-      * **DeMux-1-2-Bus**
-        * **Alhambra-II**
-          * 01-manual-test
-        * **Alhambra-II**
-          * 01-manual-test
-      * **DeMuxF-1-2**
-        * **Alhambra-II**
-          * 01-manual-test
-    * **DeMux-1-4**
+        * **DeMux-1-2**
+        * **DeMux-1-2-Bus**
+          * **Alhambra-II**
+            * 01-manual-test
+          * **Alhambra-II**
+            * 01-manual-test
+        * **DeMuxF-1-2**
+          * **Alhambra-II**
+            * 01-manual-test
       * **DeMux-1-4**
-        * **Alhambra-II**
-          * 01-manual-test
-      * **DeMux-14-Bus**
-        * **Alhambra-II**
-          * 01-manual-test
-    * **DeMux-1-8**
+        * **DeMux-1-4**
+          * **Alhambra-II**
+            * 01-manual-test
+        * **DeMux-14-Bus**
+          * **Alhambra-II**
+            * 01-manual-test
       * **DeMux-1-8**
-      * **DeMux-1-8-Bus**
-        * **Alhambra-II**
-          * 01-manual-test
-        * **Alhambra-II**
-          * 01-manual-test
-* **Mux**
-  * **01-bit**
-    * **Mux-2-1**
+        * **DeMux-1-8**
+        * **DeMux-1-8-Bus**
+          * **Alhambra-II**
+            * 01-manual-test
+          * **Alhambra-II**
+            * 01-manual-test
+  * **Mux**
+    * **01-bit**
       * **Mux-2-1**
-      * **Mux-2-1-Bus**
-        * **Alhambra-II**
-          * 01-manual-testing
+        * **Mux-2-1**
+        * **Mux-2-1-Bus**
+          * **Alhambra-II**
+            * 01-manual-testing
+          * **Alhambra-II**
+            * 01-manual-test
+        * **MuxF-2-1**
+          * **Alhambra-II**
+            * 01-manual-testing
+      * **Mux-4-1**
+        * **Mux-4-1**
+          * **Alhambra-II**
+            * 01-manual-testing
+    * **02-bits**
+      * **Mux2-1**
+        * **Mux2-1**
+          * **Alhambra-II**
+            * 01-manual-test
+    * **03-bits**
+      * **Mux-2-1**
         * **Alhambra-II**
           * 01-manual-test
-      * **MuxF-2-1**
+    * **04-bits**
+      * **Mux-2-1**
         * **Alhambra-II**
-          * 01-manual-testing
-    * **Mux-4-1**
+          * 01-manual-test
+    * **05-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **06-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **07-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **08-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
       * **Mux-4-1**
         * **Alhambra-II**
-          * 01-manual-testing
-  * **02-bits**
-    * **Mux2-1**
-      * **Mux2-1**
+          * 01-manual-test
+    * **09-bits**
+      * **Mux-2-1**
         * **Alhambra-II**
           * 01-manual-test
-  * **03-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **04-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **05-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **06-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **07-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **08-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-    * **Mux-4-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **09-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **10-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **11-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **12-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **15-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **16-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **19-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **20-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **23-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **24-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **27-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **28-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **31-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
-  * **32-bits**
-    * **Mux-2-1**
-      * **Alhambra-II**
-        * 01-manual-test
+    * **10-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **11-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **12-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **15-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **16-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **19-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **20-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **23-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **24-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **27-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **28-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **31-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
+    * **32-bits**
+      * **Mux-2-1**
+        * **Alhambra-II**
+          * 01-manual-test
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)
