@@ -10,10 +10,10 @@ on:
  workflow_dispatch:
 
  push:
-   branches: [ master ]
+   branches: [ main ]
    
  pull_request:
-   branches: [ master ]
+   branches: [ main ]
 
  
 # Only one Job
@@ -28,7 +28,7 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -54,7 +54,7 @@ jobs:
       - name: Push changes 
         uses: ad-m/github-push-action@master
         with:
-          branch: master
+          branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
             
