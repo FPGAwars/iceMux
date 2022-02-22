@@ -54,7 +54,7 @@
           "id": "6981dc81-e55c-4ec7-86ad-d585e88de5e9",
           "type": "basic.info",
           "data": {
-            "info": "## Example: Manual testing of the 1-to-2 Mux\n\nThe LED is on (at its maximum bright) when the button is not pressed.  \nWhen the button is pressed a 50% duty cycle signal is sent to the  \nLED. The LED is on but less bright",
+            "info": "## Example: Manual testing of the 2-to-1 Mux\n\nThe LED is on (at its maximum bright) when the button is not pressed.  \nWhen the button is pressed a 50% duty cycle signal is sent to the  \nLED. The LED is on but less bright",
             "readonly": true
           },
           "position": {
