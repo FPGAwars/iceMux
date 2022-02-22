@@ -190,7 +190,7 @@
           "id": "8242f114-f5c4-4bc4-8d8f-9bb61adc5473",
           "type": "basic.info",
           "data": {
-            "info": "**1-to-2 Mux**",
+            "info": "**2-to-1 Mux**",
             "readonly": true
           },
           "position": {
