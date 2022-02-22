@@ -64,6 +64,8 @@ gettext('Mux-2-1-Bus');
 gettext('2-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus');
 gettext('2-to-1 Multplexer (1-bit channels)');
 gettext('OR2: Two bits input OR gate');
+gettext('Mux-2-1-Verilog');
+gettext('2-to-1 Multplexer (1-bit channels). Verilog implementation');
 gettext('Mux-2-1');
 gettext('MuxF-2-1');
 gettext('2-to-1 Multplexer (1-bit channels). Fippled version');
