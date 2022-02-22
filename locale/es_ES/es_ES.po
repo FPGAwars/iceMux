@@ -528,7 +528,7 @@ msgstr ""
 
 #: translation.js:181
 msgid "# INDEX: IceMux Collection"
-msgstr ""
+msgstr "# ÍNDICE: Colección IceMux"
 
 #: translation.js:182
 msgid "## MUX"
@@ -782,6 +782,10 @@ msgid ""
 "It stores the input data that arrives at cycle n  \n"
 "Its output is shown in the cycle n+1"
 msgstr ""
+"# Biestable D  \n"
+"\n"
+"Almacena el dato de entrada que llega en el ciclo n  \n"
+"Su salida se muestra en el ciclo n+1"
 
 #: translation.js:249 translation.js:251 translation.js:253 translation.js:257
 #: translation.js:330 translation.js:335 translation.js:342 translation.js:373
@@ -1010,6 +1014,10 @@ msgid ""
 "There is no delay between the arrival of a rising edge  \n"
 "and its detection"
 msgstr ""
+"**Retardo**: 0 ciclos de reloj \n"
+"\n"
+"No hay retraso entre la llegada de un flanco de subida  \n"
+"and su detección"
 
 #: translation.js:304
 msgid ""
@@ -1371,7 +1379,7 @@ msgstr ""
 
 #: translation.js:446
 msgid "## 10-bits Mux-2-1: Manual testing\n"
-msgstr ""
+msgstr "## Mux-2-1 de 10 bits: Prueba manual\n"
 
 #: translation.js:450
 msgid "Generic: 11-bits generic constant"
