@@ -114,6 +114,9 @@ For installing and using this colection in Icestudio follow these steps:
 ## Examples
 * 00-index
 * 01-index
+* **01-Mux-2-1**
+  * **Alhambra-II**
+    * 01-Mux-2-1-button-LED
 * **DeMux**
   * **01-bit**
     * **DeMux-1-2**
