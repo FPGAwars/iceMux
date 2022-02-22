@@ -234,7 +234,7 @@ gettext('Divisor');
 gettext('Channel 1');
 gettext('Channel 0');
 gettext('button for selecting the  \nchannel to send to the LED');
-gettext('**1-to-2 Mux**');
+gettext('**2-to-1 Mux**');
 gettext('Parameter: Initial value');
 gettext('System clock');
 gettext('Input data');
