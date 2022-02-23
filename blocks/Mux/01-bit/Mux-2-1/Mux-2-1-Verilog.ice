@@ -17,8 +17,7 @@
           "type": "basic.input",
           "data": {
             "name": "1",
-            "clock": false,
-            "virtual": false
+            "clock": false
           },
           "position": {
             "x": 320,
@@ -30,8 +29,7 @@
           "type": "basic.input",
           "data": {
             "name": "0",
-            "clock": false,
-            "virtual": false
+            "clock": false
           },
           "position": {
             "x": 320,
@@ -65,7 +63,7 @@
           "id": "b64f5610-774d-45c0-bbc6-85b1a6713f43",
           "type": "basic.code",
           "data": {
-            "code": "//-- 2-to-1 Multiplexer \n\nreg _o;\n\nalways @(*) begin\n    case(sel)\n        0: _o = i0;\n        1: _o = i1;\n        default: _o = i0;\n    endcase\nend\n\nassign o = _o;\n",
+            "code": "//-- 2-to-1 Multiplexer \n\nassign o = sel ? i1 : i0;",
             "params": [],
             "ports": {
               "in": [
