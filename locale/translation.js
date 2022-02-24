@@ -72,6 +72,7 @@ gettext('2-to-1 Multplexer (1-bit channels). Fippled version');
 gettext('Mux-4-1');
 gettext('4-to-1 Multplexer (1-bit channels)');
 gettext('MuxF-4-1');
+gettext('4-to-1 Multplexer (1-bit channels). Flipped version');
 gettext('Mux-2-1');
 gettext('Mux-2-1');
 gettext('2-to-1 Multplexer (2-bit channels)');
