@@ -51,6 +51,7 @@ For installing and using this colection in Icestudio follow these steps:
       * Mux-2-1
       * MuxF-2-1
     * **Mux-4-1**
+      * Mux-4-1-verilog
       * Mux-4-1
       * MuxF-4-1
   * **02-bits**
