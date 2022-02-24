@@ -670,6 +670,18 @@
             "width": 144,
             "height": 32
           }
+        },
+        {
+          "id": "09f27f9e-533d-4290-a16d-e5523683d688",
+          "type": "7fdc59cca5912629f1e5976a382a56ccce465de9",
+          "position": {
+            "x": 848,
+            "y": 344
+          },
+          "size": {
+            "width": 96,
+            "height": 160
+          }
         }
       ],
       "wires": []
