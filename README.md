@@ -52,6 +52,7 @@ For installing and using this colection in Icestudio follow these steps:
       * MuxF-2-1
     * **Mux-4-1**
       * Mux-4-1
+      * MuxF-4-1
   * **02-bits**
     * **Mux-2-1**
       * Mux-2-1
@@ -170,6 +171,9 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-manual-testing
       * **Mux-4-1**
         * **Mux-4-1**
+          * **Alhambra-II**
+            * 01-manual-testing
+        * **MuxF-4-1**
           * **Alhambra-II**
             * 01-manual-testing
     * **02-bits**
