@@ -351,6 +351,7 @@ gettext('D Flip-flip\n(System)');
 gettext('Alhambra-II');
 gettext('04-Mux-4-1-Bus4-button-LEDs');
 gettext('## Example: Manual testing of the 4-bits 4-to-1 Mux\n\nThe buttons selects which number is displayed on the LEDs: `0101`, `1010`, `0011`, `1100`');
+gettext('**4-bits 4-to-1 Mux**');
 gettext('DeMux');
 gettext('Mux');
 gettext('01-bit');
