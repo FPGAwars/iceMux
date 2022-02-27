@@ -58,6 +58,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **02-bits**
     * **Mux-2-1**
       * Mux-2-1
+    * **Mux-4-1**
+      * Mux-4-1
   * **03-bits**
     * **Mux-2-1**
       * Mux-2-1
@@ -132,6 +134,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **03-Mux-4-1**
   * **Alhambra-II**
     * 03-Mux-4-1-button-LED
+* **04-Mux-4-1-Bus**
+  * **Alhambra-II**
+    * 04-Mux-4-1-Bus4-button-LEDs
 * **TESTs**
   * **DeMux**
     * **01-bit**
@@ -184,6 +189,10 @@ For installing and using this colection in Icestudio follow these steps:
     * **02-bits**
       * **Mux2-1**
         * **Mux2-1**
+          * **Alhambra-II**
+            * 01-manual-test
+      * **Mux4-1**
+        * **Mux4-1**
           * **Alhambra-II**
             * 01-manual-test
     * **03-bits**
