@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-27 20:21+0000\n"
+"POT-Creation-Date: 2022-02-27 21:08+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -15,31 +15,31 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
-#: translation.js:10 translation.js:400
+#: translation.js:10 translation.js:404
 msgid "DeMux"
 msgstr ""
 
-#: translation.js:11 translation.js:401
+#: translation.js:11 translation.js:405
 msgid "Mux"
 msgstr ""
 
-#: translation.js:12 translation.js:39 translation.js:402 translation.js:427
+#: translation.js:12 translation.js:39 translation.js:406 translation.js:431
 msgid "01-bit"
 msgstr ""
 
-#: translation.js:13 translation.js:24 translation.js:403 translation.js:406
+#: translation.js:13 translation.js:24 translation.js:407 translation.js:410
 msgid "DeMux-1-2"
 msgstr ""
 
-#: translation.js:14 translation.js:32 translation.js:404 translation.js:415
+#: translation.js:14 translation.js:32 translation.js:408 translation.js:419
 msgid "DeMux-1-4"
 msgstr ""
 
-#: translation.js:15 translation.js:38 translation.js:405 translation.js:421
+#: translation.js:15 translation.js:38 translation.js:409 translation.js:425
 msgid "DeMux-1-8"
 msgstr ""
 
-#: translation.js:16 translation.js:407
+#: translation.js:16 translation.js:411
 msgid "DeMux-1-2-Bus"
 msgstr ""
 
@@ -71,7 +71,7 @@ msgstr ""
 msgid "Output"
 msgstr ""
 
-#: translation.js:25 translation.js:408
+#: translation.js:25 translation.js:412
 msgid "DeMuxF-1-2"
 msgstr ""
 
@@ -99,7 +99,7 @@ msgstr ""
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgstr ""
 
-#: translation.js:33 translation.js:422
+#: translation.js:33 translation.js:426
 msgid "DeMux-1-8-Bus"
 msgstr ""
 
@@ -119,119 +119,119 @@ msgstr ""
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
 msgstr ""
 
-#: translation.js:40 translation.js:428
+#: translation.js:40 translation.js:432
 msgid "02-bits"
 msgstr ""
 
-#: translation.js:41 translation.js:429
+#: translation.js:41 translation.js:433
 msgid "03-bits"
 msgstr ""
 
-#: translation.js:42 translation.js:430
+#: translation.js:42 translation.js:434
 msgid "04-bits"
 msgstr ""
 
-#: translation.js:43 translation.js:431
+#: translation.js:43 translation.js:435
 msgid "05-bits"
 msgstr ""
 
-#: translation.js:44 translation.js:432
+#: translation.js:44 translation.js:436
 msgid "06-bits"
 msgstr ""
 
-#: translation.js:45 translation.js:433
+#: translation.js:45 translation.js:437
 msgid "07-bits"
 msgstr ""
 
-#: translation.js:46 translation.js:434
+#: translation.js:46 translation.js:438
 msgid "08-bits"
 msgstr ""
 
-#: translation.js:47 translation.js:435
+#: translation.js:47 translation.js:439
 msgid "09-bits"
 msgstr ""
 
-#: translation.js:48 translation.js:436
+#: translation.js:48 translation.js:440
 msgid "10-bits"
 msgstr ""
 
-#: translation.js:49 translation.js:437
+#: translation.js:49 translation.js:441
 msgid "11-bits"
 msgstr ""
 
-#: translation.js:50 translation.js:438
+#: translation.js:50 translation.js:442
 msgid "12-bits"
 msgstr ""
 
-#: translation.js:51 translation.js:439
+#: translation.js:51 translation.js:443
 msgid "15-bits"
 msgstr ""
 
-#: translation.js:52 translation.js:440
+#: translation.js:52 translation.js:444
 msgid "16-bits"
 msgstr ""
 
-#: translation.js:53 translation.js:441
+#: translation.js:53 translation.js:445
 msgid "19-bits"
 msgstr ""
 
-#: translation.js:54 translation.js:442
+#: translation.js:54 translation.js:446
 msgid "20-bits"
 msgstr ""
 
-#: translation.js:55 translation.js:443
+#: translation.js:55 translation.js:447
 msgid "23-bits"
 msgstr ""
 
-#: translation.js:56 translation.js:444
+#: translation.js:56 translation.js:448
 msgid "24-bits"
 msgstr ""
 
-#: translation.js:57 translation.js:445
+#: translation.js:57 translation.js:449
 msgid "27-bits"
 msgstr ""
 
-#: translation.js:58 translation.js:446
+#: translation.js:58 translation.js:450
 msgid "28-bits"
 msgstr ""
 
-#: translation.js:59 translation.js:447
+#: translation.js:59 translation.js:451
 msgid "31-bits"
 msgstr ""
 
-#: translation.js:60 translation.js:448
+#: translation.js:60 translation.js:452
 msgid "32-bits"
 msgstr ""
 
-#: translation.js:61 translation.js:70 translation.js:87 translation.js:89
-#: translation.js:97 translation.js:99 translation.js:104 translation.js:106
-#: translation.js:110 translation.js:111 translation.js:115 translation.js:116
-#: translation.js:120 translation.js:124 translation.js:126 translation.js:132
-#: translation.js:133 translation.js:137 translation.js:138 translation.js:142
-#: translation.js:143 translation.js:147 translation.js:148 translation.js:152
-#: translation.js:153 translation.js:157 translation.js:162 translation.js:167
-#: translation.js:172 translation.js:177 translation.js:182 translation.js:187
-#: translation.js:192 translation.js:197 translation.js:449 translation.js:452
-#: translation.js:497 translation.js:507 translation.js:517 translation.js:520
-#: translation.js:523 translation.js:527 translation.js:536 translation.js:544
-#: translation.js:551 translation.js:559 translation.js:566 translation.js:573
-#: translation.js:577 translation.js:583 translation.js:588 translation.js:593
-#: translation.js:598 translation.js:603 translation.js:608 translation.js:613
+#: translation.js:61 translation.js:70 translation.js:91 translation.js:93
+#: translation.js:101 translation.js:103 translation.js:108 translation.js:110
+#: translation.js:114 translation.js:115 translation.js:119 translation.js:120
+#: translation.js:124 translation.js:128 translation.js:130 translation.js:136
+#: translation.js:137 translation.js:141 translation.js:142 translation.js:146
+#: translation.js:147 translation.js:151 translation.js:152 translation.js:156
+#: translation.js:157 translation.js:161 translation.js:166 translation.js:171
+#: translation.js:176 translation.js:181 translation.js:186 translation.js:191
+#: translation.js:196 translation.js:201 translation.js:453 translation.js:456
+#: translation.js:503 translation.js:513 translation.js:523 translation.js:526
+#: translation.js:529 translation.js:533 translation.js:542 translation.js:550
+#: translation.js:557 translation.js:565 translation.js:572 translation.js:579
+#: translation.js:583 translation.js:589 translation.js:594 translation.js:599
+#: translation.js:604 translation.js:609 translation.js:614 translation.js:619
 msgid "Mux-2-1"
 msgstr ""
 
-#: translation.js:62 translation.js:79 translation.js:88 translation.js:93
-#: translation.js:98 translation.js:102 translation.js:105 translation.js:108
-#: translation.js:125 translation.js:130 translation.js:450 translation.js:461
-#: translation.js:508 translation.js:528
+#: translation.js:62 translation.js:79 translation.js:92 translation.js:97
+#: translation.js:102 translation.js:106 translation.js:109 translation.js:112
+#: translation.js:129 translation.js:134 translation.js:454 translation.js:465
+#: translation.js:514 translation.js:534
 msgid "Mux-4-1"
 msgstr ""
 
-#: translation.js:63 translation.js:82 translation.js:451 translation.js:474
+#: translation.js:63 translation.js:88 translation.js:455 translation.js:478
 msgid "Mux-8-1"
 msgstr ""
 
-#: translation.js:64 translation.js:453
+#: translation.js:64 translation.js:457
 msgid "Mux-2-1-Bus"
 msgstr ""
 
@@ -255,7 +255,7 @@ msgstr ""
 msgid "2-to-1 Multplexer (1-bit channels). Verilog implementation"
 msgstr ""
 
-#: translation.js:71 translation.js:454
+#: translation.js:71 translation.js:458
 msgid "MuxF-2-1"
 msgstr ""
 
@@ -263,7 +263,7 @@ msgstr ""
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
 msgstr ""
 
-#: translation.js:73 translation.js:462
+#: translation.js:73 translation.js:466
 msgid "Mux-4-1-Bus"
 msgstr ""
 
@@ -287,7 +287,7 @@ msgstr ""
 msgid "4-to-1 Multplexer (1-bit channels). Verilog implementation"
 msgstr ""
 
-#: translation.js:80 translation.js:463
+#: translation.js:80 translation.js:467
 msgid "MuxF-4-1"
 msgstr ""
 
@@ -295,530 +295,546 @@ msgstr ""
 msgid "4-to-1 Multplexer (1-bit channels). Flipped version"
 msgstr ""
 
+#: translation.js:82 translation.js:479
+msgid "Mux-8-1-Bus"
+msgstr ""
+
 #: translation.js:83
-msgid "8-to-1 Multplexer (1-bit channels)"
+msgid "8-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
 msgstr ""
 
 #: translation.js:84
+msgid "8-to-1 Multplexer (1-bit channels)"
+msgstr ""
+
+#: translation.js:85
 msgid "Bus3-Split-2-1: Split the 3-bits bus into two: 2-bit and 1-bits buses"
 msgstr ""
 
-#: translation.js:85 translation.js:475
+#: translation.js:86
+msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
+msgstr ""
+
+#: translation.js:87
+msgid "Mux-8-1-verilog"
+msgstr ""
+
+#: translation.js:89 translation.js:480
 msgid "MuxF-8-1"
 msgstr ""
 
-#: translation.js:86
+#: translation.js:90
 msgid "8-to-1 Multplexer (1-bit channels). Flipped version"
 msgstr ""
 
-#: translation.js:90
+#: translation.js:94
 msgid "2-to-1 Multplexer (2-bit channels)"
 msgstr ""
 
-#: translation.js:91
+#: translation.js:95
 msgid "Channel A"
 msgstr ""
 
-#: translation.js:92
+#: translation.js:96
 msgid "Channel B"
 msgstr ""
 
-#: translation.js:94
+#: translation.js:98
 msgid "4-to-1 Multplexer (2-bit channels)"
 msgstr ""
 
-#: translation.js:95
+#: translation.js:99
 msgid "Channel D"
 msgstr ""
 
-#: translation.js:96
+#: translation.js:100
 msgid "Channel C"
 msgstr ""
 
-#: translation.js:100
+#: translation.js:104
 msgid "2-to-1 Multplexer (3-bit channels)"
 msgstr ""
 
-#: translation.js:101
+#: translation.js:105
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgstr ""
 
-#: translation.js:103
+#: translation.js:107
 msgid "4-to-1 Multplexer (3-bit channels)"
 msgstr ""
 
-#: translation.js:107
+#: translation.js:111
 msgid "2-to-1 Multplexer (4-bit channels)"
 msgstr ""
 
-#: translation.js:109
+#: translation.js:113
 msgid "4-to-1 Multplexer (4-bit channels)"
 msgstr ""
 
-#: translation.js:112
+#: translation.js:116
 msgid "2-to-1 Multplexer (5-bit channels)"
 msgstr ""
 
-#: translation.js:113
+#: translation.js:117
 msgid "Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits"
 msgstr ""
 
-#: translation.js:114
+#: translation.js:118
 msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
 msgstr ""
 
-#: translation.js:117
+#: translation.js:121
 msgid "2-to-1 Multplexer (6-bit channels)"
 msgstr ""
 
-#: translation.js:118
+#: translation.js:122
 msgid "Bus6-Split-2-4: Split the 6-bits bus into two buses of 2 and 4 wires"
 msgstr ""
 
-#: translation.js:119
+#: translation.js:123
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
 msgstr ""
 
-#: translation.js:121
+#: translation.js:125
 msgid "2-to-1 Multplexer (7-bit channels)"
 msgstr ""
 
-#: translation.js:122
+#: translation.js:126
 msgid "Bus7-Join-3-4: Join the two buses into a 7-bits Bus"
 msgstr ""
 
-#: translation.js:123
+#: translation.js:127
 msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
 msgstr ""
 
-#: translation.js:127
+#: translation.js:131
 msgid "2-to-1 Multplexer (8-bit channels)"
 msgstr ""
 
-#: translation.js:128
+#: translation.js:132
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
 msgstr ""
 
-#: translation.js:129
+#: translation.js:133
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
 msgstr ""
 
-#: translation.js:131
+#: translation.js:135
 msgid "4-to-1 Multplexer (8-bit channels)"
 msgstr ""
 
-#: translation.js:134
+#: translation.js:138
 msgid "2-to-1 Multplexer (9-bit channels)"
 msgstr ""
 
-#: translation.js:135
+#: translation.js:139
 msgid "Bus9-Split-half: Split the 9-bits bus into two buses of 1 and 8 wires"
 msgstr ""
 
-#: translation.js:136
+#: translation.js:140
 msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
 msgstr ""
 
-#: translation.js:139
+#: translation.js:143
 msgid "2-to-1 Multplexer (10-bit channels)"
 msgstr ""
 
-#: translation.js:140
+#: translation.js:144
 msgid "Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires"
 msgstr ""
 
-#: translation.js:141
+#: translation.js:145
 msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
 msgstr ""
 
-#: translation.js:144
+#: translation.js:148
 msgid "2-to-1 Multplexer (11-bit channels)"
 msgstr ""
 
-#: translation.js:145
+#: translation.js:149
 msgid "Bus11-Split-3-8: Split the 11-bits bus into two buses of 3 and 8 wires"
 msgstr ""
 
-#: translation.js:146
+#: translation.js:150
 msgid "Bus11-Join-3-8: Join the two buses into an 11-bits Bus"
 msgstr ""
 
-#: translation.js:149
+#: translation.js:153
 msgid "2-to-1 Multplexer (12-bit channels)"
 msgstr ""
 
-#: translation.js:150
+#: translation.js:154
 msgid "Bus12-Split-4-8: Split the 12-bits bus into two buses of 4 and 8 wires"
 msgstr ""
 
-#: translation.js:151
+#: translation.js:155
 msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
 msgstr ""
 
-#: translation.js:154
+#: translation.js:158
 msgid "2-to-1 Multplexer (15-bit channels)"
 msgstr ""
 
-#: translation.js:155
+#: translation.js:159
 msgid "Bus15-Split-7-8: Split the 15-bits bus into two buses of 7 and 8 bits"
 msgstr ""
 
-#: translation.js:156
+#: translation.js:160
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr ""
 
-#: translation.js:158 translation.js:163 translation.js:168 translation.js:173
-#: translation.js:178 translation.js:183 translation.js:188 translation.js:193
-#: translation.js:198
+#: translation.js:162 translation.js:167 translation.js:172 translation.js:177
+#: translation.js:182 translation.js:187 translation.js:192 translation.js:197
+#: translation.js:202
 msgid "mux-2-1"
 msgstr ""
 
-#: translation.js:159
+#: translation.js:163
 msgid "2-to-1 Multplexer (16-bit channels)"
 msgstr ""
 
-#: translation.js:160
+#: translation.js:164
 msgid "Bus16-Split-half: Split the 16-bits bus into two buses of the same size"
 msgstr ""
 
-#: translation.js:161
+#: translation.js:165
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
 msgstr ""
 
-#: translation.js:164
+#: translation.js:168
 msgid "2-to-1 Multplexer (19-bit channels)"
 msgstr ""
 
-#: translation.js:165
+#: translation.js:169
 msgid ""
 "Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3, 8 and 8 wires"
 msgstr ""
 
-#: translation.js:166
+#: translation.js:170
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
 msgstr ""
 
-#: translation.js:169
+#: translation.js:173
 msgid "2-to-1 Multplexer (20-bit channels)"
 msgstr ""
 
-#: translation.js:170
+#: translation.js:174
 msgid ""
 "Bus20-Split-4-8-8: Split the 20-bits bus into three buses of 4, 8 and 8 wires"
 msgstr ""
 
-#: translation.js:171
+#: translation.js:175
 msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
 msgstr ""
 
-#: translation.js:174
+#: translation.js:178
 msgid "2-to-1 Multplexer (23-bit channels)"
 msgstr ""
 
-#: translation.js:175
+#: translation.js:179
 msgid ""
 "Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3,8 and 8 bits"
 msgstr ""
 
-#: translation.js:176
+#: translation.js:180
 msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
 msgstr ""
 
-#: translation.js:179
+#: translation.js:183
 msgid "2-to-1 Multplexer (24-bit channels)"
 msgstr ""
 
-#: translation.js:180
+#: translation.js:184
 msgid ""
 "Bus24-Split-one-third: Split the 24-bits bus into three buses of  the same "
 "size"
 msgstr ""
 
-#: translation.js:181
+#: translation.js:185
 msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
 msgstr ""
 
-#: translation.js:184
+#: translation.js:188
 msgid "2-to-1 Multplexer (27-bit channels)"
 msgstr ""
 
-#: translation.js:185
+#: translation.js:189
 msgid ""
 "Bus27-Split-3-8-8-8: Split the 27-bits bus into four buses of 7,8, 8 and 8 "
 "bits"
 msgstr ""
 
-#: translation.js:186
+#: translation.js:190
 msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
 msgstr ""
 
-#: translation.js:189
+#: translation.js:193
 msgid "2-to-1 Multplexer (28-bit channels)"
 msgstr ""
 
-#: translation.js:190
+#: translation.js:194
 msgid ""
 "Bus28-Split-4-8-8-8: Split the 28-bits bus into four buses of 4, 8, 8, and 8 "
 "wires"
 msgstr ""
 
-#: translation.js:191
+#: translation.js:195
 msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
 msgstr ""
 
-#: translation.js:194
+#: translation.js:198
 msgid "2-to-1 Multplexer (31-bit channels)"
 msgstr ""
 
-#: translation.js:195
+#: translation.js:199
 msgid ""
 "Bus31-Split-7-8-8-8: Split the 31-bits bus into four buses of 7,8, 8 and 8 "
 "bits"
 msgstr ""
 
-#: translation.js:196
+#: translation.js:200
 msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
 msgstr ""
 
-#: translation.js:199
+#: translation.js:203
 msgid "2-to-1 Multplexer (32-bit channels)"
 msgstr ""
 
-#: translation.js:200
+#: translation.js:204
 msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
 msgstr ""
 
-#: translation.js:201
+#: translation.js:205
 msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
 msgstr ""
 
-#: translation.js:202
+#: translation.js:206
 msgid "01-Mux-2-1"
 msgstr ""
 
-#: translation.js:203
+#: translation.js:207
 msgid "02-Mux-2-1-Bus"
 msgstr ""
 
-#: translation.js:204
+#: translation.js:208
 msgid "03-Mux-4-1"
 msgstr ""
 
-#: translation.js:205
+#: translation.js:209
 msgid "04-Mux-4-1-Bus"
 msgstr ""
 
-#: translation.js:206
+#: translation.js:210
 msgid "05-Mux-8-1"
 msgstr ""
 
-#: translation.js:207
+#: translation.js:211
 msgid "TESTs"
 msgstr ""
 
-#: translation.js:208
+#: translation.js:212
 msgid "000-index"
 msgstr ""
 
-#: translation.js:209
+#: translation.js:213
 msgid "# INDEX: IceMux Collection"
 msgstr "# ÍNDICE: Colección IceMux"
 
-#: translation.js:210
+#: translation.js:214
 msgid "## MUX"
 msgstr ""
 
-#: translation.js:211
+#: translation.js:215
 msgid "### Mux-2-1"
 msgstr ""
 
-#: translation.js:212
+#: translation.js:216
 msgid "### Mux-4-1"
 msgstr ""
 
-#: translation.js:213
+#: translation.js:217
 msgid "### 1-BIT"
 msgstr ""
 
-#: translation.js:214
+#: translation.js:218
 msgid "### MuxF-2-1"
 msgstr ""
 
-#: translation.js:215
+#: translation.js:219
 msgid "### Mux-2-1-BUS"
 msgstr ""
 
-#: translation.js:216
+#: translation.js:220
 msgid "## DEMUX"
 msgstr ""
 
-#: translation.js:217
+#: translation.js:221
 msgid "### DeMux-1-2"
 msgstr ""
 
-#: translation.js:218
+#: translation.js:222
 msgid "### DeMuxF-1-2"
 msgstr ""
 
-#: translation.js:219
+#: translation.js:223
 msgid "### DeMux-1-2-BUS"
 msgstr ""
 
-#: translation.js:220
+#: translation.js:224
 msgid "### 2-BITs"
 msgstr ""
 
-#: translation.js:221
+#: translation.js:225
 msgid "### 3-BITs"
 msgstr ""
 
-#: translation.js:222
+#: translation.js:226
 msgid "### 4-BITs"
 msgstr ""
 
-#: translation.js:223
+#: translation.js:227
 msgid "### 5-BITs"
 msgstr ""
 
-#: translation.js:224
+#: translation.js:228
 msgid "### 6-BITs"
 msgstr ""
 
-#: translation.js:225
+#: translation.js:229
 msgid "### 7-BITs"
 msgstr ""
 
-#: translation.js:226
+#: translation.js:230
 msgid "### 8-BITs"
 msgstr ""
 
-#: translation.js:227
+#: translation.js:231
 msgid "### DeMux-1-4"
 msgstr ""
 
-#: translation.js:228
+#: translation.js:232
 msgid "### DeMux-1-8"
 msgstr ""
 
-#: translation.js:229
+#: translation.js:233
 msgid "### DeMux-1-4-BUS"
 msgstr ""
 
-#: translation.js:230
+#: translation.js:234
 msgid "### DeMux-1-8-BUS"
 msgstr ""
 
-#: translation.js:231
+#: translation.js:235
 msgid "### MuxF-4-1"
 msgstr ""
 
-#: translation.js:232
+#: translation.js:236
 msgid "### Mux-4-1-BUS"
 msgstr ""
 
-#: translation.js:233
+#: translation.js:237
 msgid "### Mux-8-1"
 msgstr ""
 
-#: translation.js:234
+#: translation.js:238
 msgid "### MuxF-8-1"
 msgstr ""
 
-#: translation.js:235
+#: translation.js:239
 msgid "### Mux-8-1-BUS"
 msgstr ""
 
-#: translation.js:236
+#: translation.js:240
 msgid "001-index"
 msgstr ""
 
-#: translation.js:237
+#: translation.js:241
 msgid "### 9-BITs"
 msgstr ""
 
-#: translation.js:238
+#: translation.js:242
 msgid "### 10-BITs"
 msgstr ""
 
-#: translation.js:239
+#: translation.js:243
 msgid "### 11-BITs"
 msgstr ""
 
-#: translation.js:240
+#: translation.js:244
 msgid "### 12-BITs"
 msgstr ""
 
-#: translation.js:241
+#: translation.js:245
 msgid "### 15-BITs"
 msgstr ""
 
-#: translation.js:242
+#: translation.js:246
 msgid "### 16-BITs"
 msgstr ""
 
-#: translation.js:243
+#: translation.js:247
 msgid "### 19-BITs"
 msgstr ""
 
-#: translation.js:244
+#: translation.js:248
 msgid "### 20-BITs"
 msgstr ""
 
-#: translation.js:245
+#: translation.js:249
 msgid "### 23-BITs"
 msgstr ""
 
-#: translation.js:246
+#: translation.js:250
 msgid "### 24-BITs"
 msgstr ""
 
-#: translation.js:247
+#: translation.js:251
 msgid "### 27-BITs"
 msgstr ""
 
-#: translation.js:248
+#: translation.js:252
 msgid "### 28-BITs"
 msgstr ""
 
-#: translation.js:249
+#: translation.js:253
 msgid "### 31-BITs"
 msgstr ""
 
-#: translation.js:250
+#: translation.js:254
 msgid "### 32-BITs"
 msgstr ""
 
-#: translation.js:251 translation.js:268 translation.js:274 translation.js:358
-#: translation.js:362 translation.js:409 translation.js:410 translation.js:413
-#: translation.js:417 translation.js:419 translation.js:423 translation.js:424
-#: translation.js:455 translation.js:456 translation.js:459 translation.js:464
-#: translation.js:465 translation.js:472 translation.js:476 translation.js:486
-#: translation.js:492 translation.js:499 translation.js:501 translation.js:509
-#: translation.js:511 translation.js:518 translation.js:521 translation.js:524
-#: translation.js:529 translation.js:533 translation.js:537 translation.js:545
-#: translation.js:552 translation.js:560 translation.js:567 translation.js:574
-#: translation.js:578 translation.js:584 translation.js:589 translation.js:594
-#: translation.js:599 translation.js:604 translation.js:609 translation.js:614
+#: translation.js:255 translation.js:272 translation.js:278 translation.js:362
+#: translation.js:366 translation.js:413 translation.js:414 translation.js:417
+#: translation.js:421 translation.js:423 translation.js:427 translation.js:428
+#: translation.js:459 translation.js:460 translation.js:463 translation.js:468
+#: translation.js:469 translation.js:476 translation.js:481 translation.js:492
+#: translation.js:498 translation.js:505 translation.js:507 translation.js:515
+#: translation.js:517 translation.js:524 translation.js:527 translation.js:530
+#: translation.js:535 translation.js:539 translation.js:543 translation.js:551
+#: translation.js:558 translation.js:566 translation.js:573 translation.js:580
+#: translation.js:584 translation.js:590 translation.js:595 translation.js:600
+#: translation.js:605 translation.js:610 translation.js:615 translation.js:620
 msgid "Alhambra-II"
 msgstr ""
 
-#: translation.js:252
+#: translation.js:256
 msgid "01-Mux-2-1-button-LED"
 msgstr ""
 
-#: translation.js:253
+#: translation.js:257
 msgid "Constant bit 1"
 msgstr ""
 
-#: translation.js:254
+#: translation.js:258
 msgid "System TFF: It toogles its output on every system cycle"
 msgstr ""
 
-#: translation.js:255
+#: translation.js:259
 msgid "D Flip-flop (verilog implementation)"
 msgstr ""
 
-#: translation.js:256
+#: translation.js:260
 #, javascript-format
 msgid ""
 "## Example: Manual testing of the 2-to-1 Mux\n"
@@ -828,50 +844,50 @@ msgid ""
 "LED. The LED is on but less bright"
 msgstr ""
 
-#: translation.js:257
+#: translation.js:261
 msgid "T-Flip flop"
 msgstr ""
 
-#: translation.js:258
+#: translation.js:262
 #, javascript-format
 msgid "50% duty cycle"
 msgstr ""
 
-#: translation.js:259
+#: translation.js:263
 msgid "Divisor"
 msgstr ""
 
-#: translation.js:260
+#: translation.js:264
 msgid "Channel 1"
 msgstr ""
 
-#: translation.js:261
+#: translation.js:265
 msgid "Channel 0"
 msgstr ""
 
-#: translation.js:262
+#: translation.js:266
 msgid ""
 "button for selecting the  \n"
 "channel to send to the LED"
 msgstr ""
 
-#: translation.js:263
+#: translation.js:267
 msgid "**2-to-1 Mux**"
 msgstr "**Mux-2-1**"
 
-#: translation.js:264
+#: translation.js:268
 msgid "Parameter: Initial value"
 msgstr ""
 
-#: translation.js:265
+#: translation.js:269
 msgid "System clock"
 msgstr ""
 
-#: translation.js:266
+#: translation.js:270
 msgid "Input data"
 msgstr ""
 
-#: translation.js:267
+#: translation.js:271
 msgid ""
 "# D Flip-Flop  \n"
 "\n"
@@ -883,15 +899,15 @@ msgstr ""
 "Almacena el dato de entrada que llega en el ciclo n  \n"
 "Su salida se muestra en el ciclo n+1"
 
-#: translation.js:269
+#: translation.js:273
 msgid "02-Mux-2-1-Bus4-button-LED"
 msgstr ""
 
-#: translation.js:270
+#: translation.js:274
 msgid "Generic: 4-bits generic constant (0-15)"
 msgstr ""
 
-#: translation.js:271
+#: translation.js:275
 msgid ""
 "## Example: Manual testing of the 4-bits 2-to-1 Mux\n"
 "\n"
@@ -899,186 +915,186 @@ msgid ""
 "contains the 4-bit number `1010` and the channel 1 has `0101`"
 msgstr ""
 
-#: translation.js:272
+#: translation.js:276
 msgid ""
 "button for selecting the  \n"
 "channel to send to the LEDs"
 msgstr ""
 
-#: translation.js:273
+#: translation.js:277
 #, fuzzy
 msgid "**4-bits 2-to-1 Mux**"
 msgstr "**Mux-2-1**"
 
-#: translation.js:275
+#: translation.js:279
 msgid "03-Mux-4-1-button-LED"
 msgstr ""
 
-#: translation.js:276
+#: translation.js:280
 msgid "Constant bit 0"
 msgstr ""
 
-#: translation.js:277
+#: translation.js:281
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
 msgstr ""
 
-#: translation.js:278
+#: translation.js:282
 msgid ""
 "Rising-edge detector. It generates a 1-period pulse (tic) when a rising edge "
 "is detected on the input"
 msgstr ""
 
-#: translation.js:279
+#: translation.js:283
 msgid "Configurable button (pull-up on/off. Not on/off)"
 msgstr ""
 
-#: translation.js:280
+#: translation.js:284
 msgid "FPGA internal pull-up configuration on the input port"
 msgstr ""
 
-#: translation.js:281
+#: translation.js:285
 msgid "Remove the rebound on a mechanical switch"
 msgstr ""
 
-#: translation.js:282
+#: translation.js:286
 msgid "1bit register (implemented in verilog)"
 msgstr ""
 
-#: translation.js:283
+#: translation.js:287
 msgid "16-bits Syscounter with reset"
 msgstr ""
 
-#: translation.js:284
+#: translation.js:288
 msgid "DFF-rst-x16: 16 D flip-flops in paralell with reset"
 msgstr ""
 
-#: translation.js:285
+#: translation.js:289
 msgid "DFF-rst-x04: Three D flip-flops in paralell with reset"
 msgstr ""
 
-#: translation.js:286
+#: translation.js:290
 msgid "DFF-rst-x01: D Flip flop with reset input. When rst=1, the DFF is 0"
 msgstr ""
 
-#: translation.js:287
+#: translation.js:291
 msgid ""
 "Bus16-Split-quarter: Split the 16-bits bus into four buses of the same size"
 msgstr ""
 
-#: translation.js:288
+#: translation.js:292
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
 msgstr ""
 
-#: translation.js:289
+#: translation.js:293
 msgid "Inc1-16bit: Increment a 16-bits number by one"
 msgstr ""
 
-#: translation.js:290
+#: translation.js:294
 msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
 msgstr ""
 
-#: translation.js:291
+#: translation.js:295
 msgid "Generic: 16-bits generic constant"
 msgstr ""
 
-#: translation.js:292
+#: translation.js:296
 msgid "Adder-16bits: Adder of two operands of 16 bits"
 msgstr ""
 
-#: translation.js:293
+#: translation.js:297
 msgid "Adder-8bits: Adder of two operands of 8 bits"
 msgstr ""
 
-#: translation.js:294
+#: translation.js:298
 msgid "Adder-4bits: Adder of two operands of 4 bits"
 msgstr ""
 
-#: translation.js:295
+#: translation.js:299
 msgid "Adder-1bit: Adder of two operands of 1 bit"
 msgstr ""
 
-#: translation.js:296
+#: translation.js:300
 msgid "AdderC-1bit: Adder of two operands of 1 bit plus the carry in"
 msgstr ""
 
-#: translation.js:297
+#: translation.js:301
 msgid "XOR gate: two bits input xor gate"
 msgstr ""
 
-#: translation.js:298
+#: translation.js:302
 msgid "AdderC-4bits: Adder of two operands of 4 bits and Carry in"
 msgstr ""
 
-#: translation.js:299
+#: translation.js:303
 msgid "AdderC-8bits: Adder of two operands of 8 bits and Carry in"
 msgstr ""
 
-#: translation.js:300
+#: translation.js:304
 msgid ""
 "Edges detector. It generates a 1-period pulse (tic) when either a rising "
 "edge or a falling edge is detected on the input"
 msgstr ""
 
-#: translation.js:301
+#: translation.js:305
 msgid "Sync 1-bit input with the system clock domain"
 msgstr ""
 
-#: translation.js:302
+#: translation.js:306
 msgid ""
 "Select positive or negative logic for the input (0=positive, 1=negative)"
 msgstr ""
 
-#: translation.js:303
+#: translation.js:307
 msgid "1-bit generic constant (0/1)"
 msgstr ""
 
-#: translation.js:304
+#: translation.js:308
 msgid "Counter-x02: 2-bits counter"
 msgstr ""
 
-#: translation.js:305
+#: translation.js:309
 msgid "Generic component with clk input"
 msgstr ""
 
-#: translation.js:306
+#: translation.js:310
 msgid "Reg: 1-Bit register"
 msgstr ""
 
-#: translation.js:307
+#: translation.js:311
 msgid "Inc1-2bit: Increment a 2-bits number by one"
 msgstr ""
 
-#: translation.js:308
+#: translation.js:312
 msgid "AdderK-2bit: Adder of 2-bit operand and 2-bit constant"
 msgstr ""
 
-#: translation.js:309
+#: translation.js:313
 msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr ""
 
-#: translation.js:310
+#: translation.js:314
 msgid "Adder-2bits: Adder of two operands of 2 bits"
 msgstr ""
 
-#: translation.js:311
+#: translation.js:315
 msgid ""
 "sysclk_div4: Generate a signal from the division of the system clock by 4"
 msgstr ""
 
-#: translation.js:312
+#: translation.js:316
 msgid "2-bits Syscounter"
 msgstr ""
 
-#: translation.js:313
+#: translation.js:317
 msgid "DFF-02: Two D flip-flops in paralell"
 msgstr ""
 
-#: translation.js:314
+#: translation.js:318
 msgid ""
 "sysclk_div: Generate a signal from the division of the system clock by 2"
 msgstr ""
 
-#: translation.js:315
+#: translation.js:319
 msgid ""
 "## Example: Manual testing of the 4-to-1 Mux\n"
 "\n"
@@ -1088,52 +1104,52 @@ msgid ""
 "from channel 0"
 msgstr ""
 
-#: translation.js:316
+#: translation.js:320
 #, fuzzy
 msgid "**4-to-1 Mux**"
 msgstr "**Mux-2-1**"
 
-#: translation.js:317
+#: translation.js:321
 msgid "### 25%"
 msgstr ""
 
-#: translation.js:318
+#: translation.js:322
 msgid "### 0%"
 msgstr ""
 
-#: translation.js:319
+#: translation.js:323
 msgid "### 100%"
 msgstr ""
 
-#: translation.js:320
+#: translation.js:324
 msgid "### 50%"
 msgstr ""
 
-#: translation.js:321
+#: translation.js:325
 msgid "2-bits counter"
 msgstr ""
 
-#: translation.js:322
+#: translation.js:326
 msgid "Button state signal"
 msgstr ""
 
-#: translation.js:323
+#: translation.js:327
 msgid "Tic: button pressed"
 msgstr ""
 
-#: translation.js:324
+#: translation.js:328
 msgid "Rising edge detector"
 msgstr ""
 
-#: translation.js:325
+#: translation.js:329
 msgid "Pull up on/off"
 msgstr ""
 
-#: translation.js:326
+#: translation.js:330
 msgid "Not on/off"
 msgstr ""
 
-#: translation.js:327
+#: translation.js:331
 msgid ""
 "## Rising edge detector\n"
 "\n"
@@ -1141,23 +1157,23 @@ msgid ""
 "input signal"
 msgstr ""
 
-#: translation.js:328
+#: translation.js:332
 msgid "Input signal"
 msgstr ""
 
-#: translation.js:329
+#: translation.js:333
 msgid ""
 "Current signal  \n"
 "state"
 msgstr ""
 
-#: translation.js:330
+#: translation.js:334
 msgid ""
 "Signal state in the previous  \n"
 "clock cycle"
 msgstr ""
 
-#: translation.js:331
+#: translation.js:335
 msgid ""
 "If the current signal is 1 and its value in  \n"
 "the previous clock cycle was 0, it means  \n"
@@ -1167,7 +1183,7 @@ msgid ""
 "In any other case the output is 0"
 msgstr ""
 
-#: translation.js:332
+#: translation.js:336
 msgid ""
 "**Delay**: 0 clock cycles \n"
 "\n"
@@ -1179,18 +1195,18 @@ msgstr ""
 "No hay retraso entre la llegada de un flanco de subida  \n"
 "and su detección"
 
-#: translation.js:333
+#: translation.js:337
 msgid ""
 "Internal pull-up  \n"
 "* 0: OFF\n"
 "* 1: ON"
 msgstr ""
 
-#: translation.js:334
+#: translation.js:338
 msgid "Synchronization stage"
 msgstr ""
 
-#: translation.js:335
+#: translation.js:339
 msgid ""
 "Normalization stage\n"
 "\n"
@@ -1198,11 +1214,11 @@ msgid ""
 "* 1: signal inverted"
 msgstr ""
 
-#: translation.js:336
+#: translation.js:340
 msgid "Debouncing stage"
 msgstr ""
 
-#: translation.js:337
+#: translation.js:341
 msgid ""
 "### Pull-up parameter:\n"
 "\n"
@@ -1210,36 +1226,36 @@ msgid ""
 "1: Pull-up activated"
 msgstr ""
 
-#: translation.js:338
+#: translation.js:342
 msgid ""
 "Only an FPGA pin can  \n"
 "be connected here!!!"
 msgstr ""
 
-#: translation.js:339
+#: translation.js:343
 msgid ""
 "The pull-up is connected  \n"
 "by default"
 msgstr ""
 
-#: translation.js:340
+#: translation.js:344
 msgid "Edge detector"
 msgstr ""
 
-#: translation.js:341
+#: translation.js:345
 msgid ""
 "Whenever there is a change in  \n"
 "the input, the counter is started"
 msgstr ""
 
-#: translation.js:342
+#: translation.js:346
 msgid ""
 "If the counter reaches it maximum  \n"
 "value, the input is considered stable  \n"
 "and it is captured"
 msgstr ""
 
-#: translation.js:343
+#: translation.js:347
 msgid ""
 "### Time calculation\n"
 "\n"
@@ -1249,7 +1265,7 @@ msgid ""
 "use a counter with more bits (17, 18...)"
 msgstr ""
 
-#: translation.js:344
+#: translation.js:348
 msgid ""
 "## Debouncer  \n"
 "\n"
@@ -1259,35 +1275,35 @@ msgid ""
 "captured on the output flip-flop"
 msgstr ""
 
-#: translation.js:345
+#: translation.js:349
 msgid "Stable output"
 msgstr ""
 
-#: translation.js:346
+#: translation.js:350
 msgid "Counter"
 msgstr ""
 
-#: translation.js:347
+#: translation.js:351
 msgid "Initial value"
 msgstr ""
 
-#: translation.js:348
+#: translation.js:352
 msgid ""
 "Reset input: Active high  \n"
 "When rst = 1, the DFF is reset to 0"
 msgstr ""
 
-#: translation.js:349
+#: translation.js:353
 msgid "Data input"
 msgstr ""
 
-#: translation.js:350
+#: translation.js:354
 msgid ""
 "Initial default  \n"
 "value: 0"
 msgstr ""
 
-#: translation.js:351
+#: translation.js:355
 msgid ""
 "## Edges detector\n"
 "\n"
@@ -1296,18 +1312,18 @@ msgid ""
 "input signal"
 msgstr ""
 
-#: translation.js:352
+#: translation.js:356
 msgid ""
 "The output is 1 if the current value is 1 and the  \n"
 "previous 0, or if the current value is 0 and the  \n"
 "previous 1\n"
 msgstr ""
 
-#: translation.js:353
+#: translation.js:357
 msgid "In any other case the output is 0"
 msgstr ""
 
-#: translation.js:354
+#: translation.js:358
 msgid ""
 "When k=0, it works like a wire  \n"
 "(The output is equal to the input)  \n"
@@ -1315,7 +1331,7 @@ msgid ""
 "(The output is the inverse of the input)"
 msgstr ""
 
-#: translation.js:355
+#: translation.js:359
 msgid ""
 "### Truth table for XOR\n"
 "\n"
@@ -1327,21 +1343,21 @@ msgid ""
 "| 1 | 1     |  0     | Not      |"
 msgstr ""
 
-#: translation.js:356
+#: translation.js:360
 msgid "Mux 2-1"
 msgstr ""
 
-#: translation.js:357
+#: translation.js:361
 msgid ""
 "D Flip-flip\n"
 "(System)"
 msgstr ""
 
-#: translation.js:359
+#: translation.js:363
 msgid "04-Mux-4-1-Bus4-button-LEDs"
 msgstr ""
 
-#: translation.js:360
+#: translation.js:364
 msgid ""
 "## Example: Manual testing of the 4-bits 4-to-1 Mux\n"
 "\n"
@@ -1349,140 +1365,140 @@ msgid ""
 "`0011`, `1100`"
 msgstr ""
 
-#: translation.js:361
+#: translation.js:365
 #, fuzzy
 msgid "**4-bits 4-to-1 Mux**"
 msgstr "**Mux-2-1**"
 
-#: translation.js:363
+#: translation.js:367
 msgid "05-Mux-8-1-button-LED"
 msgstr ""
 
-#: translation.js:364
+#: translation.js:368
 msgid "Counter-x03: 3-bits counter"
 msgstr ""
 
-#: translation.js:365
+#: translation.js:369
 msgid "Reg-x03: 3-bits register"
 msgstr ""
 
-#: translation.js:366
+#: translation.js:370
 msgid "Inc1-3bit: Increment a 3-bits number by one"
 msgstr ""
 
-#: translation.js:367
+#: translation.js:371
 msgid "AdderK-3bit: Adder of 3-bit operand and 3-bit constant"
 msgstr ""
 
-#: translation.js:368
+#: translation.js:372
 msgid "Generic: 3-bits generic constant (0-7)"
 msgstr ""
 
-#: translation.js:369
+#: translation.js:373
 msgid "Adder-3bits: Adder of two operands of 3 bits"
 msgstr ""
 
-#: translation.js:370
+#: translation.js:374
 msgid ""
 "sysclk_div8: Generate a signal from the division of the system clock by 8"
 msgstr ""
 
-#: translation.js:371
+#: translation.js:375
 msgid "3-bits Syscounter"
 msgstr ""
 
-#: translation.js:372
+#: translation.js:376
 msgid "DFF-03: Three D flip-flops in paralell"
 msgstr ""
 
-#: translation.js:373
+#: translation.js:377
 msgid ""
 "sysclk_div16: Generate a signal from the division of the system clock by 16"
 msgstr ""
 
-#: translation.js:374
+#: translation.js:378
 msgid "4-bits Syscounter"
 msgstr ""
 
-#: translation.js:375
+#: translation.js:379
 msgid "DFF-04: Three D flip-flops in paralell"
 msgstr ""
 
-#: translation.js:376
+#: translation.js:380
 msgid "Inc1-4bit: Increment a 4-bits number by one"
 msgstr ""
 
-#: translation.js:377
+#: translation.js:381
 msgid "AdderK-4bit: Adder of 4-bit operand and 4-bit constant"
 msgstr ""
 
-#: translation.js:378
+#: translation.js:382
 msgid ""
 "sysclk_div32: Generate a signal from the division of the system clock by 32"
 msgstr ""
 
-#: translation.js:379
+#: translation.js:383
 msgid "5-bits Syscounter"
 msgstr ""
 
-#: translation.js:380
+#: translation.js:384
 msgid "DFF-05: five D flip-flops in paralell"
 msgstr ""
 
-#: translation.js:381
+#: translation.js:385
 msgid "Inc1-5bit: Increment a 5-bits number by one"
 msgstr ""
 
-#: translation.js:382
+#: translation.js:386
 msgid "AdderK-5bit: Adder of 5-bit operand and 5-bit constant"
 msgstr ""
 
-#: translation.js:383
+#: translation.js:387
 msgid "Adder-5bits: Adder of two operands of 5 bits"
 msgstr ""
 
-#: translation.js:384
+#: translation.js:388
 msgid "Generic: 5-bits generic constant (0-31)"
 msgstr ""
 
-#: translation.js:385
+#: translation.js:389
 msgid ""
 "sysclk_div64: Generate a signal from the division of the system clock by 64"
 msgstr ""
 
-#: translation.js:386
+#: translation.js:390
 msgid "6-bits Syscounter with reset"
 msgstr ""
 
-#: translation.js:387
+#: translation.js:391
 msgid "DFF-rst-x06: Six D flip-flops in paralell with reset"
 msgstr ""
 
-#: translation.js:388
+#: translation.js:392
 msgid "DFF-rst-x02: Two D flip-flops in paralell with reset"
 msgstr ""
 
-#: translation.js:389
+#: translation.js:393
 msgid "Inc1-6bit: Increment a 6-bits number by one"
 msgstr ""
 
-#: translation.js:390
+#: translation.js:394
 msgid "AdderK-6bit: Adder of 6-bit operand and 6-bit constant"
 msgstr ""
 
-#: translation.js:391
+#: translation.js:395
 msgid "Adder-6bits: Adder of two operands of 6 bits"
 msgstr ""
 
-#: translation.js:392
+#: translation.js:396
 msgid "Bus6-Join-1-5: Join the two buses into a 6-bits Bus"
 msgstr ""
 
-#: translation.js:393
+#: translation.js:397
 msgid "Generic: 6-bits generic constant (0-63)"
 msgstr ""
 
-#: translation.js:394
+#: translation.js:398
 msgid ""
 "## Example: Manual testing of the 8-to-1 Mux\n"
 "\n"
@@ -1492,97 +1508,97 @@ msgid ""
 "from channel 0"
 msgstr ""
 
-#: translation.js:395
+#: translation.js:399
 #, fuzzy
 msgid "**8-to-1 Mux**"
 msgstr "**Mux-2-1**"
 
-#: translation.js:396
+#: translation.js:400
 msgid "### 12%"
 msgstr ""
 
-#: translation.js:397
+#: translation.js:401
 msgid "### 6%"
 msgstr ""
 
-#: translation.js:398
+#: translation.js:402
 msgid "### 3%"
 msgstr ""
 
-#: translation.js:399
+#: translation.js:403
 msgid "### 1.5%"
 msgstr ""
 
-#: translation.js:411 translation.js:412 translation.js:414 translation.js:418
-#: translation.js:420 translation.js:425 translation.js:426 translation.js:458
-#: translation.js:487 translation.js:493 translation.js:500 translation.js:502
-#: translation.js:510 translation.js:512 translation.js:519 translation.js:522
-#: translation.js:525 translation.js:530 translation.js:534 translation.js:538
-#: translation.js:546 translation.js:553 translation.js:561 translation.js:568
-#: translation.js:575 translation.js:579 translation.js:585 translation.js:590
-#: translation.js:595 translation.js:600 translation.js:605 translation.js:610
-#: translation.js:615
+#: translation.js:415 translation.js:416 translation.js:418 translation.js:422
+#: translation.js:424 translation.js:429 translation.js:430 translation.js:462
+#: translation.js:493 translation.js:499 translation.js:506 translation.js:508
+#: translation.js:516 translation.js:518 translation.js:525 translation.js:528
+#: translation.js:531 translation.js:536 translation.js:540 translation.js:544
+#: translation.js:552 translation.js:559 translation.js:567 translation.js:574
+#: translation.js:581 translation.js:585 translation.js:591 translation.js:596
+#: translation.js:601 translation.js:606 translation.js:611 translation.js:616
+#: translation.js:621
 msgid "01-manual-test"
 msgstr ""
 
-#: translation.js:416
+#: translation.js:420
 msgid "DeMux-14-Bus"
 msgstr ""
 
-#: translation.js:457 translation.js:460 translation.js:466 translation.js:467
-#: translation.js:473 translation.js:477 translation.js:482
+#: translation.js:461 translation.js:464 translation.js:470 translation.js:471
+#: translation.js:477 translation.js:482 translation.js:483 translation.js:488
 msgid "01-manual-testing"
 msgstr ""
 
-#: translation.js:468
+#: translation.js:472
 msgid "0%"
 msgstr ""
 
-#: translation.js:469
+#: translation.js:473
 msgid "25%"
 msgstr ""
 
-#: translation.js:470
+#: translation.js:474
 msgid "50%"
 msgstr ""
 
-#: translation.js:471
+#: translation.js:475
 msgid "100%"
 msgstr ""
 
-#: translation.js:478
+#: translation.js:484
 msgid "12%"
 msgstr ""
 
-#: translation.js:479
+#: translation.js:485
 msgid "6%"
 msgstr ""
 
-#: translation.js:480
+#: translation.js:486
 msgid "3%"
 msgstr ""
 
-#: translation.js:481
+#: translation.js:487
 msgid "1.5%"
 msgstr ""
 
-#: translation.js:483 translation.js:485
+#: translation.js:489 translation.js:491
 msgid "Mux2-1"
 msgstr ""
 
-#: translation.js:484 translation.js:491
+#: translation.js:490 translation.js:497
 msgid "Mux4-1"
 msgstr ""
 
-#: translation.js:488
+#: translation.js:494
 msgid "2bits constant value: 1"
 msgstr ""
 
-#: translation.js:489
+#: translation.js:495
 msgid "2bits constant value: 2"
 msgstr ""
 
-#: translation.js:490
+#: translation.js:496
 msgid ""
 "## Manual testing\n"
 "\n"
@@ -1591,15 +1607,15 @@ msgid ""
 "diplayed on the LEDs"
 msgstr ""
 
-#: translation.js:494
+#: translation.js:500
 msgid "2bits constant value: 0"
 msgstr ""
 
-#: translation.js:495
+#: translation.js:501
 msgid "2bits constant value: 3"
 msgstr ""
 
-#: translation.js:496
+#: translation.js:502
 msgid ""
 "## Manual testing\n"
 "\n"
@@ -1607,51 +1623,51 @@ msgid ""
 "value of the input buttons"
 msgstr ""
 
-#: translation.js:498
+#: translation.js:504
 msgid "Mux-3-1"
 msgstr ""
 
-#: translation.js:503
+#: translation.js:509
 msgid "3bits constant value: 0"
 msgstr ""
 
-#: translation.js:504
+#: translation.js:510
 msgid "3bits constant value: 1"
 msgstr ""
 
-#: translation.js:505
+#: translation.js:511
 msgid "3bits constant value: 2"
 msgstr ""
 
-#: translation.js:506
+#: translation.js:512
 msgid "3bits constant value: 4"
 msgstr ""
 
-#: translation.js:513
+#: translation.js:519
 msgid "4bits constant value: 1"
 msgstr ""
 
-#: translation.js:514
+#: translation.js:520
 msgid "4bits constant value: 2"
 msgstr ""
 
-#: translation.js:515
+#: translation.js:521
 msgid "4bits constant value: 4"
 msgstr ""
 
-#: translation.js:516
+#: translation.js:522
 msgid "4bits constant value: 8"
 msgstr ""
 
-#: translation.js:526
+#: translation.js:532
 msgid "Generic: 7-bits generic constant (0-127)"
 msgstr ""
 
-#: translation.js:531
+#: translation.js:537
 msgid "Generic: 8-bits generic constant (0-255)"
 msgstr ""
 
-#: translation.js:532
+#: translation.js:538
 msgid ""
 "## 8-bits Mux-2-1: Manual testing\n"
 "\n"
@@ -1659,7 +1675,7 @@ msgid ""
 "on the sw1 button"
 msgstr ""
 
-#: translation.js:535
+#: translation.js:541
 msgid ""
 "## 8-bits Mux-4-1: Manual testing\n"
 "\n"
@@ -1667,162 +1683,162 @@ msgid ""
 "on the sw1 button"
 msgstr ""
 
-#: translation.js:539
+#: translation.js:545
 msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
 msgstr ""
 
-#: translation.js:540
+#: translation.js:546
 msgid "Bus7-Join-7-1: Join the two buses into an 8-bits Bus"
 msgstr ""
 
-#: translation.js:541
+#: translation.js:547
 msgid "7bits constant value: 0"
 msgstr ""
 
-#: translation.js:542
+#: translation.js:548
 msgid "Generic: 9-bits generic constant"
 msgstr ""
 
-#: translation.js:543
+#: translation.js:549
 msgid "## 9-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:547
+#: translation.js:553
 msgid "UINT8-2bits:  Extend a 2-bits unsigned integer to 8-bits "
 msgstr ""
 
-#: translation.js:548
+#: translation.js:554
 msgid "Bus8-Join-6-2: Join the two buses into an 8-bits Bus"
 msgstr ""
 
-#: translation.js:549
+#: translation.js:555
 msgid "6bits constant value: 0"
 msgstr ""
 
-#: translation.js:550
+#: translation.js:556
 msgid "## 10-bits Mux-2-1: Manual testing\n"
 msgstr "## Mux-2-1 de 10 bits: Prueba manual\n"
 
-#: translation.js:554
+#: translation.js:560
 msgid "Generic: 11-bits generic constant"
 msgstr ""
 
-#: translation.js:555
+#: translation.js:561
 msgid "UINT8-3bits:  Extend a 3-bits unsigned integer to 8-bits "
 msgstr ""
 
-#: translation.js:556
+#: translation.js:562
 msgid "Bus8-Join-5-3: Join the two buses into an 8-bits Bus"
 msgstr ""
 
-#: translation.js:557
+#: translation.js:563
 msgid "5bits constant value: 0"
 msgstr ""
 
-#: translation.js:558
+#: translation.js:564
 msgid "## 11-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:562
+#: translation.js:568
 msgid "Generic: 12-bits generic constant (0-4095)"
 msgstr ""
 
-#: translation.js:563
+#: translation.js:569
 msgid "UINT8-4bits:  Extend a 4-bits unsigned integer to 8-bits "
 msgstr ""
 
-#: translation.js:564
+#: translation.js:570
 msgid "4bits constant value: 0"
 msgstr ""
 
-#: translation.js:565
+#: translation.js:571
 msgid "## 12-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:569
+#: translation.js:575
 msgid "Generic: 15-bits generic constant"
 msgstr ""
 
-#: translation.js:570
+#: translation.js:576
 msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
 msgstr ""
 
-#: translation.js:571
+#: translation.js:577
 msgid "Bus7-Join-1-7: Join the two buses into an 8-bits Bus"
 msgstr ""
 
-#: translation.js:572
+#: translation.js:578
 msgid "## 15-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:576
+#: translation.js:582
 msgid "## 16-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:580
+#: translation.js:586
 msgid "Generic: 19-bits generic constant"
 msgstr ""
 
-#: translation.js:581
+#: translation.js:587
 msgid "8bits constant value: 0"
 msgstr ""
 
-#: translation.js:582
+#: translation.js:588
 msgid "## 19-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:586
+#: translation.js:592
 msgid "Generic: 20-bits generic constant"
 msgstr ""
 
-#: translation.js:587
+#: translation.js:593
 msgid "## 20-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:591
+#: translation.js:597
 msgid "Generic: 23-bits generic constant"
 msgstr ""
 
-#: translation.js:592
+#: translation.js:598
 msgid "## 23-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:596
+#: translation.js:602
 msgid "Generic: 24-bits generic constant"
 msgstr ""
 
-#: translation.js:597
+#: translation.js:603
 msgid "## 24-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:601
+#: translation.js:607
 msgid "Generic: 27-bits generic constant"
 msgstr ""
 
-#: translation.js:602
+#: translation.js:608
 msgid "## 27-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:606
+#: translation.js:612
 msgid "Generic: 28-bits generic constant"
 msgstr ""
 
-#: translation.js:607
+#: translation.js:613
 msgid "## 28-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:611
+#: translation.js:617
 msgid "Generic: 31-bits generic constant"
 msgstr ""
 
-#: translation.js:612
+#: translation.js:618
 msgid "## 31-bits Mux-2-1: Manual testing\n"
 msgstr ""
 
-#: translation.js:616
+#: translation.js:622
 msgid "Generic: 32-bits generic constant"
 msgstr ""
 
-#: translation.js:617
+#: translation.js:623
 msgid "## 32-bits Mux-2-1: Manual testing\n"
 msgstr ""
