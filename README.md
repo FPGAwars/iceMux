@@ -153,6 +153,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **05-Mux-8-1**
   * **Alhambra-II**
     * 05-Mux-8-1-button-LED
+* **06-Mux-8-1-Bus**
+  * **Alhambra-II**
+    * 06-Mux-8-1-Bus4-button-LEDs
 * **TESTs**
   * **DeMux**
     * **01-bit**
