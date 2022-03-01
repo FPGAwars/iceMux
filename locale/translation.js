@@ -21,6 +21,8 @@ gettext('NOT gate (Verilog implementation)');
 gettext('Bus2-Join-all: Joint two wires into a 2-bits Bus');
 gettext('Input');
 gettext('Output');
+gettext('DeMux-1-2-verilog');
+gettext('1-to-2 DeMultplexer (1-bit channels) (Verilog implementation)');
 gettext('DeMux-1-2');
 gettext('DeMuxF-1-2');
 gettext('1-to-2 DeMultiplexer (1-bit channels) (Flipped version)');
