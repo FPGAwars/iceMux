@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64052329"
-     inkscape:cx="411.38239"
-     inkscape:cy="425.4334"
+     inkscape:zoom="0.45291836"
+     inkscape:cx="451.51625"
+     inkscape:cy="389.69496"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -7432,120 +7432,128 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
          x="10.709407"
          y="92.797188">DeMux-1-2-Bus02</tspan></text>
+    <rect
+       ry="2.5969138"
+       y="35.870216"
+       x="13.67792"
+       height="46.482845"
+       width="70.447723"
+       id="rect861"
+       style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.644037;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.92864px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.200948"
+       x="-1.0788547"
+       y="66.177055"
+       id="text1535"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1533"
+         x="-1.0788547"
+         y="66.177055"
+         style="fill:#767675;fill-opacity:1;stroke-width:0.200948">sel</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2857"
+       d="m 7.29571,70.610633 h 6.61621"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.69824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
-       id="g49200"
+       id="layer2"
+       inkscape:label="component"
+       transform="matrix(0.23772887,0,0,0.23772887,44.53657,49.693512)"
+       style="display:inline"
        inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
-      <rect
-         ry="2.5969138"
-         y="35.870216"
-         x="13.67792"
-         height="46.482845"
-         width="70.447723"
-         id="rect861"
-         style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.644037;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path4239-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2.81251;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 54.125919,3.1386344 c 0,-12.690891 -6.99049,-24.4124194 -18.32602,-30.7287344 -11.33552,-6.316313 -25.28439,-6.262503 -36.56788023,0.141073 C -12.051471,-21.04546 -18.945831,-9.2703706 -18.842001,3.4201164 V 77.836296 c -0.10377,12.690502 6.79053,24.465574 18.07401977,30.869144 11.28348023,6.4036 25.23235023,6.45743 36.56788023,0.14114 11.33552,-6.31634 18.32602,-18.03785 18.32602,-30.728746 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccsscc" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.92864px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.200948"
-         x="-1.0788547"
-         y="66.177055"
-         id="text1535"><tspan
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.4481177"
+         y="91.517853"
+         id="text4266"
+         transform="scale(1.0047182,0.99530398)"><tspan
            sodipodi:role="line"
-           id="tspan1533"
-           x="-1.0788547"
-           y="66.177055"
-           style="fill:#767675;fill-opacity:1;stroke-width:0.200948">sel</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path2857"
-         d="m 7.29571,70.610633 h 6.61621"
-         style="display:inline;fill:none;stroke:#777777;stroke-width:1.69824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2861"
-         d="m 83.94701,48.04133 h 5.5615"
-         style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         id="layer2"
-         inkscape:label="component"
-         transform="matrix(0.23772887,0,0,0.23772887,44.53657,49.693512)"
-         style="display:inline">
-        <path
-           id="path4239-6"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2.81251;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 54.125919,3.1386344 c 0,-12.690891 -6.99049,-24.4124194 -18.32602,-30.7287344 -11.33552,-6.316313 -25.28439,-6.262503 -36.56788023,0.141073 C -12.051471,-21.04546 -18.945831,-9.2703706 -18.842001,3.4201164 V 77.836296 c -0.10377,12.690502 6.79053,24.465574 18.07401977,30.869144 11.28348023,6.4036 25.23235023,6.45743 36.56788023,0.14114 11.33552,-6.31634 18.32602,-18.03785 18.32602,-30.728746 z"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cssccsscc" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="tspan4268"
            x="7.4481177"
            y="91.517853"
-           id="text4266"
-           transform="scale(1.0047182,0.99530398)"><tspan
-             sodipodi:role="line"
-             id="tspan4268"
-             x="7.4481177"
-             y="91.517853"
-             style="font-size:33.5093px;line-height:1.25">0</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-size:33.5093px;line-height:1.25">0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.3590674"
+         y="14.582483"
+         id="text4266-7"
+         transform="scale(1.0047182,0.99530398)"><tspan
+           sodipodi:role="line"
+           id="tspan4268-5"
            x="7.3590674"
            y="14.582483"
-           id="text4266-7"
-           transform="scale(1.0047182,0.99530398)"><tspan
-             sodipodi:role="line"
-             id="tspan4268-5"
-             x="7.3590674"
-             y="14.582483"
-             style="font-size:33.5093px;line-height:1.25">1</tspan></text>
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path13243"
-         d="m 83.94701,71.003185 h 5.5615"
-         style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+           style="font-size:33.5093px;line-height:1.25">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+       x="-10.961797"
+       y="41.100475"
+       id="text4861-5"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4859-9"
          x="-10.961797"
          y="41.100475"
-         id="text4861-5"><tspan
-           sodipodi:role="line"
-           id="tspan4859-9"
-           x="-10.961797"
-           y="41.100475"
-           style="fill:#767675;fill-opacity:1;stroke-width:0.20245">[1:0]</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path37120"
-         d="M 8.72744,48.362092 H 14.1422"
-         style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">[1:0]</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path37120"
+       d="M 8.72744,48.362092 H 14.1422"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+       x="87.041283"
+       y="40.900318"
+       id="text33338"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan33336"
          x="87.041283"
          y="40.900318"
-         id="text33338"><tspan
-           sodipodi:role="line"
-           id="tspan33336"
-           x="87.041283"
-           y="40.900318"
-           style="fill:#767675;fill-opacity:1;stroke-width:0.20245">1[1:0]</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">1[1:0]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
+       x="87.041283"
+       y="66.552376"
+       id="text35778"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan35776"
          x="87.041283"
          y="66.552376"
-         id="text35778"><tspan
-           sodipodi:role="line"
-           id="tspan35776"
-           x="87.041283"
-           y="66.552376"
-           style="fill:#767675;fill-opacity:1;stroke-width:0.20245">0[1:0]</tspan></text>
-    </g>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">0[1:0]</tspan></text>
     <rect
        ry="2.5969138"
        y="35.870216"
@@ -7576,14 +7584,6 @@
        id="path49208"
        d="m 214.16441,70.610633 h 6.61621"
        style="display:inline;fill:none;stroke:#777777;stroke-width:1.69824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path49210"
-       d="m 290.81571,48.04133 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -7626,14 +7626,6 @@
            y="14.582483"
            style="font-size:33.5093px;line-height:1.25">1</tspan></text>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path49224"
-       d="m 290.81571,71.003185 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
@@ -7717,14 +7709,6 @@
        inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path58085"
-       d="m 83.94701,132.00096 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <g
        id="g58097"
        inkscape:label="component"
@@ -7764,14 +7748,6 @@
            y="14.582483"
            style="font-size:33.5093px;line-height:1.25">1</tspan></text>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path58099"
-       d="m 83.94701,154.96281 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
@@ -7855,14 +7831,6 @@
        inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path58205"
-       d="m 290.35143,132.00096 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <g
        id="g58217"
        inkscape:label="component"
@@ -7902,14 +7870,6 @@
            y="14.582483"
            style="font-size:33.5093px;line-height:1.25">1</tspan></text>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path58219"
-       d="m 290.35143,154.96281 h 5.5615"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:1.557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.99538px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
@@ -7960,6 +7920,70 @@
          x="293.44571"
          y="150.51201"
          style="fill:#767675;fill-opacity:1;stroke-width:0.20245">0[7:0]</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path97777"
+       d="m 84.125643,48.362092 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path97861"
+       d="m 84.125643,70.610638 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path97945"
+       d="m 290.99433,48.362092 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path98029"
+       d="m 290.99433,70.610638 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path98031"
+       d="m 290.99433,132.32172 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path98195"
+       d="m 290.99433,154.96281 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path99370"
+       d="m 84.125643,132.32172 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path99452"
+       d="m 84.125643,154.96281 h 5.41476"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-2-08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <style
      id="style263">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
