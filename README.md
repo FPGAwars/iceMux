@@ -44,6 +44,9 @@ For installing and using this colection in Icestudio follow these steps:
     * **DeMux-1-8**
       * DeMux-1-8-Bus
       * DeMux-1-8
+  * **02-bits**
+    * **Demux-1-2**
+      * DeMux-1-2
 * **Mux**
   * **01-bit**
     * **Mux-2-1**
@@ -185,6 +188,11 @@ For installing and using this colection in Icestudio follow these steps:
         * **DeMux-1-8-Bus**
           * **Alhambra-II**
             * 01-manual-test
+          * **Alhambra-II**
+            * 01-manual-test
+    * **02-bits**
+      * **Demux-1-2**
+        * **Demux-1-2**
           * **Alhambra-II**
             * 01-manual-test
   * **Mux**
