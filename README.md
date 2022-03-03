@@ -172,6 +172,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **07-Demux-1-2-button-LED**
   * **Alhambra-II**
     * 07-deMux-1-2-button-LED
+* **08-Demux-1-2-Bus**
+  * **Alhambra-II**
+    * 08-deMux-1-2-Bus-button-LED
 * **TESTs**
   * **DeMux**
     * **01-bit**
