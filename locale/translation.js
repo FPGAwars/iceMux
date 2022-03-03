@@ -444,6 +444,7 @@ gettext('## Example: Manual testing of the 1-to-2 DeMux\n\nThe bit 1 is sent to 
 gettext('**1-to-2 DeMux**');
 gettext('Alhambra-II');
 gettext('08-deMux-1-2-Bus-button-LED');
+gettext('## Example: Manual testing of the 4-bits 1-to-2 DeMux\n\nThe 4-bits constant is sent to the 4 most significant LEDs or the 4  \nleast significant LEDs');
 gettext('DeMux');
 gettext('Mux');
 gettext('01-bit');
