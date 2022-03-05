@@ -40,6 +40,7 @@ For installing and using this colection in Icestudio follow these steps:
       * DeMuxF-1-2
     * **DeMux-1-4**
       * DeMux-1-4-Bus
+      * DeMux-1-4-verilog
       * DeMux-1-4
       * DeMuxF-1-4
     * **DeMux-1-8**
