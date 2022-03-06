@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.45291836"
-     inkscape:cx="935.0471"
-     inkscape:cy="599.44578"
+     inkscape:zoom="0.90583672"
+     inkscape:cx="1115.5432"
+     inkscape:cy="438.82081"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
@@ -8393,7 +8393,7 @@
          id="tspan96719"
          x="205.75479"
          y="13.160045"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">[7:0]</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">[2:0]</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path96723"
@@ -8447,7 +8447,7 @@
          id="tspan96733"
          x="294.82089"
          y="3.0183213"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">3[7:0]</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">3[2:0]</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path96737"
@@ -8478,7 +8478,7 @@
          id="tspan96741"
          x="294.82089"
          y="22.631664"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">2[7:0]</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">2[2:0]</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path96745"
@@ -8501,7 +8501,7 @@
          id="tspan96747"
          x="294.82089"
          y="43.15176"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">1[7:0]</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">1[2:0]</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.92789px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.20245"
@@ -8516,7 +8516,7 @@
          id="tspan96751"
          x="294.82089"
          y="63.083981"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">0[7:0]</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.20245">0[2:0]</tspan></text>
     <g
        id="g96773"
        inkscape:label="component"
