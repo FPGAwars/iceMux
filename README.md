@@ -54,6 +54,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **03-bits**
     * **Demux-1-2**
       * DeMux-1-2
+    * **Demux-1-4**
+      * DeMux-1-4
   * **04-bits**
     * **Demux-1-2**
       * DeMux-1-2
@@ -224,6 +226,10 @@ For installing and using this colection in Icestudio follow these steps:
     * **03-bits**
       * **Demux-1-2**
         * **Demux-1-2**
+          * **Alhambra-II**
+            * 01-manual-test
+      * **Demux-1-4**
+        * **Demux-1-4**
           * **Alhambra-II**
             * 01-manual-test
     * **04-bits**
