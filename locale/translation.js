@@ -45,6 +45,8 @@ gettext('1-to-8 DeMultplexer (1-bit channels) (Output grouped in a bus)');
 gettext('1-to-8 DeMultplexer (1-bit channels)');
 gettext('Bus3-Split-all: Split the 3-bits bus into three wires');
 gettext('Bus8-Join-all: Join all the wires into a 8-bits Bus');
+gettext('DeMux-1-8-verilog');
+gettext('1-to-8 DeMultplexer (1-bit channels) Verilog implementation');
 gettext('DeMux-1-8');
 gettext('DeMuxF-1-8');
 gettext('1-to-8 DeMultplexer (1-bit channels). Flipped version');
