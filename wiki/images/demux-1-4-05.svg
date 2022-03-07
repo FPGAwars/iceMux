@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64052329"
-     inkscape:cx="153.78051"
-     inkscape:cy="347.37222"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="27"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="535.88996"
+     inkscape:cy="334.10182"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -4527,7 +4527,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.3293px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.23247"
-       x="-12.5513"
+       x="-36.148399"
        y="60.901722"
        id="text1535-8"
        inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections2/iceMux/wiki/images/demux-1-4-05.png"
@@ -4535,9 +4535,9 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1533-4"
-         x="-12.5513"
+         x="-36.148399"
          y="60.901722"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.23247">sel</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.23247">sel[1:0]</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2857-3"
