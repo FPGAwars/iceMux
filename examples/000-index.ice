@@ -968,8 +968,8 @@
           }
         },
         {
-          "id": "da8c481f-5a09-451e-83f4-63916897bd09",
-          "type": "429843f4e00d9936b4f285939a5f49470c2c2932",
+          "id": "28960d9e-c8d3-456c-9aa2-610fec866363",
+          "type": "75bd5fb8511594b21a9232c49df135345f958a8c",
           "position": {
             "x": 1200,
             "y": 1640
@@ -33265,7 +33265,7 @@
         }
       }
     },
-    "429843f4e00d9936b4f285939a5f49470c2c2932": {
+    "75bd5fb8511594b21a9232c49df135345f958a8c": {
       "package": {
         "name": "Mux-8-1-Bus08",
         "version": "0.1",
@@ -33871,7 +33871,7 @@
               "id": "31b4b01f-6b60-4993-94d1-bdc79bd3d9e3",
               "type": "basic.outputLabel",
               "data": {
-                "name": "i1_21",
+                "name": "i1_2",
                 "range": "[1:0]",
                 "blockColor": "royalblue",
                 "size": 2
