@@ -75,6 +75,8 @@ For installing and using this colection in Icestudio follow these steps:
       * DeMux-1-2
     * **Demux-1-4**
       * DeMux-1-4
+    * **Demux-1-8**
+      * DeMux-1-8
 * **Mux**
   * **01-bit**
     * **Mux-2-1**
