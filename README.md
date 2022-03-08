@@ -124,6 +124,8 @@ For installing and using this colection in Icestudio follow these steps:
       * Mux-2-1
     * **Mux-4-1**
       * Mux-4-1
+    * **Mux-8-1**
+      * Mux-8-1
   * **09-bits**
     * **Mux-2-1**
       * Mux-2-1
@@ -283,6 +285,10 @@ For installing and using this colection in Icestudio follow these steps:
         * **Demux-1-4**
           * **Alhambra-II**
             * 01-manual-test
+      * **Demux-1-8**
+        * **Demux-1-8**
+          * **Alhambra-II**
+            * 01-manual-test
   * **Mux**
     * **01-bit**
       * **Mux-2-1**
@@ -362,6 +368,8 @@ For installing and using this colection in Icestudio follow these steps:
       * **Mux-4-1**
         * **Alhambra-II**
           * 01-manual-test
+      * **Mux-8-1**
+        * 01-manual-test
     * **09-bits**
       * **Mux-2-1**
         * **Alhambra-II**
