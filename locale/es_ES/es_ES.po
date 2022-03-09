@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-09 07:07+0000\n"
+"POT-Creation-Date: 2022-03-09 08:09+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1291,11 +1291,16 @@ msgid ""
 "LED7. When the button is pressed, the next channel is selected, starting "
 "from channel 0"
 msgstr ""
+"## Ejemplo: Prueba manual del Mux 4-1\n"
+"\n"
+"Cuatro señales con ciclos de trabajo del 100%, 50%, 25% y 0% se seleccionan "
+"y se muestran  \n"
+"en el LED7. Cuando el bóton se aprieta, el siguiente canal se selecciona, "
+"comenzando por el canal 0"
 
 #: translation.js:392
-#, fuzzy
 msgid "**4-to-1 Mux**"
-msgstr "**Mux-2-1**"
+msgstr "**Mux-4-1**"
 
 #: translation.js:393
 msgid "### 25%"
@@ -1560,22 +1565,20 @@ msgid "04-Mux-4-1-Bus4-button-LEDs"
 msgstr ""
 
 #: translation.js:436
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 4-to-1 Mux\n"
 "\n"
 "The buttons selects which number is displayed on the LEDs: `0101`, `1010`, "
 "`0011`, `1100`"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1 de 4 bits\n"
+"## Ejemplo: Prueba manual del Mux-4-1 de 4 bits\n"
 "\n"
-"El botón selecciona qué número se muestra en los LEDS. El canal 0  \n"
-"contiene el número de 4 bits `1010`y el canal 1 tiene `0101`"
+"Los botones selecciona qué número se muestra en los LEDs: `0101`, `1010`, "
+"`0011`, `1100`"
 
 #: translation.js:437
-#, fuzzy
 msgid "**4-bits 4-to-1 Mux**"
-msgstr "**Mux-2-1 de 4 bits**"
+msgstr "**Mux-4-1 de 4 bits**"
 
 #: translation.js:439
 msgid "05-Mux-8-1-button-LED"
@@ -1714,11 +1717,16 @@ msgid ""
 "LED7. When the button is pressed, the next channel is selected, starting "
 "from channel 0"
 msgstr ""
+"## Ejemplo: Prueba manual del Mux-8-1\n"
+"\n"
+"Ocho señales con ciclos de trabajo del 100%, 50%, 25%, 12%, 6%, 3% y 1.5% se "
+"seleccionan y se muestran  \n"
+"en el LED7. Cuando el botón se aprieta, el siguiente canal se selecciona, "
+"comenzando por el canal 0"
 
 #: translation.js:471
-#, fuzzy
 msgid "**8-to-1 Mux**"
-msgstr "**Mux-2-1**"
+msgstr "**Mux-8-1**"
 
 #: translation.js:472
 msgid "### 12%"
@@ -1757,29 +1765,26 @@ msgid "4bits constant value: 8"
 msgstr ""
 
 #: translation.js:482
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 8-to-1 Mux\n"
 "\n"
 "The buttons selects which number is displayed on the LEDs: `0x1`,`0x2`,`0x4`,"
 "`0x8`,`0x9`,`0xA`,`0xC`, `0xF`"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1 de 4 bits\n"
+"## Ejemplo: Prueba manual del Mux-8-1 de 4 bits\n"
 "\n"
-"El botón selecciona qué número se muestra en los LEDS. El canal 0  \n"
-"contiene el número de 4 bits `1010`y el canal 1 tiene `0101`"
+"Los botones seleccionan qué número se muestra en los LEDS:  `0x1`,`0x2`,"
+"`0x4`,`0x8`,`0x9`,`0xA`,`0xC`, `0xF`"
 
 #: translation.js:483
-#, fuzzy
 msgid "**4-bits 8-to-1 Mux**"
-msgstr "**Mux-2-1 de 4 bits**"
+msgstr "**Mux-8-1 de 4 bits**"
 
 #: translation.js:485
 msgid "07-deMux-1-2-button-LED"
 msgstr ""
 
 #: translation.js:486
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-2 DeMux\n"
 "\n"
@@ -1787,17 +1792,15 @@ msgid ""
 "button. When the button is pressed, the LED1 is ON. When the button  \n"
 "is not pressed, the LED0 is on"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1\n"
+"## Ejemplo: Prueba manual del DeMux-1-2\n"
 "\n"
-"El LED se enciende (a su maximo brillo) cuando el botón no está apretado.  \n"
-"Cuando el boton se aprieta una señal con ciclo de trabajo del 50% duty cycle "
-"signal is sent to the  \n"
-"LED. The LED is on but less bright"
+"El bit 1 se envía bien al canal 0 ó al canal 1 dependiendo del  \n"
+"botón. Cuando el botón se pulsa, el LED1 se activa. Cuando el botón  \n"
+"no se aprieta, el LED0 se enciende"
 
 #: translation.js:487
-#, fuzzy
 msgid "**1-to-2 DeMux**"
-msgstr "**Mux-2-1**"
+msgstr "**DeMux-1-2**"
 
 #: translation.js:489
 msgid "08-deMux-1-2-Bus-button-LED"
@@ -1810,13 +1813,16 @@ msgid ""
 "The 4-bits constant is sent to the 4 most significant LEDs or the 4  \n"
 "least significant LEDs"
 msgstr ""
+"## Ejemplo: Prueba manual del DeMux 1-2 de 4 bits\n"
+"\n"
+"La constante de 4-bits se saca por los 4 LEDS de mayor peso o por  \n"
+"los 4 LEDs de menor peso"
 
 #: translation.js:492
 msgid "09-deMux-1-4-button-LEDs"
 msgstr ""
 
 #: translation.js:493
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-4 DeMux\n"
 "\n"
@@ -1824,12 +1830,11 @@ msgid ""
 "counter. When the button is pressed, the counter is increased and  \n"
 "the next LED is turned on"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1\n"
+"## Ejemplo: Prueba manual del DeMux-1-4\n"
 "\n"
-"El LED se enciende (a su maximo brillo) cuando el botón no está apretado.  \n"
-"Cuando el boton se aprieta una señal con ciclo de trabajo del 50% duty cycle "
-"signal is sent to the  \n"
-"LED. The LED is on but less bright"
+"El bit 1 se envía a los canales 0-3 dependiendo del  \n"
+"contador. Cuando el botón se pulsa, el contador se incrementa y  \n"
+"el siguiente LED se enciende"
 
 #: translation.js:495
 msgid "10-deMux-1-4-Bus-button-LEDs"
@@ -1840,7 +1845,6 @@ msgid "2bits constant value: 3"
 msgstr ""
 
 #: translation.js:497
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 2-bits 1-to-4 DeMux\n"
 "\n"
@@ -1848,17 +1852,15 @@ msgid ""
 "counter. When the button is pressed, the counter is increased and  \n"
 "the next LED is turned on"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1\n"
+"## Ejemplo: Prueba manual del DeMux-1-4 de 2 bits\n"
 "\n"
-"El LED se enciende (a su maximo brillo) cuando el botón no está apretado.  \n"
-"Cuando el boton se aprieta una señal con ciclo de trabajo del 50% duty cycle "
-"signal is sent to the  \n"
-"LED. The LED is on but less bright"
+"La constante 0x3 se envía a los canales de salida 0-3 dependiendo del  \n"
+"contador. Cuando el botón se aprieta, el contador se incrementa y  \n"
+"el siguiente LED se enciende"
 
 #: translation.js:498
-#, fuzzy
 msgid "**1-to-4 DeMux**"
-msgstr "**Mux-2-1**"
+msgstr "**DeMux-1-4**"
 
 #: translation.js:499
 msgid "Channel 2"
@@ -1873,7 +1875,6 @@ msgid "11-deMux-1-8-button-LEDs"
 msgstr ""
 
 #: translation.js:503
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-8 DeMux\n"
 "\n"
@@ -1881,17 +1882,15 @@ msgid ""
 "counter. When the button is pressed, the counter is increased and  \n"
 "the next LED is turned on"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1\n"
+"## Ejemplo: Prueba manual del DeMux-1-8\n"
 "\n"
-"El LED se enciende (a su maximo brillo) cuando el botón no está apretado.  \n"
-"Cuando el boton se aprieta una señal con ciclo de trabajo del 50% duty cycle "
-"signal is sent to the  \n"
-"LED. The LED is on but less bright"
+"La constante 1 se envía a los canales de salida 0-7 dependiendo del  \n"
+"contador. Cuando el botón se aprieta, el contador se incrementa y  \n"
+"el siguiente LED se enciende"
 
 #: translation.js:504
-#, fuzzy
 msgid "**1-to-8 DeMux**"
-msgstr "**Mux-2-1**"
+msgstr "**DeMux-1-8**"
 
 #: translation.js:505
 msgid "Channel 4"
@@ -1924,7 +1923,6 @@ msgid "Counter-x01: 1-bit counter"
 msgstr ""
 
 #: translation.js:513
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 2-bits 1-to-8 DeMux\n"
 "\n"
@@ -1932,12 +1930,11 @@ msgid ""
 "counter. When the button is pressed, the counter is increased and  \n"
 "the next LED is turned on"
 msgstr ""
-"## Ejemplo: Prueba manual del Mux-2-1\n"
+"## Ejemplo: Prueba manual del DeMux-1-8 de 2 bits\n"
 "\n"
-"El LED se enciende (a su maximo brillo) cuando el botón no está apretado.  \n"
-"Cuando el boton se aprieta una señal con ciclo de trabajo del 50% duty cycle "
-"signal is sent to the  \n"
-"LED. The LED is on but less bright"
+"La constante 0x3 se envía a los canales de salida 0-7 dependiendo del  \n"
+"contador. Cuando el botón se aprieta, el contador se incrementa y  \n"
+"el siguiente LED se enciende"
 
 #: translation.js:529 translation.js:530 translation.js:532 translation.js:537
 #: translation.js:539 translation.js:541 translation.js:547 translation.js:548
@@ -2136,23 +2133,27 @@ msgid ""
 "the button is pressed, the other constants is  \n"
 "diplayed on the LEDs"
 msgstr ""
+"## Prueba manual\n"
+"\n"
+"Una constante se muestra en los LEDs. Cuando  \n"
+"el botón se aprieta, la otra constante se  \n"
+"muestra en los LEDs"
 
 #: translation.js:692
 msgid "2bits constant value: 0"
 msgstr ""
 
 #: translation.js:693
-#, fuzzy
 msgid ""
 "## Manual testing\n"
 "\n"
 "The four numbers are displayed on the LEDs according to the  \n"
 "value of the input buttons"
 msgstr ""
-"## Mux 2-1 de 8 bits: Prueba manual\n"
+"## Prueba manual\n"
 "\n"
-"Dos valores de 8 bits se muestran en los LEDs, dependiendo  \n"
-"del pulsador SW1"
+"Los 4 números se meustra en los LEDs según el valor de los  \n"
+"botones de entrada"
 
 #: translation.js:698
 msgid "Mux-3-1"
