@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/45) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/46) |
 
 ## Blocks
 * **DeMux**
@@ -210,37 +210,6 @@ For installing and using this colection in Icestudio follow these steps:
 * **12-Demus-1-8-Bus**
   * **Alhambra-II**
     * 12-deMux-1-8-Bus-button-LEDs
-* **DeMux**
-  * **01-bit**
-    * **DeMux-1-2**
-      * **DeMux-1-2**
-      * **DeMux-1-2-Bus**
-        * **Alhambra-II**
-        * **Alhambra-II**
-      * **DeMuxF-1-2**
-        * **Alhambra-II**
-    * **DeMux-1-4**
-      * **DeMux-1-4**
-        * **Alhambra-II**
-      * **DeMux-14-Bus**
-        * **Alhambra-II**
-    * **DeMux-1-8**
-      * **DeMux-1-8**
-      * **DeMux-1-8-Bus**
-        * **Alhambra-II**
-        * **Alhambra-II**
-* **Mux**
-  * **01-bit**
-    * **Mux-2-1**
-      * **Mux-2-1**
-      * **Mux-2-1-Bus**
-        * **Alhambra-II**
-        * **Alhambra-II**
-      * **MuxF-2-1**
-        * **Alhambra-II**
-    * **Mux-4-1**
-      * **Mux-4-1**
-        * **Alhambra-II**
 * **TESTs**
   * **DeMux**
     * **01-bit**
