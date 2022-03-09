@@ -120,7 +120,7 @@ msgstr "Demultiplexor-1-4 (Canales de 1 bit)"
 
 #: translation.js:36
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
-msgstr ""
+msgstr "Bus2-Split-all: Dividir el bus de 2-bits en dos cables"
 
 #: translation.js:37
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
@@ -160,7 +160,7 @@ msgstr "Demultiplexor 1-8 (Canales de 1 bit)"
 
 #: translation.js:47
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
-msgstr ""
+msgstr "Bus3-Split-all: Dividir el bus de 3-bits bus en tres cables"
 
 #: translation.js:48
 msgid "DeMux-1-8-verilog"
@@ -227,7 +227,7 @@ msgstr ""
 
 #: translation.js:77
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
-msgstr ""
+msgstr "Bus4-Split-all: Dividir el bus de 4-bits en sus cables"
 
 #: translation.js:79
 msgid "DeMux-1-4-04-bits: 1-to-2 DeMultplexer (4-bit channels)"
@@ -248,6 +248,7 @@ msgstr "Bus8-Join-half: Juntar los dos buses en uno de 8 bits"
 #: translation.js:88
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
 msgstr ""
+"Bus8-Split-half: Dividir el bus de 8-bits bus en dos buses del mismo tamaño"
 
 #: translation.js:90
 msgid "DeMux-1-4-08-bits: 1-to-4 DeMultplexer (8-bit channels)"
@@ -430,10 +431,11 @@ msgstr "Multiplexor 8-1 (Canales de 1 bit)"
 #: translation.js:138
 msgid "Bus3-Split-2-1: Split the 3-bits bus into two: 2-bit and 1-bits buses"
 msgstr ""
+"Bus3-Split-2-1: Dividir el bus de 3-bits bus en dos: buses de 2 bits y 1 bit"
 
 #: translation.js:139
 msgid "Bus8-Split-all: Split the 8-bits bus into its wires"
-msgstr ""
+msgstr "Bus8-Split-all: Dividir el bus de 8-bits en sus cables"
 
 #: translation.js:140
 msgid "Mux-8-1-verilog"
@@ -453,11 +455,11 @@ msgstr "Multiplexor 2-1 (canales de 2 bits)"
 
 #: translation.js:149
 msgid "Channel A"
-msgstr ""
+msgstr "Canal A"
 
 #: translation.js:150
 msgid "Channel B"
-msgstr ""
+msgstr "Canal B"
 
 #: translation.js:152
 msgid "4-to-1 Multplexer (2-bit channels)"
@@ -465,11 +467,11 @@ msgstr "Multiplexer 4-1 (Canales de 2 bits)"
 
 #: translation.js:153
 msgid "Channel D"
-msgstr ""
+msgstr "Canal D"
 
 #: translation.js:154
 msgid "Channel C"
-msgstr ""
+msgstr "Canal C"
 
 #: translation.js:156
 msgid "8-to-1 Multplexer (2-bit channels)"
@@ -502,6 +504,7 @@ msgstr "Bus4-Join-half: Juntar los dos buses en uno de 4 bits"
 #: translation.js:173
 msgid "Bus4-Split-half: Split the 4-bits bus into two of the same size"
 msgstr ""
+"Bus4-Split-half: Dividir el bus de 4-bits en dos buses del mismo tamaño"
 
 #: translation.js:176
 msgid "2-to-1 Multplexer (5-bit channels)"
@@ -510,6 +513,7 @@ msgstr "Multiplexor 2-1 (canales de 5 bits)"
 #: translation.js:177
 msgid "Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits"
 msgstr ""
+"Bus5-Split-1-4: Dividir el bus de 5-bits bus en dos buses de 1 y 4 bits"
 
 #: translation.js:178
 msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
@@ -521,7 +525,7 @@ msgstr "Multiplexor 2-1 (canales de 6 bits)"
 
 #: translation.js:182
 msgid "Bus6-Split-2-4: Split the 6-bits bus into two buses of 2 and 4 wires"
-msgstr ""
+msgstr "Bus6-Split-2-4: Dividir el bus de 6-bits en dos buses de 2 y 4 cables"
 
 #: translation.js:183
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
@@ -537,7 +541,7 @@ msgstr "Bus7-Join-3-4: Juntar los dos buses en uno de 7 bits"
 
 #: translation.js:187
 msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
-msgstr ""
+msgstr "Bus7-Split-3-4: Dividir el bus de 7-bits en dos buses de 3 y 4 cables"
 
 #: translation.js:192
 msgid "2-to-1 Multplexer (8-bit channels)"
@@ -559,6 +563,7 @@ msgstr "Bus8-Join-quarter: Juntar los cuatro cuartos en bus de 8 bits"
 msgid ""
 "Bus8-Split-quarter: Split the 8-bits bus into four buses of the same size"
 msgstr ""
+"Bus8-Split-quarter: Dividir el bus de 8-bits en cuatro buses del mismo tamaño"
 
 #: translation.js:201
 msgid "2-to-1 Multplexer (9-bit channels)"
@@ -566,7 +571,7 @@ msgstr "Multiplexor 2-1 (canales de 9 bits)"
 
 #: translation.js:202
 msgid "Bus9-Split-half: Split the 9-bits bus into two buses of 1 and 8 wires"
-msgstr ""
+msgstr "Bus9-Split-half: Dividir el bus de 9-bits en dos buses de 1 y 8 cables"
 
 #: translation.js:203
 msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
@@ -618,6 +623,7 @@ msgstr "Multiplexor 2-1 (canales de 15 bits)"
 #: translation.js:222
 msgid "Bus15-Split-7-8: Split the 15-bits bus into two buses of 7 and 8 bits"
 msgstr ""
+"Bus15-Split-7-8: Dividir el bus de 15-bits bus en dos buses de 7 y 8 cables"
 
 #: translation.js:223
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
@@ -636,6 +642,7 @@ msgstr "Multiplexor 2-1 (canales de 16 bits)"
 #: translation.js:227
 msgid "Bus16-Split-half: Split the 16-bits bus into two buses of the same size"
 msgstr ""
+"Bus16-Split-half: Dividir el bus de 16-bits bus en dos buses del mismo tamaño"
 
 #: translation.js:228
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
@@ -649,6 +656,8 @@ msgstr "Multiplexor 2-1 (canales de 1 bits)"
 msgid ""
 "Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3, 8 and 8 wires"
 msgstr ""
+"Bus19-Split-3-8-8: Dividir el bus de 19-bits bus en tres buses de 3,8  y 8 "
+"cables"
 
 #: translation.js:233
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
@@ -662,6 +671,7 @@ msgstr "Multiplexor 2-1 (canales de 20 bits)"
 msgid ""
 "Bus20-Split-4-8-8: Split the 20-bits bus into three buses of 4, 8 and 8 wires"
 msgstr ""
+"Bus20-Split-4-8-8: Dividir el bus de 20-bits en tres buses de 4, 8 y 8 cables"
 
 #: translation.js:238
 msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
@@ -675,6 +685,7 @@ msgstr "Multiplexor 2-1 (canales de 23 bits)"
 msgid ""
 "Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3,8 and 8 bits"
 msgstr ""
+"Bus19-Split-3-8-8: Dividir el bus de 19-bits bus en dos buses de 3,8 y 8 bits"
 
 #: translation.js:243
 msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
@@ -689,6 +700,8 @@ msgid ""
 "Bus24-Split-one-third: Split the 24-bits bus into three buses of  the same "
 "size"
 msgstr ""
+"Bus24-Split-one-third: Dividir el bus de 24-bits en tres buses del mismo "
+"tamaño"
 
 #: translation.js:248
 msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
@@ -703,6 +716,8 @@ msgid ""
 "Bus27-Split-3-8-8-8: Split the 27-bits bus into four buses of 7,8, 8 and 8 "
 "bits"
 msgstr ""
+"Bus27-Split-3-8-8-8: Dividir el bus de 27-bits en cuatro buses de 7, 8, 8 y "
+"8 bits"
 
 #: translation.js:253
 msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
@@ -717,6 +732,8 @@ msgid ""
 "Bus28-Split-4-8-8-8: Split the 28-bits bus into four buses of 4, 8, 8, and 8 "
 "wires"
 msgstr ""
+"Bus28-Split-4-8-8-8: Dividir el bus de 28-bits en cuatro buses de 4, 8, 8 y "
+"8 cables"
 
 #: translation.js:258
 msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
@@ -731,6 +748,8 @@ msgid ""
 "Bus31-Split-7-8-8-8: Split the 31-bits bus into four buses of 7,8, 8 and 8 "
 "bits"
 msgstr ""
+"Bus31-Split-7-8-8-8: Dividir el bus de 31-bits en cuatro buses de 7, 8, 8 y "
+"8 bits"
 
 #: translation.js:263
 msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
@@ -747,6 +766,8 @@ msgstr "Bus32-Join-quarter: Juntar los cuatro buses en uno de 32 bits"
 #: translation.js:268
 msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
 msgstr ""
+"Bus32-Split-quarter: Dividir el bus de 32-bits bus en cuatro buses de 8 "
+"cables"
 
 #: translation.js:269
 msgid "01-Mux-2-1"
@@ -1006,7 +1027,7 @@ msgstr "01-Mux-2-1-button-LED"
 
 #: translation.js:329
 msgid "Constant bit 1"
-msgstr ""
+msgstr "Bit 1 constante"
 
 #: translation.js:330
 msgid "System TFF: It toogles its output on every system cycle"
@@ -1045,17 +1066,19 @@ msgstr ""
 
 #: translation.js:336
 msgid "Channel 1"
-msgstr ""
+msgstr "Canal 1"
 
 #: translation.js:337
 msgid "Channel 0"
-msgstr ""
+msgstr "Canal 0"
 
 #: translation.js:338
 msgid ""
 "button for selecting the  \n"
 "channel to send to the LED"
 msgstr ""
+"botón para seleccionar el  \n"
+"canal a enviar al LED"
 
 #: translation.js:339
 msgid "**2-to-1 Mux**"
@@ -1110,6 +1133,8 @@ msgid ""
 "button for selecting the  \n"
 "channel to send to the LEDs"
 msgstr ""
+"Botón para seleccionar el  \n"
+"canal a enviar a los LEDs"
 
 #: translation.js:349
 msgid "**4-bits 2-to-1 Mux**"
@@ -1121,11 +1146,11 @@ msgstr "03-Mux-4-1-button-LED"
 
 #: translation.js:352
 msgid "Constant bit 0"
-msgstr ""
+msgstr "Bit 0 constante"
 
 #: translation.js:353
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
-msgstr ""
+msgstr "Button-tic: Botón configurable que emite un tic cuando se aprieta"
 
 #: translation.js:354
 msgid ""
@@ -1135,7 +1160,7 @@ msgstr ""
 
 #: translation.js:355
 msgid "Configurable button (pull-up on/off. Not on/off)"
-msgstr ""
+msgstr "Botón configurable (pull-up on/off. Not on/off)"
 
 #: translation.js:356
 msgid "FPGA internal pull-up configuration on the input port"
@@ -1169,6 +1194,8 @@ msgstr ""
 msgid ""
 "Bus16-Split-quarter: Split the 16-bits bus into four buses of the same size"
 msgstr ""
+"Bus16-Split-quarter: Dividir el bus de 16-bits bus en cuatro buses del mismo "
+"tamaño"
 
 #: translation.js:364
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
@@ -1243,7 +1270,7 @@ msgstr "Constante genérica de 1-bit (0/1)"
 
 #: translation.js:380
 msgid "Counter-x02: 2-bits counter"
-msgstr ""
+msgstr "Counter-x02: Contador de 2-bits"
 
 #: translation.js:381
 msgid "Generic component with clk input"
@@ -1330,7 +1357,7 @@ msgstr "Contador de 2 bits"
 
 #: translation.js:398
 msgid "Button state signal"
-msgstr ""
+msgstr "Señal de estado del botón"
 
 #: translation.js:399
 msgid "Tic: button pressed"
@@ -1369,6 +1396,8 @@ msgid ""
 "Current signal  \n"
 "state"
 msgstr ""
+"Estado actual de  \n"
+"la señal"
 
 #: translation.js:406
 msgid ""
@@ -1500,7 +1529,7 @@ msgstr ""
 
 #: translation.js:422
 msgid "Counter"
-msgstr ""
+msgstr "Contador"
 
 #: translation.js:423
 msgid "Initial value"
@@ -1583,6 +1612,8 @@ msgid ""
 "D Flip-flip\n"
 "(System)"
 msgstr ""
+"Biestable D\n"
+"(Sistema)"
 
 #: translation.js:435
 msgid "04-Mux-4-1-Bus4-button-LEDs"
@@ -1610,7 +1641,7 @@ msgstr "05-Mux-8-1-button-LED"
 
 #: translation.js:440
 msgid "Counter-x03: 3-bits counter"
-msgstr ""
+msgstr "Counter-x03: Contador de 3-bits"
 
 #: translation.js:441
 msgid "Reg-x03: 3-bits register"
@@ -1892,11 +1923,11 @@ msgstr "**DeMux-1-4**"
 
 #: translation.js:499
 msgid "Channel 2"
-msgstr ""
+msgstr "Canal 2"
 
 #: translation.js:500
 msgid "Channel 3"
-msgstr ""
+msgstr "Canal 3"
 
 #: translation.js:502
 msgid "11-deMux-1-8-button-LEDs"
@@ -1922,19 +1953,19 @@ msgstr "**DeMux-1-8**"
 
 #: translation.js:505
 msgid "Channel 4"
-msgstr ""
+msgstr "Canal 4"
 
 #: translation.js:506
 msgid "Channel 5"
-msgstr ""
+msgstr "Canal 5"
 
 #: translation.js:507
 msgid "Channel 6"
-msgstr ""
+msgstr "Canal 6"
 
 #: translation.js:508
 msgid "Channel 7"
-msgstr ""
+msgstr "Canal 7"
 
 #: translation.js:510
 msgid "12-deMux-1-8-Bus-button-LEDs"
@@ -1948,7 +1979,7 @@ msgstr ""
 
 #: translation.js:512
 msgid "Counter-x01: 1-bit counter"
-msgstr ""
+msgstr "Counter-x01: Contador de 1-bit"
 
 #: translation.js:513
 msgid ""
@@ -2016,15 +2047,15 @@ msgstr ""
 
 #: translation.js:581
 msgid "Counter-M-x02: 2-bits M module counter"
-msgstr ""
+msgstr "Counter-M-x02: Contador módulo M de 2 bits"
 
 #: translation.js:582
 msgid "Comp2-2bit: Comparator of two 2-bit numbers"
-msgstr ""
+msgstr "Comp2-2-bit: Comparador de dos números de 2 bits"
 
 #: translation.js:583
 msgid "Comp2-1bit: Comparator of two 1-bit numbers"
-msgstr ""
+msgstr "Comp2-1-bit: Comparador de dos números de 1 bit"
 
 #: translation.js:584
 msgid "reg-rst-2-bits:  2-bits register with reset"
@@ -2090,6 +2121,7 @@ msgstr ""
 #: translation.js:620
 msgid "Bus64-Split-half: Split the 64-bits bus into two buses of 32 wires"
 msgstr ""
+"Bus64-Split-half: Dividir el bus de 64-bits bus en dos buses de 32 cables"
 
 #: translation.js:621
 msgid "Bus64-Join-half: Join the two buses into an 64-bits Bus"
