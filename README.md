@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/98) |
 
 ## Blocks
 * **DeMux**
@@ -179,6 +179,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 01-Mux-2-1-button-LED
   * **Nandland-go-board**
     * 01-Mux-2-1-button-LED
+  * **ULX3S-12F**
+    * 01-Mux-2-1-button-LED
   * **iCEBreaker**
     * 01-Mux-2-1-button-LED
 * **02-Mux-2-1-Bus**
@@ -186,12 +188,16 @@ For installing and using this colection in Icestudio follow these steps:
     * 02-Mux-2-1-Bus4-button-LED
   * **Nandlang-go-board**
     * 02-Mux-2-1-Bus4-button-LED
+  * **ULX3S-12F**
+    * 02-Mux-2-1-Bus4-button-LED
   * **iCEBreaker**
     * 02-Mux-2-1-Bus4-button-LED
 * **03-Mux-4-1**
   * **Alhambra-II**
     * 03-Mux-4-1-button-LED
   * **Nandland-go-board**
+    * 03-Mux-4-1-button-LED
+  * **ULX3S-12F**
     * 03-Mux-4-1-button-LED
   * **iCEBreaker**
     * 03-Mux-4-1-button-LED
