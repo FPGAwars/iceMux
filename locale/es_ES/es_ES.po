@@ -21,7 +21,7 @@ msgstr "DeMux"
 
 #: translation.js:11 translation.js:515
 msgid "Mux"
-msgstr ""
+msgstr "Mux"
 
 #: translation.js:12 translation.js:93 translation.js:516 translation.js:622
 msgid "01-bit"
@@ -84,7 +84,7 @@ msgstr "Bus2-Join-all: Juntar dos cables en un bus de 2-bits"
 
 #: translation.js:26
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 #: translation.js:27
 msgid "Output"
@@ -341,24 +341,24 @@ msgstr "32-bits"
 #: translation.js:776 translation.js:781 translation.js:786 translation.js:791
 #: translation.js:796 translation.js:801 translation.js:806 translation.js:811
 msgid "Mux-2-1"
-msgstr ""
+msgstr "Mux-2-1"
 
 #: translation.js:116 translation.js:132 translation.js:145 translation.js:151
 #: translation.js:158 translation.js:161 translation.js:164 translation.js:168
 #: translation.js:189 translation.js:193 translation.js:645 translation.js:656
 #: translation.js:708 translation.js:727
 msgid "Mux-4-1"
-msgstr ""
+msgstr "Mux-4-1"
 
 #: translation.js:117 translation.js:141 translation.js:146 translation.js:155
 #: translation.js:165 translation.js:170 translation.js:190 translation.js:195
 #: translation.js:646 translation.js:669 translation.js:709 translation.js:728
 msgid "Mux-8-1"
-msgstr ""
+msgstr "Mux-8-1"
 
 #: translation.js:118 translation.js:648
 msgid "Mux-2-1-Bus"
-msgstr ""
+msgstr "Mux-2-1-Bus"
 
 #: translation.js:119
 msgid "2-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
@@ -374,7 +374,7 @@ msgstr ""
 
 #: translation.js:122
 msgid "Mux-2-1-Verilog"
-msgstr ""
+msgstr "Mux-2-1-Verilog"
 
 #: translation.js:123
 msgid "2-to-1 Multplexer (1-bit channels). Verilog implementation"
@@ -382,7 +382,7 @@ msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
 
 #: translation.js:125 translation.js:649
 msgid "MuxF-2-1"
-msgstr ""
+msgstr "MuxF-2-1"
 
 #: translation.js:126
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
@@ -390,7 +390,7 @@ msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
 
 #: translation.js:127 translation.js:657
 msgid "Mux-4-1-Bus"
-msgstr ""
+msgstr "Mux-4-1-Bus"
 
 #: translation.js:128
 msgid "4-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
@@ -402,7 +402,7 @@ msgstr "Multiplexor 4-1 (Canales de 1 bit)"
 
 #: translation.js:130
 msgid "Mux-4-1-verilog"
-msgstr ""
+msgstr "Mux-4-1-verilog"
 
 #: translation.js:131
 msgid "4-to-1 Multplexer (1-bit channels). Verilog implementation"
@@ -410,7 +410,7 @@ msgstr "Multiplexer4-1 (Canales de 1 bit). Implementación en Verilog"
 
 #: translation.js:133 translation.js:658
 msgid "MuxF-4-1"
-msgstr ""
+msgstr "MuxF-4-1"
 
 #: translation.js:134
 msgid "4-to-1 Multplexer (1-bit channels). Flipped version"
@@ -418,7 +418,7 @@ msgstr "Multiplexor 4-1 (Canales de 1-bit). Versión invertida"
 
 #: translation.js:135 translation.js:670
 msgid "Mux-8-1-Bus"
-msgstr ""
+msgstr "Mux-8-1-Bus"
 
 #: translation.js:136
 msgid "8-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
@@ -439,11 +439,11 @@ msgstr "Bus8-Split-all: Dividir el bus de 8-bits en sus cables"
 
 #: translation.js:140
 msgid "Mux-8-1-verilog"
-msgstr ""
+msgstr "Mux-8-1-verilog"
 
 #: translation.js:142 translation.js:671
 msgid "MuxF-8-1"
-msgstr ""
+msgstr "MuxF-8-1"
 
 #: translation.js:143
 msgid "8-to-1 Multplexer (1-bit channels). Flipped version"
@@ -633,7 +633,7 @@ msgstr "Bus15-Join-7-8: Juntar los dos buses en uno de 15 bits"
 #: translation.js:245 translation.js:250 translation.js:255 translation.js:260
 #: translation.js:265
 msgid "mux-2-1"
-msgstr ""
+msgstr "mux-2-1"
 
 #: translation.js:226
 msgid "2-to-1 Multplexer (16-bit channels)"
@@ -1094,7 +1094,7 @@ msgstr ""
 
 #: translation.js:342
 msgid "Input data"
-msgstr ""
+msgstr "Datos de entrada"
 
 #: translation.js:343
 msgid ""
@@ -1114,7 +1114,7 @@ msgstr "02-Mux-2-1-Bus4-button-LED"
 
 #: translation.js:346
 msgid "Generic: 4-bits generic constant (0-15)"
-msgstr ""
+msgstr "Generic: Constante genérica de 4-bits (0-15)"
 
 #: translation.js:347
 msgid ""
@@ -1133,7 +1133,7 @@ msgid ""
 "button for selecting the  \n"
 "channel to send to the LEDs"
 msgstr ""
-"Botón para seleccionar el  \n"
+"botón para seleccionar el  \n"
 "canal a enviar a los LEDs"
 
 #: translation.js:349
@@ -1205,7 +1205,7 @@ msgstr "Bus16-Join-quarter: Juntar los cuatro buses iguales en uno de 16 bits"
 
 #: translation.js:365
 msgid "Inc1-16bit: Increment a 16-bits number by one"
-msgstr ""
+msgstr "Inc1-16bit: Incrementar un número de 16 bits en uno"
 
 #: translation.js:366
 msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
@@ -1214,7 +1214,7 @@ msgstr ""
 
 #: translation.js:367
 msgid "Generic: 16-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 16-bits"
 
 #: translation.js:368
 msgid "Adder-16bits: Adder of two operands of 16 bits"
@@ -1286,7 +1286,7 @@ msgstr ""
 
 #: translation.js:383
 msgid "Inc1-2bit: Increment a 2-bits number by one"
-msgstr ""
+msgstr "Inc1-2bit: Incrementar un número de 2 bits en uno"
 
 #: translation.js:384
 msgid "AdderK-2bit: Adder of 2-bit operand and 2-bit constant"
@@ -1295,7 +1295,7 @@ msgstr ""
 
 #: translation.js:385
 msgid "Generic: 2-bits generic constant (0,1,2,3)"
-msgstr ""
+msgstr "Generic: Constante genérica de 2-bits"
 
 #: translation.js:386
 msgid "Adder-2bits: Adder of two operands of 2 bits"
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: translation.js:404
 msgid "Input signal"
-msgstr ""
+msgstr "Señal de entrada"
 
 #: translation.js:405
 msgid ""
@@ -1418,6 +1418,12 @@ msgid ""
 "\n"
 "In any other case the output is 0"
 msgstr ""
+"Si la señal actual es 1 y su valor en  \n"
+"el ciclo previo de reloj fue 0, significa  \n"
+"que se ha detectado un flanco de subida!  \n"
+"La salida es 1\n"
+"\n"
+"In cualquier otro caso la salida es 0"
 
 #: translation.js:408
 msgid ""
@@ -1437,6 +1443,9 @@ msgid ""
 "* 0: OFF\n"
 "* 1: ON"
 msgstr ""
+"Pull-up interna:  \n"
+"* 0: OFF\n"
+"* 1: ON"
 
 #: translation.js:410
 msgid "Synchronization stage"
@@ -1494,6 +1503,9 @@ msgid ""
 "value, the input is considered stable  \n"
 "and it is captured"
 msgstr ""
+"Si el contador alcanza su valor máximo,  \n"
+"la entrada se considera estable y  \n"
+"se captura"
 
 #: translation.js:419
 msgid ""
@@ -1537,7 +1549,7 @@ msgstr "Contador"
 
 #: translation.js:423
 msgid "Initial value"
-msgstr ""
+msgstr "Valor inicial"
 
 #: translation.js:424
 msgid ""
@@ -1554,6 +1566,8 @@ msgid ""
 "Initial default  \n"
 "value: 0"
 msgstr ""
+"Valor inicial  \n"
+"por defecto: 0"
 
 #: translation.js:427
 msgid ""
@@ -1577,7 +1591,7 @@ msgstr ""
 
 #: translation.js:429
 msgid "In any other case the output is 0"
-msgstr ""
+msgstr "En acualquier otro caso la salida es 0"
 
 #: translation.js:430
 msgid ""
@@ -1609,7 +1623,7 @@ msgstr ""
 
 #: translation.js:432
 msgid "Mux 2-1"
-msgstr ""
+msgstr "Mux"
 
 #: translation.js:433
 msgid ""
@@ -1653,7 +1667,7 @@ msgstr ""
 
 #: translation.js:442
 msgid "Inc1-3bit: Increment a 3-bits number by one"
-msgstr ""
+msgstr "Inc1-3bit: Incrementar un número de 3 bits en uno"
 
 #: translation.js:443
 msgid "AdderK-3bit: Adder of 3-bit operand and 3-bit constant"
@@ -1662,7 +1676,7 @@ msgstr ""
 
 #: translation.js:444
 msgid "Generic: 3-bits generic constant (0-7)"
-msgstr ""
+msgstr "Generic: Constante genérica de 3-bits"
 
 #: translation.js:445
 msgid "Adder-3bits: Adder of two operands of 3 bits"
@@ -1696,7 +1710,7 @@ msgstr "DFF-04: Cuatro Biestables D en paralelo"
 
 #: translation.js:452
 msgid "Inc1-4bit: Increment a 4-bits number by one"
-msgstr ""
+msgstr "Inc1-4bit: Incrementar un número de 4 bits en uno"
 
 #: translation.js:453
 msgid "AdderK-4bit: Adder of 4-bit operand and 4-bit constant"
@@ -1718,7 +1732,7 @@ msgstr "DFF-05: Cinco Biestables D en paralelo"
 
 #: translation.js:457
 msgid "Inc1-5bit: Increment a 5-bits number by one"
-msgstr ""
+msgstr "Inc1-5bit: Incrementar un número de 5 bits en uno"
 
 #: translation.js:458
 msgid "AdderK-5bit: Adder of 5-bit operand and 5-bit constant"
@@ -1731,7 +1745,7 @@ msgstr "Adder-5bits: Sumador de dos operandos de 5 bits"
 
 #: translation.js:460
 msgid "Generic: 5-bits generic constant (0-31)"
-msgstr ""
+msgstr "Generic: Constante genérica de 5-bits (0-31)"
 
 #: translation.js:461
 msgid ""
@@ -1752,7 +1766,7 @@ msgstr "DFF-rst-x02: Dos Biestable D en paralelo con reset"
 
 #: translation.js:465
 msgid "Inc1-6bit: Increment a 6-bits number by one"
-msgstr ""
+msgstr "Inc1-6bit: Incrementar un número de 6 bits en uno"
 
 #: translation.js:466
 msgid "AdderK-6bit: Adder of 6-bit operand and 6-bit constant"
@@ -1769,7 +1783,7 @@ msgstr "Bus6-Join-1-5: Juntar los dos buses en uno de 6 bits"
 
 #: translation.js:469
 msgid "Generic: 6-bits generic constant (0-63)"
-msgstr ""
+msgstr "Generic: Constante genérica de 6-bits (0-63)"
 
 #: translation.js:470
 msgid ""
@@ -2079,7 +2093,7 @@ msgstr "Valor constante de 8 bits: 0"
 
 #: translation.js:587
 msgid "Generic: 8-bits generic constant (0-255)"
-msgstr ""
+msgstr "Generic: Constante genérica de 8-bits (0-255)"
 
 #: translation.js:588
 msgid "2-bits Comparator"
@@ -2090,6 +2104,8 @@ msgid ""
 "Maximum count  \n"
 "reached"
 msgstr ""
+"Cuenta máxima  \n"
+"alcanzada"
 
 #: translation.js:590
 msgid "2-bits register"
@@ -2101,6 +2117,9 @@ msgid ""
 "and the cnt tic is received,  \n"
 "the register is reset to 0"
 msgstr ""
+"Si se alcanza la cuenta máxima  \n"
+"y se recibe un tic en cnt,  \n"
+"el registro se inicializa a 0"
 
 #: translation.js:592
 msgid "A"
@@ -2179,15 +2198,15 @@ msgstr "1.5%"
 
 #: translation.js:680 translation.js:683
 msgid "Mux2-1"
-msgstr ""
+msgstr "Mux2-1"
 
 #: translation.js:681 translation.js:689
 msgid "Mux4-1"
-msgstr ""
+msgstr "Mux4-1"
 
 #: translation.js:682 translation.js:694
 msgid "Mux8-1"
-msgstr ""
+msgstr "Mux8-1"
 
 #: translation.js:686
 msgid "2bits constant value: 1"
@@ -2229,7 +2248,7 @@ msgstr ""
 
 #: translation.js:698
 msgid "Mux-3-1"
-msgstr ""
+msgstr "Mux-3-1"
 
 #: translation.js:703
 msgid "3bits constant value: 0"
@@ -2249,7 +2268,7 @@ msgstr "Valor constante de 3 bits: 4"
 
 #: translation.js:725
 msgid "Generic: 7-bits generic constant (0-127)"
-msgstr ""
+msgstr "Generic: Constante genérica de 7-bits (0-127)"
 
 #: translation.js:731
 msgid ""
@@ -2289,7 +2308,7 @@ msgstr "Valor constante de 7-bit: 0"
 
 #: translation.js:742
 msgid "Generic: 9-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 9-bits"
 
 #: translation.js:743
 msgid "## 9-bits Mux-2-1: Manual testing\n"
@@ -2315,7 +2334,7 @@ msgstr "## Mux-2-1 de 10 bits: Prueba manual\n"
 
 #: translation.js:754
 msgid "Generic: 11-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 11-bits"
 
 #: translation.js:755
 msgid "UINT8-3bits:  Extend a 3-bits unsigned integer to 8-bits "
@@ -2335,7 +2354,7 @@ msgstr "## Mux 2-1 de 11 bits: Prueba manual\n"
 
 #: translation.js:762
 msgid "Generic: 12-bits generic constant (0-4095)"
-msgstr ""
+msgstr "Generic: Constante genérica de 12-bits (0-4095)"
 
 #: translation.js:763
 msgid "UINT8-4bits:  Extend a 4-bits unsigned integer to 8-bits "
@@ -2347,7 +2366,7 @@ msgstr "## Mux 2-1 de 12 bits: Prueba manual\n"
 
 #: translation.js:768
 msgid "Generic: 15-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 15-bits"
 
 #: translation.js:769
 msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
@@ -2367,7 +2386,7 @@ msgstr "## Mux 2-1 de 16 bits: Prueba manual\n"
 
 #: translation.js:779
 msgid "Generic: 19-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 19-bits"
 
 #: translation.js:780
 msgid "## 19-bits Mux-2-1: Manual testing\n"
@@ -2375,7 +2394,7 @@ msgstr "## Mux 2-1 de 19 bits: Prueba manual\n"
 
 #: translation.js:784
 msgid "Generic: 20-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 20-bits"
 
 #: translation.js:785
 msgid "## 20-bits Mux-2-1: Manual testing\n"
@@ -2383,7 +2402,7 @@ msgstr "## Mux 2-1 de 20 bits: Prueba manual\n"
 
 #: translation.js:789
 msgid "Generic: 23-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 23-bits"
 
 #: translation.js:790
 msgid "## 23-bits Mux-2-1: Manual testing\n"
@@ -2391,7 +2410,7 @@ msgstr "## Mux 2-1 de 23 bits: Prueba manual\n"
 
 #: translation.js:794
 msgid "Generic: 24-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 24-bits"
 
 #: translation.js:795
 msgid "## 24-bits Mux-2-1: Manual testing\n"
@@ -2399,7 +2418,7 @@ msgstr "## Mux 2-1 de 24 bits: Prueba manual\n"
 
 #: translation.js:799
 msgid "Generic: 27-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 27-bits"
 
 #: translation.js:800
 msgid "## 27-bits Mux-2-1: Manual testing\n"
@@ -2407,7 +2426,7 @@ msgstr "## Mux 2-1 de 27 bits: Prueba manual\n"
 
 #: translation.js:804
 msgid "Generic: 28-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 28-bits"
 
 #: translation.js:805
 msgid "## 28-bits Mux-2-1: Manual testing\n"
@@ -2415,7 +2434,7 @@ msgstr "## Mux 2-1 de 28 bits: Prueba manual\n"
 
 #: translation.js:809
 msgid "Generic: 31-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 31-bits"
 
 #: translation.js:810
 msgid "## 31-bits Mux-2-1: Manual testing\n"
@@ -2423,7 +2442,7 @@ msgstr "## Mux 2-1 de 31 bits: Prueba manual\n"
 
 #: translation.js:814
 msgid "Generic: 32-bits generic constant"
-msgstr ""
+msgstr "Generic: Constante genérica de 32-bits"
 
 #: translation.js:815
 msgid "## 32-bits Mux-2-1: Manual testing\n"
