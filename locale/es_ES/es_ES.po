@@ -80,7 +80,7 @@ msgstr ""
 
 #: translation.js:25
 msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
-msgstr ""
+msgstr "Bus2-Join-all: Juntar dos cables en un bus de 2-bits"
 
 #: translation.js:26
 msgid "Input"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: translation.js:37
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
-msgstr ""
+msgstr "Bus4-Join-all: Juntar todos los cables en un bus de 4-bits"
 
 #: translation.js:38
 msgid "DeMux-1-4-verilog"
@@ -152,7 +152,7 @@ msgstr "Demultiplexor 1-8 (Canales de 1-bit) (Salidas agrupadas en un bus)"
 
 #: translation.js:45
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-all: Juntar los dos cables en uno de 8 bits"
 
 #: translation.js:46
 msgid "1-to-8 DeMultplexer (1-bit channels)"
@@ -211,7 +211,7 @@ msgstr ""
 
 #: translation.js:67
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
-msgstr ""
+msgstr "Bus3-Join-all: Juntar los tres cables en uno de 3 bits"
 
 #: translation.js:69
 msgid "DeMux-1-4-03-bits: 1-to-2 DeMultplexer (3-bit channels)"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: translation.js:87
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-half: Juntar los dos buses en uno de 8 bits"
 
 #: translation.js:88
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
@@ -497,7 +497,7 @@ msgstr "Multiplexor 8-1 (Canales de 4 bit)"
 
 #: translation.js:172
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
-msgstr ""
+msgstr "Bus4-Join-half: Juntar los dos buses en uno de 4 bits"
 
 #: translation.js:173
 msgid "Bus4-Split-half: Split the 4-bits bus into two of the same size"
@@ -513,7 +513,7 @@ msgstr ""
 
 #: translation.js:178
 msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
-msgstr ""
+msgstr "Bus5-Join-1-4: Juntar los dos buses de 1 y 4 bits en uno de 5bits"
 
 #: translation.js:181
 msgid "2-to-1 Multplexer (6-bit channels)"
@@ -525,7 +525,7 @@ msgstr ""
 
 #: translation.js:183
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
-msgstr ""
+msgstr "Bus6-Join-2-4: Juntar los dos buses en uno de 6 bits"
 
 #: translation.js:185
 msgid "2-to-1 Multplexer (7-bit channels)"
@@ -533,7 +533,7 @@ msgstr "Multiplexor 2-1 (canales de 7 bits)"
 
 #: translation.js:186
 msgid "Bus7-Join-3-4: Join the two buses into a 7-bits Bus"
-msgstr ""
+msgstr "Bus7-Join-3-4: Juntar los dos buses en uno de 7 bits"
 
 #: translation.js:187
 msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
@@ -553,7 +553,7 @@ msgstr "Multiplexor 8-1 (Canales de 8 bit)"
 
 #: translation.js:197
 msgid "Bus8-Join-quarter: Join the four quarters into an 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-quarter: Juntar los cuatro cuartos en bus de 8 bits"
 
 #: translation.js:198
 msgid ""
@@ -570,7 +570,7 @@ msgstr ""
 
 #: translation.js:203
 msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-1-8: Juntar los dos buses en uno de 9 bits"
 
 #: translation.js:206
 msgid "2-to-1 Multplexer (10-bit channels)"
@@ -579,10 +579,11 @@ msgstr "Multiplexor 2-1 (canales de 10 bits)"
 #: translation.js:207
 msgid "Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires"
 msgstr ""
+"Bus10-Split-2-8: Dividir el bus de 10-bits bus en dos buses de 2 y 8 cables"
 
 #: translation.js:208
 msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
-msgstr ""
+msgstr "Bus10-Join-2-8: Juntar los dos buses en uno de 10 bits"
 
 #: translation.js:211
 msgid "2-to-1 Multplexer (11-bit channels)"
@@ -591,10 +592,11 @@ msgstr "Multiplexor 2-1 (canales de 11 bits)"
 #: translation.js:212
 msgid "Bus11-Split-3-8: Split the 11-bits bus into two buses of 3 and 8 wires"
 msgstr ""
+"Bus11-Split-3-8: Dividir el bus de 11-bits bus en dos buses de 3 y 8 cables"
 
 #: translation.js:213
 msgid "Bus11-Join-3-8: Join the two buses into an 11-bits Bus"
-msgstr ""
+msgstr "Bus11-Join-3-8: Juntar los dos buses en uno de 11 bits"
 
 #: translation.js:216
 msgid "2-to-1 Multplexer (12-bit channels)"
@@ -603,10 +605,11 @@ msgstr "Multiplexor 2-1 (canales de 12 bits)"
 #: translation.js:217
 msgid "Bus12-Split-4-8: Split the 12-bits bus into two buses of 4 and 8 wires"
 msgstr ""
+"Bus12-Split-4-8: Dividir el bus de 12-bits bus en dos buses de 4 y 8 cables"
 
 #: translation.js:218
 msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
-msgstr ""
+msgstr "Bus12-Join-4-8: Juntar los dos buses en uno de 12 bits"
 
 #: translation.js:221
 msgid "2-to-1 Multplexer (15-bit channels)"
@@ -618,7 +621,7 @@ msgstr ""
 
 #: translation.js:223
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
-msgstr ""
+msgstr "Bus15-Join-7-8: Juntar los dos buses en uno de 15 bits"
 
 #: translation.js:225 translation.js:230 translation.js:235 translation.js:240
 #: translation.js:245 translation.js:250 translation.js:255 translation.js:260
@@ -636,7 +639,7 @@ msgstr ""
 
 #: translation.js:228
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
-msgstr ""
+msgstr "Bus16-Join-half: Juntar los dos buses iguales en uno de 16 bits"
 
 #: translation.js:231
 msgid "2-to-1 Multplexer (19-bit channels)"
@@ -649,7 +652,7 @@ msgstr ""
 
 #: translation.js:233
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
-msgstr ""
+msgstr "Bus19-Join-3-8-8: Juntar los tres buses en uno de 19 bits"
 
 #: translation.js:236
 msgid "2-to-1 Multplexer (20-bit channels)"
@@ -662,7 +665,7 @@ msgstr ""
 
 #: translation.js:238
 msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
-msgstr ""
+msgstr "Bus20-Join-4-8-8: Juntar los tres buses en uno de 20 bits"
 
 #: translation.js:241
 msgid "2-to-1 Multplexer (23-bit channels)"
@@ -675,7 +678,7 @@ msgstr ""
 
 #: translation.js:243
 msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
-msgstr ""
+msgstr "Bus23-Join-7-8-8: Juntar los tres buses en uno de 23 bits"
 
 #: translation.js:246
 msgid "2-to-1 Multplexer (24-bit channels)"
@@ -689,7 +692,7 @@ msgstr ""
 
 #: translation.js:248
 msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
-msgstr ""
+msgstr "Bus24-Join-one-third: Juntar los tres buses en uno de 24 bits"
 
 #: translation.js:251
 msgid "2-to-1 Multplexer (27-bit channels)"
@@ -703,7 +706,7 @@ msgstr ""
 
 #: translation.js:253
 msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
-msgstr ""
+msgstr "Bus27-Join-3-8-8-8: Juntar los cuatro buses en uno de 27 bits"
 
 #: translation.js:256
 msgid "2-to-1 Multplexer (28-bit channels)"
@@ -717,7 +720,7 @@ msgstr ""
 
 #: translation.js:258
 msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
-msgstr ""
+msgstr "Bus28-Join-4-8-8-8: Juntar los cuatro buses en uno de 28 bits"
 
 #: translation.js:261
 msgid "2-to-1 Multplexer (31-bit channels)"
@@ -731,7 +734,7 @@ msgstr ""
 
 #: translation.js:263
 msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
-msgstr ""
+msgstr "Bus31-Join-7-8-8-8: Juntar los cuatro buses en uno de 31 bits"
 
 #: translation.js:266
 msgid "2-to-1 Multplexer (32-bit channels)"
@@ -739,7 +742,7 @@ msgstr "Multiplexor 2-1 (canales de 32 bits)"
 
 #: translation.js:267
 msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
-msgstr ""
+msgstr "Bus32-Join-quarter: Juntar los cuatro buses en uno de 32 bits"
 
 #: translation.js:268
 msgid "Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires"
@@ -1169,7 +1172,7 @@ msgstr ""
 
 #: translation.js:364
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
-msgstr ""
+msgstr "Bus16-Join-quarter: Juntar los cuatro buses iguales en uno de 16 bits"
 
 #: translation.js:365
 msgid "Inc1-16bit: Increment a 16-bits number by one"
@@ -1727,7 +1730,7 @@ msgstr "Adder-6bits: Sumador de dos operandos de 6 bits"
 
 #: translation.js:468
 msgid "Bus6-Join-1-5: Join the two buses into a 6-bits Bus"
-msgstr ""
+msgstr "Bus6-Join-1-5: Juntar los dos buses en uno de 6 bits"
 
 #: translation.js:469
 msgid "Generic: 6-bits generic constant (0-63)"
@@ -1987,7 +1990,7 @@ msgstr ""
 
 #: translation.js:572
 msgid "Bus12-Join-one-fourth: Join the four buses into an 12-bits Bus"
-msgstr ""
+msgstr "Bus10-Join-one-fourth: Juntar los cuatro buses en uno de 12 bits"
 
 #: translation.js:573
 msgid "UINT16-12bits:  Extend a 12-bits unsigned integer to 16-bits "
@@ -1995,7 +1998,7 @@ msgstr ""
 
 #: translation.js:574
 msgid "Bus16-Join-4-12: Join the two same halves into an 16-bits Bus"
-msgstr ""
+msgstr "Bus16-Join-4-12: Juntar los dos buses en uno de 16 bits"
 
 #: translation.js:575
 msgid "4bits constant value: 0"
@@ -2003,7 +2006,7 @@ msgstr "Valor constante de 4 bits: 0"
 
 #: translation.js:579
 msgid "Bus24-Join-half: Join the two buses into an 24-bits Bus"
-msgstr ""
+msgstr "Bus24-Join-half: Juntar los dos buses en uno de 24 bits"
 
 #: translation.js:580
 msgid ""
@@ -2076,7 +2079,7 @@ msgstr ""
 
 #: translation.js:606
 msgid "Bus32-Join-half: Join the two buses into an 32-bits Bus"
-msgstr ""
+msgstr "Bus32-Join-half: Juntar los dos buses en uno de 32-bits"
 
 #: translation.js:619
 msgid ""
@@ -2090,7 +2093,7 @@ msgstr ""
 
 #: translation.js:621
 msgid "Bus64-Join-half: Join the two buses into an 64-bits Bus"
-msgstr ""
+msgstr "Bus64-Join-half: Juntar los dos buses en uno de 64 bits"
 
 #: translation.js:652 translation.js:655 translation.js:661 translation.js:662
 #: translation.js:668 translation.js:673 translation.js:674 translation.js:679
@@ -2234,7 +2237,7 @@ msgstr ""
 
 #: translation.js:740
 msgid "Bus7-Join-7-1: Join the two buses into an 8-bits Bus"
-msgstr ""
+msgstr "Bus7-Join-7-1: Juntar los dos buses en uno de 8 bits"
 
 #: translation.js:741
 msgid "7bits constant value: 0"
@@ -2256,7 +2259,7 @@ msgstr ""
 
 #: translation.js:748
 msgid "Bus8-Join-6-2: Join the two buses into an 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-6-2: Juntar los dos buses en uno de 8 bits"
 
 #: translation.js:749
 msgid "6bits constant value: 0"
@@ -2276,7 +2279,7 @@ msgstr ""
 
 #: translation.js:756
 msgid "Bus8-Join-5-3: Join the two buses into an 8-bits Bus"
-msgstr ""
+msgstr "Bus8-Join-5-3: Juntar los dos buses en uno de 8 bits"
 
 #: translation.js:757
 msgid "5bits constant value: 0"
@@ -2308,7 +2311,7 @@ msgstr ""
 
 #: translation.js:770
 msgid "Bus7-Join-1-7: Join the two buses into an 8-bits Bus"
-msgstr ""
+msgstr "Bus7-Join-1-7: Juntar los dos buses en uno de 8 bits"
 
 #: translation.js:771
 msgid "## 15-bits Mux-2-1: Manual testing\n"
