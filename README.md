@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/70) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/80) |
 
 ## Blocks
 * **DeMux**
