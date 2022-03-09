@@ -217,14 +217,22 @@ For installing and using this colection in Icestudio follow these steps:
 * **09-Demux-1-4**
   * **Alhambra-II**
     * 09-deMux-1-4-button-LEDs
+  * **Nandland-go-board**
+    * 09-deMux-1-4-button-LEDs
 * **10-Demux-1-4-Bus**
   * **Alhambra-II**
+    * 10-deMux-1-4-Bus-button-LEDs
+  * **Nandland-go-board**
     * 10-deMux-1-4-Bus-button-LEDs
 * **11-Demux-1-8**
   * **Alhambra-II**
     * 11-deMux-1-8-button-LEDs
+  * **Nandland-go-board**
+    * 11-deMux-1-8-button-LEDs
 * **12-Demus-1-8-Bus**
   * **Alhambra-II**
+    * 12-deMux-1-8-Bus-button-LEDs
+  * **Nandland-go-board**
     * 12-deMux-1-8-Bus-button-LEDs
 * **TESTs**
   * **DeMux**
