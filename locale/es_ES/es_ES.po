@@ -17,7 +17,7 @@ msgstr ""
 
 #: translation.js:10 translation.js:514
 msgid "DeMux"
-msgstr ""
+msgstr "DeMux"
 
 #: translation.js:11 translation.js:515
 msgid "Mux"
@@ -46,21 +46,21 @@ msgstr "08-bits"
 #: translation.js:17 translation.js:30 translation.js:56 translation.js:65
 #: translation.js:75 translation.js:85 translation.js:521 translation.js:524
 msgid "DeMux-1-2"
-msgstr ""
+msgstr "DeMux-1-2"
 
 #: translation.js:18 translation.js:40 translation.js:58 translation.js:68
 #: translation.js:78 translation.js:89 translation.js:522 translation.js:533
 msgid "DeMux-1-4"
-msgstr ""
+msgstr "DeMux-1-2-Bus"
 
 #: translation.js:19 translation.js:50 translation.js:61 translation.js:70
 #: translation.js:80 translation.js:91 translation.js:523 translation.js:542
 msgid "DeMux-1-8"
-msgstr ""
+msgstr "DeMux-1-8"
 
 #: translation.js:20 translation.js:525
 msgid "DeMux-1-2-Bus"
-msgstr ""
+msgstr "DeMux-1-2-Bus"
 
 #: translation.js:21
 msgid "1-to-2 DeMultplexer (1-bit channels) (Outputs grouped in a Bus)"
@@ -92,7 +92,7 @@ msgstr ""
 
 #: translation.js:28
 msgid "DeMux-1-2-verilog"
-msgstr ""
+msgstr "DeMux-1-2-Bus"
 
 #: translation.js:29
 msgid "1-to-2 DeMultplexer (1-bit channels) (Verilog implementation)"
@@ -100,7 +100,7 @@ msgstr "Demultiplexor 1-2 (Canales de 1 bit) (Implementación en verilog)"
 
 #: translation.js:31 translation.js:526
 msgid "DeMuxF-1-2"
-msgstr ""
+msgstr "DeMuxF-1-2"
 
 #: translation.js:32
 msgid "1-to-2 DeMultiplexer (1-bit channels) (Flipped version)"
@@ -108,7 +108,7 @@ msgstr "Demultiplexor-1-2 (Canales de 1 bit) (Versión invertida)"
 
 #: translation.js:33
 msgid "DeMux-1-4-Bus"
-msgstr ""
+msgstr "DeMux-1-4-Bus"
 
 #: translation.js:34
 msgid "1-to-4 DeMultplexer (1-bit channels) (Output grouped in a bus)"
@@ -128,7 +128,7 @@ msgstr "Bus4-Join-all: Juntar todos los cables en un bus de 4-bits"
 
 #: translation.js:38
 msgid "DeMux-1-4-verilog"
-msgstr ""
+msgstr "DeMux-1-4-verilog"
 
 #: translation.js:39
 msgid "1-to-4 DeMultplexer (1-bit channels) Verilog implementation"
@@ -136,7 +136,7 @@ msgstr "Demultiplexor-1-4 (Canales de 1 bit). Implementación en Verilog"
 
 #: translation.js:41 translation.js:535
 msgid "DeMuxF-1-4"
-msgstr ""
+msgstr "DeMuxF-1-4"
 
 #: translation.js:42
 msgid "1-to-4 DeMultplexer (1-bit channels). Flipped version"
@@ -144,7 +144,7 @@ msgstr "Demultiplexor-1-4 (Canales de 1-bit). Versión invertida"
 
 #: translation.js:43 translation.js:543
 msgid "DeMux-1-8-Bus"
-msgstr ""
+msgstr "DeMux-1-8-Bus"
 
 #: translation.js:44
 msgid "1-to-8 DeMultplexer (1-bit channels) (Output grouped in a bus)"
@@ -164,7 +164,7 @@ msgstr "Bus3-Split-all: Dividir el bus de 3-bits bus en tres cables"
 
 #: translation.js:48
 msgid "DeMux-1-8-verilog"
-msgstr ""
+msgstr "DeMux-1-8-verilog"
 
 #: translation.js:49
 msgid "1-to-8 DeMultplexer (1-bit channels) Verilog implementation"
@@ -172,7 +172,7 @@ msgstr "Demultiplexor 1-8 (Canales de 1 bit). Implementación en verilog"
 
 #: translation.js:51
 msgid "DeMuxF-1-8"
-msgstr ""
+msgstr "DeMuxF-1-8"
 
 #: translation.js:52
 msgid "1-to-8 DeMultplexer (1-bit channels). Flipped version"
@@ -182,32 +182,32 @@ msgstr "Demultiplexor 1-8 (Canales de 1-bit). Versión invertida"
 #: translation.js:551 translation.js:554 translation.js:563 translation.js:566
 #: translation.js:594 translation.js:597 translation.js:607 translation.js:610
 msgid "Demux-1-2"
-msgstr ""
+msgstr "Demux-1-2"
 
 #: translation.js:54 translation.js:63 translation.js:73 translation.js:83
 #: translation.js:552 translation.js:557 translation.js:564 translation.js:569
 #: translation.js:595 translation.js:600 translation.js:608 translation.js:613
 msgid "Demux-1-4"
-msgstr ""
+msgstr "Demux-1-4"
 
 #: translation.js:55 translation.js:60 translation.js:64 translation.js:74
 #: translation.js:84 translation.js:553 translation.js:560 translation.js:565
 #: translation.js:576 translation.js:596 translation.js:602 translation.js:609
 #: translation.js:616
 msgid "Demux-1-8"
-msgstr ""
+msgstr "Demux-1-8"
 
 #: translation.js:57
 msgid "DeMux-1-2-02-bits: 1-to-2 DeMultplexer (2-bit channels)"
-msgstr ""
+msgstr "DeMux-1-2-02-bits: De multiplexor de 1 a 2 (Canales de 2 bits)"
 
 #: translation.js:59
 msgid "DeMux-1-4-02-bits: 1-to-2 DeMultplexer (2-bit channels)"
-msgstr ""
+msgstr "DeMux-1-4-02-bits: Demultiplexor de 1 a 2 (Canales de 2 bits)"
 
 #: translation.js:66
 msgid "DeMux-1-2-03-bits: 1-to-2 DeMultplexer (3-bit channels)"
-msgstr ""
+msgstr "DeMux-1-2-03-bits: De multiplexor de 1 a 2 (Canales de 3 bits)"
 
 #: translation.js:67
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
@@ -215,7 +215,7 @@ msgstr "Bus3-Join-all: Juntar los tres cables en uno de 3 bits"
 
 #: translation.js:69
 msgid "DeMux-1-4-03-bits: 1-to-2 DeMultplexer (3-bit channels)"
-msgstr ""
+msgstr "DeMux-1-4-03-bits: Demultiplexor de 1 a 2 (Canales de 3 bits)"
 
 #: translation.js:71
 msgid "1-to-8 DeMultplexer (3-bit channels)"
@@ -223,7 +223,7 @@ msgstr "Demultiplexor 1-8 (Canales de 3 bits)"
 
 #: translation.js:76
 msgid "DeMux-1-2-04-bits: 1-to-2 DeMultplexer (4-bit channels)"
-msgstr ""
+msgstr "DeMux-1-2-04-bits: De multiplexor de 1 a 2 (Canales de 4 bits)"
 
 #: translation.js:77
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
@@ -231,7 +231,7 @@ msgstr "Bus4-Split-all: Dividir el bus de 4-bits en sus cables"
 
 #: translation.js:79
 msgid "DeMux-1-4-04-bits: 1-to-2 DeMultplexer (4-bit channels)"
-msgstr ""
+msgstr "DeMux-1-4-04-bits: Demultiplexor de 1 a 2 (Canales de 4 bits)"
 
 #: translation.js:81
 msgid "1-to-8 DeMultplexer (4-bit channels)"
@@ -239,7 +239,7 @@ msgstr "Demultiplexor 1-8 (Canales de 4 bits)"
 
 #: translation.js:86
 msgid "DeMux-1-2-08-bits: 1-to-2 DeMultplexer (8-bit channels)"
-msgstr ""
+msgstr "DeMux-1-2-08-bits: De multiplexor de 1 a 2 (Canales de 8 bits)"
 
 #: translation.js:87
 msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: translation.js:90
 msgid "DeMux-1-4-08-bits: 1-to-4 DeMultplexer (8-bit channels)"
-msgstr ""
+msgstr "DeMux-1-4-08-bits: Demultiplexor de 1 a 4 (Canales de 8 bits)"
 
 #: translation.js:92
 msgid "1-to-8 DeMultplexer (8-bit channels)"
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #: translation.js:331
 msgid "D Flip-flop (verilog implementation)"
-msgstr ""
+msgstr "Biestable D (Implementación en verilog)"
 
 #: translation.js:332
 msgid ""
@@ -1062,7 +1062,7 @@ msgstr "Ciclo de trabajo del 50 por ciento"
 
 #: translation.js:335
 msgid "Divisor"
-msgstr ""
+msgstr "Divisor"
 
 #: translation.js:336
 msgid "Channel 1"
@@ -1164,7 +1164,7 @@ msgstr "Botón configurable (pull-up on/off. Not on/off)"
 
 #: translation.js:356
 msgid "FPGA internal pull-up configuration on the input port"
-msgstr ""
+msgstr "Configuración del Pull-up interno de la FPGA en el puerto de entrada"
 
 #: translation.js:357
 msgid "Remove the rebound on a mechanical switch"
@@ -1180,15 +1180,17 @@ msgstr "Contador del sistema de 16-bits con reset"
 
 #: translation.js:360
 msgid "DFF-rst-x16: 16 D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x16: 16 Biestables D en paralelo con reset"
 
 #: translation.js:361
 msgid "DFF-rst-x04: Three D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x04: Tres Biestable D en paralelo con reset"
 
 #: translation.js:362
 msgid "DFF-rst-x01: D Flip flop with reset input. When rst=1, the DFF is 0"
 msgstr ""
+"DFF-rst-x01: Biestable D con entrada de reset. Cuando rst=1, el biestable es "
+"0"
 
 #: translation.js:363
 msgid ""
@@ -1254,6 +1256,8 @@ msgid ""
 "Edges detector. It generates a 1-period pulse (tic) when either a rising "
 "edge or a falling edge is detected on the input"
 msgstr ""
+"Detector de flancos. Genera una señal de 1 ciclo (tic) cuando se detecta en "
+"la entrada bien un flanco de subida o uno de bajada"
 
 #: translation.js:377
 msgid "Sync 1-bit input with the system clock domain"
@@ -1274,7 +1278,7 @@ msgstr "Counter-x02: Contador de 2-bits"
 
 #: translation.js:381
 msgid "Generic component with clk input"
-msgstr ""
+msgstr "Componente genérico con entrada clk"
 
 #: translation.js:382
 msgid "Reg: 1-Bit register"
@@ -1308,7 +1312,7 @@ msgstr "Contador del sistema de 2 bits"
 
 #: translation.js:389
 msgid "DFF-02: Two D flip-flops in paralell"
-msgstr ""
+msgstr "DFF-02: Dos Biestables D en paralelo"
 
 #: translation.js:390
 msgid ""
@@ -1448,7 +1452,7 @@ msgstr ""
 
 #: translation.js:412
 msgid "Debouncing stage"
-msgstr ""
+msgstr "Etapa antirrebotes"
 
 #: translation.js:413
 msgid ""
@@ -1476,7 +1480,7 @@ msgstr ""
 
 #: translation.js:416
 msgid "Edge detector"
-msgstr ""
+msgstr "Detector de flanco"
 
 #: translation.js:417
 msgid ""
@@ -1543,7 +1547,7 @@ msgstr ""
 
 #: translation.js:425
 msgid "Data input"
-msgstr ""
+msgstr "Entrada de datos"
 
 #: translation.js:426
 msgid ""
@@ -1675,7 +1679,7 @@ msgstr "Contador del sistema de 3-bits"
 
 #: translation.js:448
 msgid "DFF-03: Three D flip-flops in paralell"
-msgstr ""
+msgstr "DFF-03: Tres Biestables D en paralelo"
 
 #: translation.js:449
 msgid ""
@@ -1688,7 +1692,7 @@ msgstr "Contador del sistema de 4 bits"
 
 #: translation.js:451
 msgid "DFF-04: Three D flip-flops in paralell"
-msgstr ""
+msgstr "DFF-04: Cuatro Biestables D en paralelo"
 
 #: translation.js:452
 msgid "Inc1-4bit: Increment a 4-bits number by one"
@@ -1710,7 +1714,7 @@ msgstr "Contador del sistema de 5 bits"
 
 #: translation.js:456
 msgid "DFF-05: five D flip-flops in paralell"
-msgstr ""
+msgstr "DFF-05: Cinco Biestables D en paralelo"
 
 #: translation.js:457
 msgid "Inc1-5bit: Increment a 5-bits number by one"
@@ -1740,11 +1744,11 @@ msgstr "Contador del sistema de 6 bits con reset"
 
 #: translation.js:463
 msgid "DFF-rst-x06: Six D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x06: Seis Biestables D en paralelo con reset"
 
 #: translation.js:464
 msgid "DFF-rst-x02: Two D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x02: Dos Biestable D en paralelo con reset"
 
 #: translation.js:465
 msgid "Inc1-6bit: Increment a 6-bits number by one"
@@ -1976,6 +1980,8 @@ msgid ""
 "Display16-8: Display a 16-bits value on an  8-LEDs. The sel input selects "
 "the byte to display "
 msgstr ""
+"Display16-8: Mostrar un valor de 16-bits en 8 LEDs. La entrada sel "
+"selecciona el byte a mostrar "
 
 #: translation.js:512
 msgid "Counter-x01: 1-bit counter"
@@ -2013,11 +2019,11 @@ msgstr "01-manual-test"
 
 #: translation.js:534
 msgid "DeMux-14-Bus"
-msgstr ""
+msgstr "DeMux-14-Bus"
 
 #: translation.js:544
 msgid "DemuxF-1-8"
-msgstr ""
+msgstr "DemuxF-1-8"
 
 #: translation.js:572
 msgid "Bus12-Join-one-fourth: Join the four buses into an 12-bits Bus"
@@ -2044,6 +2050,8 @@ msgid ""
 "Display24-8: Display a 24-bits value on  8-LEDs. The sel input selects the "
 "byte to display "
 msgstr ""
+"Display24-8: Mostrar un valor de 24-bits en 8 LEDs. La entrada sel "
+"selecciona el byte a mostrar "
 
 #: translation.js:581
 msgid "Counter-M-x02: 2-bits M module counter"
@@ -2107,6 +2115,8 @@ msgid ""
 "Display32-8: Display a 32-bits value on an  8-LEDs. The sel input selects "
 "the byte to display "
 msgstr ""
+"Display32-8: Mostrar un valor de 32-bits en 8 LEDs. La entrada sel "
+"selecciona el byte a mostrar "
 
 #: translation.js:606
 msgid "Bus32-Join-half: Join the two buses into an 32-bits Bus"
@@ -2117,6 +2127,8 @@ msgid ""
 "Display64-8: Display a 64-bits value on  8-LEDs. The sel input selects the "
 "byte to display "
 msgstr ""
+"Display64-8: Mostrar un valor de 64-bits en 8 LEDs. La entrada sel "
+"selecciona el byte a mostrar "
 
 #: translation.js:620
 msgid "Bus64-Split-half: Split the 64-bits bus into two buses of 32 wires"
