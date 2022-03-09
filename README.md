@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
 
 ## Blocks
 * **DeMux**
@@ -177,26 +177,42 @@ For installing and using this colection in Icestudio follow these steps:
 * **01-Mux-2-1**
   * **Alhambra-II**
     * 01-Mux-2-1-button-LED
+  * **Nandland-go-board**
+    * 01-Mux-2-1-button-LED
 * **02-Mux-2-1-Bus**
   * **Alhambra-II**
+    * 02-Mux-2-1-Bus4-button-LED
+  * **Nandlang-go-board**
     * 02-Mux-2-1-Bus4-button-LED
 * **03-Mux-4-1**
   * **Alhambra-II**
     * 03-Mux-4-1-button-LED
+  * **Nandland-go-board**
+    * 03-Mux-4-1-button-LED
 * **04-Mux-4-1-Bus**
   * **Alhambra-II**
+    * 04-Mux-4-1-Bus4-button-LEDs
+  * **Nandland-go-board**
     * 04-Mux-4-1-Bus4-button-LEDs
 * **05-Mux-8-1**
   * **Alhambra-II**
     * 05-Mux-8-1-button-LED
+  * **Nandland-go-board**
+    * 05-Mux-8-1-button-LED
 * **06-Mux-8-1-Bus**
   * **Alhambra-II**
+    * 06-Mux-8-1-Bus4-button-LEDs
+  * **Nandland-go-board**
     * 06-Mux-8-1-Bus4-button-LEDs
 * **07-Demux-1-2-button-LED**
   * **Alhambra-II**
     * 07-deMux-1-2-button-LED
+  * **Nandland-go-board**
+    * 07-deMux-1-2-button-LED
 * **08-Demux-1-2-Bus**
   * **Alhambra-II**
+    * 08-deMux-1-2-Bus-button-LED
+  * **Nandland-go-board**
     * 08-deMux-1-2-Bus-button-LED
 * **09-Demux-1-4**
   * **Alhambra-II**
