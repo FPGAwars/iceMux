@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-09 07:27+0000\n"
+"POT-Creation-Date: 2022-03-09 08:28+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -811,23 +811,23 @@ msgstr "## MUX"
 
 #: translation.js:285
 msgid "### Mux-2-1"
-msgstr ""
+msgstr "### Mux-2-1"
 
 #: translation.js:286
 msgid "### Mux-4-1"
-msgstr ""
+msgstr "### Mux-4-1"
 
 #: translation.js:287
 msgid "### 1-BIT"
-msgstr ""
+msgstr "### 1-BIT"
 
 #: translation.js:288
 msgid "### MuxF-2-1"
-msgstr ""
+msgstr "### MuxF-2-1"
 
 #: translation.js:289
 msgid "### Mux-2-1-BUS"
-msgstr ""
+msgstr "### Mux-2-1-BUS"
 
 #: translation.js:290
 msgid "## DEMUX"
@@ -835,87 +835,87 @@ msgstr "## DEMUX"
 
 #: translation.js:291
 msgid "### DeMux-1-2"
-msgstr ""
+msgstr "### DeMux-1-2"
 
 #: translation.js:292
 msgid "### DeMuxF-1-2"
-msgstr ""
+msgstr "### DeMuxF-1-2"
 
 #: translation.js:293
 msgid "### DeMux-1-2-BUS"
-msgstr ""
+msgstr "### DeMux-1-2-BUS"
 
 #: translation.js:294
 msgid "### 2-BITs"
-msgstr ""
+msgstr "### 2-BITs"
 
 #: translation.js:295
 msgid "### 3-BITs"
-msgstr ""
+msgstr "### 3-BITs"
 
 #: translation.js:296
 msgid "### 4-BITs"
-msgstr ""
+msgstr "### 4-BITs"
 
 #: translation.js:297
 msgid "### 5-BITs"
-msgstr ""
+msgstr "### 5-BITs"
 
 #: translation.js:298
 msgid "### 6-BITs"
-msgstr ""
+msgstr "### 6-BITs"
 
 #: translation.js:299
 msgid "### 7-BITs"
-msgstr ""
+msgstr "### 7-BITs"
 
 #: translation.js:300
 msgid "### 8-BITs"
-msgstr ""
+msgstr "### 8-BITs"
 
 #: translation.js:301
 msgid "### DeMux-1-4"
-msgstr ""
+msgstr "### DeMux-1-4"
 
 #: translation.js:302
 msgid "### DeMux-1-8"
-msgstr ""
+msgstr "### DeMux-1-8"
 
 #: translation.js:303
 msgid "### DeMux-1-4-BUS"
-msgstr ""
+msgstr "### DeMux-1-4-BUS"
 
 #: translation.js:304
 msgid "### DeMux-1-8-BUS"
-msgstr ""
+msgstr "### DeMux-1-8-BUS"
 
 #: translation.js:305
 msgid "### MuxF-4-1"
-msgstr ""
+msgstr "### MuxF-4-1"
 
 #: translation.js:306
 msgid "### Mux-4-1-BUS"
-msgstr ""
+msgstr "### Mux-4-1-BUS"
 
 #: translation.js:307
 msgid "### Mux-8-1"
-msgstr ""
+msgstr "### Mux-8-1"
 
 #: translation.js:308
 msgid "### MuxF-8-1"
-msgstr ""
+msgstr "### MuxF-8-1"
 
 #: translation.js:309
 msgid "### Mux-8-1-BUS"
-msgstr ""
+msgstr "### Mux-8-1-BUS"
 
 #: translation.js:310
 msgid "### DeMuxF-1-4"
-msgstr ""
+msgstr "### DeMuxF-1-4"
 
 #: translation.js:311
 msgid "### DeMuxF-1-8"
-msgstr ""
+msgstr "### DeMuxF-1-8"
 
 #: translation.js:312
 msgid "001-index"
@@ -923,59 +923,59 @@ msgstr ""
 
 #: translation.js:313
 msgid "### 9-BITs"
-msgstr ""
+msgstr "### 9-BITs"
 
 #: translation.js:314
 msgid "### 10-BITs"
-msgstr ""
+msgstr "### 10-BITs"
 
 #: translation.js:315
 msgid "### 11-BITs"
-msgstr ""
+msgstr "### 11-BITs"
 
 #: translation.js:316
 msgid "### 12-BITs"
-msgstr ""
+msgstr "### 12-BITs"
 
 #: translation.js:317
 msgid "### 15-BITs"
-msgstr ""
+msgstr "### 15-BITs"
 
 #: translation.js:318
 msgid "### 16-BITs"
-msgstr ""
+msgstr "### 16-BITs"
 
 #: translation.js:319
 msgid "### 19-BITs"
-msgstr ""
+msgstr "### 19-BITs"
 
 #: translation.js:320
 msgid "### 20-BITs"
-msgstr ""
+msgstr "### 20-BITs"
 
 #: translation.js:321
 msgid "### 23-BITs"
-msgstr ""
+msgstr "### 23-BITs"
 
 #: translation.js:322
 msgid "### 24-BITs"
-msgstr ""
+msgstr "### 24-BITs"
 
 #: translation.js:323
 msgid "### 27-BITs"
-msgstr ""
+msgstr "### 27-BITs"
 
 #: translation.js:324
 msgid "### 28-BITs"
-msgstr ""
+msgstr "### 28-BITs"
 
 #: translation.js:325
 msgid "### 31-BITs"
-msgstr ""
+msgstr "### 31-BITs"
 
 #: translation.js:326
 msgid "### 32-BITs"
-msgstr ""
+msgstr "### 32-BITs"
 
 #: translation.js:327 translation.js:344 translation.js:350 translation.js:434
 #: translation.js:438 translation.js:476 translation.js:484 translation.js:488
@@ -1304,19 +1304,19 @@ msgstr "**Mux-4-1**"
 
 #: translation.js:393
 msgid "### 25%"
-msgstr ""
+msgstr "### 25%"
 
 #: translation.js:394
 msgid "### 0%"
-msgstr ""
+msgstr "### 0%"
 
 #: translation.js:395
 msgid "### 100%"
-msgstr ""
+msgstr "### 100%"
 
 #: translation.js:396
 msgid "### 50%"
-msgstr ""
+msgstr "### 50%"
 
 #: translation.js:397
 msgid "2-bits counter"
@@ -1422,6 +1422,10 @@ msgid ""
 "0: No pull-up  \n"
 "1: Pull-up activated"
 msgstr ""
+"### Parámetro Pull-up:\n"
+"\n"
+"0: Sin pull-up  \n"
+"1: Pull-up activado"
 
 #: translation.js:414
 msgid ""
@@ -1461,6 +1465,12 @@ msgid ""
 "IF more time is needed for debouncing,  \n"
 "use a counter with more bits (17, 18...)"
 msgstr ""
+"### Cálculo de la temporización\n"
+"\n"
+"Para CLK=12MHZ, un contador de 16-bits alcanza su  \n"
+"máximo cada 2**16 * 1 /F = 5.5ms aprox  \n"
+"Si se necesita más tiempo para el antirrebotes,  \n"
+"usa un contador con más bits (17, 18...)"
 
 #: translation.js:420
 msgid ""
@@ -1549,6 +1559,14 @@ msgid ""
 "| 1 | 0     |  1     | Not      |\n"
 "| 1 | 1     |  0     | Not      |"
 msgstr ""
+"### Tabla de verdad del XOR\n"
+"\n"
+"| k | entrada | salida | función |\n"
+"|---|-------|--------|----------|\n"
+"| 0 | 0     |  0     | cable     |\n"
+"| 0 | 1     |  1     | cable     |\n"
+"| 1 | 0     |  1     | Not      |\n"
+"| 1 | 1     |  0     | Not      |"
 
 #: translation.js:432
 msgid "Mux 2-1"
@@ -1730,19 +1748,19 @@ msgstr "**Mux-8-1**"
 
 #: translation.js:472
 msgid "### 12%"
-msgstr ""
+msgstr "### 12%"
 
 #: translation.js:473
 msgid "### 6%"
-msgstr ""
+msgstr "### 6%"
 
 #: translation.js:474
 msgid "### 3%"
-msgstr ""
+msgstr "### 3%"
 
 #: translation.js:475
 msgid "### 1.5%"
-msgstr ""
+msgstr "### 1.5%"
 
 #: translation.js:477
 msgid "06-Mux-8-1-Bus4-button-LEDs"
