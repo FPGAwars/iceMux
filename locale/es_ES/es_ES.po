@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-09 07:38+0000\n"
+"POT-Creation-Date: 2022-03-09 08:38+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -25,23 +25,23 @@ msgstr ""
 
 #: translation.js:12 translation.js:93 translation.js:516 translation.js:622
 msgid "01-bit"
-msgstr ""
+msgstr "01-bit"
 
 #: translation.js:13 translation.js:94 translation.js:517 translation.js:623
 msgid "02-bits"
-msgstr ""
+msgstr "02-bits"
 
 #: translation.js:14 translation.js:95 translation.js:518 translation.js:624
 msgid "03-bits"
-msgstr ""
+msgstr "03-bits"
 
 #: translation.js:15 translation.js:96 translation.js:519 translation.js:625
 msgid "04-bits"
-msgstr ""
+msgstr "04-bits"
 
 #: translation.js:16 translation.js:100 translation.js:520 translation.js:629
 msgid "08-bits"
-msgstr ""
+msgstr "08-bits"
 
 #: translation.js:17 translation.js:30 translation.js:56 translation.js:65
 #: translation.js:75 translation.js:85 translation.js:521 translation.js:524
@@ -64,11 +64,11 @@ msgstr ""
 
 #: translation.js:21
 msgid "1-to-2 DeMultplexer (1-bit channels) (Outputs grouped in a Bus)"
-msgstr ""
+msgstr "Demultiplexor 1-2 (Canales de 1 bit) (Salidas agrupadas en un bus)"
 
 #: translation.js:22
 msgid "1-to-2 DeMultplexer (1-bit channels)"
-msgstr ""
+msgstr "Demultiplexor 1-2 (Canales de 1-bit)"
 
 #: translation.js:23
 msgid "Two bits input And gate"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: translation.js:29
 msgid "1-to-2 DeMultplexer (1-bit channels) (Verilog implementation)"
-msgstr ""
+msgstr "Demultiplexor 1-2 (Canales de 1 bit) (Implementación en verilog)"
 
 #: translation.js:31 translation.js:526
 msgid "DeMuxF-1-2"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: translation.js:32
 msgid "1-to-2 DeMultiplexer (1-bit channels) (Flipped version)"
-msgstr ""
+msgstr "Demultiplexor-1-2 (Canales de 1 bit) (Versión invertida)"
 
 #: translation.js:33
 msgid "DeMux-1-4-Bus"
@@ -112,11 +112,11 @@ msgstr ""
 
 #: translation.js:34
 msgid "1-to-4 DeMultplexer (1-bit channels) (Output grouped in a bus)"
-msgstr ""
+msgstr "Demultiplexor-1-4 (Canales de 1 bit) (Salidas agrupadas en un bus)"
 
 #: translation.js:35
 msgid "1-to-4 DeMultplexer (1-bit channels)"
-msgstr ""
+msgstr "Demultiplexor-1-4 (Canales de 1 bit)"
 
 #: translation.js:36
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: translation.js:39
 msgid "1-to-4 DeMultplexer (1-bit channels) Verilog implementation"
-msgstr ""
+msgstr "Demultiplexor-1-4 (Canales de 1 bit). Implementación en Verilog"
 
 #: translation.js:41 translation.js:535
 msgid "DeMuxF-1-4"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: translation.js:42
 msgid "1-to-4 DeMultplexer (1-bit channels). Flipped version"
-msgstr ""
+msgstr "Demultiplexor-1-4 (Canales de 1-bit). Versión invertida"
 
 #: translation.js:43 translation.js:543
 msgid "DeMux-1-8-Bus"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: translation.js:44
 msgid "1-to-8 DeMultplexer (1-bit channels) (Output grouped in a bus)"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 1-bit) (Salidas agrupadas en un bus)"
 
 #: translation.js:45
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: translation.js:46
 msgid "1-to-8 DeMultplexer (1-bit channels)"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 1 bit)"
 
 #: translation.js:47
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
@@ -168,7 +168,7 @@ msgstr ""
 
 #: translation.js:49
 msgid "1-to-8 DeMultplexer (1-bit channels) Verilog implementation"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 1 bit). Implementación en verilog"
 
 #: translation.js:51
 msgid "DeMuxF-1-8"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: translation.js:52
 msgid "1-to-8 DeMultplexer (1-bit channels). Flipped version"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 1-bit). Versión invertida"
 
 #: translation.js:53 translation.js:62 translation.js:72 translation.js:82
 #: translation.js:551 translation.js:554 translation.js:563 translation.js:566
@@ -219,7 +219,7 @@ msgstr ""
 
 #: translation.js:71
 msgid "1-to-8 DeMultplexer (3-bit channels)"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 3 bits)"
 
 #: translation.js:76
 msgid "DeMux-1-2-04-bits: 1-to-2 DeMultplexer (4-bit channels)"
@@ -235,7 +235,7 @@ msgstr ""
 
 #: translation.js:81
 msgid "1-to-8 DeMultplexer (4-bit channels)"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 4 bits)"
 
 #: translation.js:86
 msgid "DeMux-1-2-08-bits: 1-to-2 DeMultplexer (8-bit channels)"
@@ -255,23 +255,23 @@ msgstr ""
 
 #: translation.js:92
 msgid "1-to-8 DeMultplexer (8-bit channels)"
-msgstr ""
+msgstr "Demultiplexor 1-8 (Canales de 8 bits)"
 
 #: translation.js:97 translation.js:626
 msgid "05-bits"
-msgstr ""
+msgstr "05-bits"
 
 #: translation.js:98 translation.js:627
 msgid "06-bits"
-msgstr ""
+msgstr "06-bits"
 
 #: translation.js:99 translation.js:628
 msgid "07-bits"
-msgstr ""
+msgstr "07-bits"
 
 #: translation.js:101 translation.js:630
 msgid "09-bits"
-msgstr ""
+msgstr "09-bits"
 
 #: translation.js:102 translation.js:631
 msgid "10-bits"
@@ -747,39 +747,39 @@ msgstr ""
 
 #: translation.js:269
 msgid "01-Mux-2-1"
-msgstr ""
+msgstr "01-Mux-2-1"
 
 #: translation.js:270
 msgid "02-Mux-2-1-Bus"
-msgstr ""
+msgstr "02-Mux-2-1-Bus"
 
 #: translation.js:271
 msgid "03-Mux-4-1"
-msgstr ""
+msgstr "03-Mux-4-1"
 
 #: translation.js:272
 msgid "04-Mux-4-1-Bus"
-msgstr ""
+msgstr "04-Mux-4-1-Bus"
 
 #: translation.js:273
 msgid "05-Mux-8-1"
-msgstr ""
+msgstr "05-Mux-8-1"
 
 #: translation.js:274
 msgid "06-Mux-8-1-Bus"
-msgstr ""
+msgstr "06-Mux-8-1-Bus"
 
 #: translation.js:275
 msgid "07-Demux-1-2-button-LED"
-msgstr ""
+msgstr "07-Demux-1-2-button-LED"
 
 #: translation.js:276
 msgid "08-Demux-1-2-Bus"
-msgstr ""
+msgstr "08-Demux-1-2-Bus"
 
 #: translation.js:277
 msgid "09-Demux-1-4"
-msgstr ""
+msgstr "09-Demux-1-4"
 
 #: translation.js:278
 msgid "10-Demux-1-4-Bus"
@@ -799,7 +799,7 @@ msgstr ""
 
 #: translation.js:282
 msgid "000-index"
-msgstr ""
+msgstr "000-index"
 
 #: translation.js:283
 msgid "# INDEX: IceMux Collection"
@@ -919,7 +919,7 @@ msgstr "### DeMuxF-1-8"
 
 #: translation.js:312
 msgid "001-index"
-msgstr ""
+msgstr "001-index"
 
 #: translation.js:313
 msgid "### 9-BITs"
@@ -999,7 +999,7 @@ msgstr ""
 
 #: translation.js:328
 msgid "01-Mux-2-1-button-LED"
-msgstr ""
+msgstr "01-Mux-2-1-button-LED"
 
 #: translation.js:329
 msgid "Constant bit 1"
@@ -1086,7 +1086,7 @@ msgstr ""
 
 #: translation.js:345
 msgid "02-Mux-2-1-Bus4-button-LED"
-msgstr ""
+msgstr "02-Mux-2-1-Bus4-button-LED"
 
 #: translation.js:346
 msgid "Generic: 4-bits generic constant (0-15)"
@@ -1116,7 +1116,7 @@ msgstr "**Mux-2-1 de 4 bits**"
 
 #: translation.js:351
 msgid "03-Mux-4-1-button-LED"
-msgstr ""
+msgstr "03-Mux-4-1-button-LED"
 
 #: translation.js:352
 msgid "Constant bit 0"
@@ -1234,7 +1234,7 @@ msgstr ""
 
 #: translation.js:379
 msgid "1-bit generic constant (0/1)"
-msgstr ""
+msgstr "Constante genérica de 1-bit (0/1)"
 
 #: translation.js:380
 msgid "Counter-x02: 2-bits counter"
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: translation.js:435
 msgid "04-Mux-4-1-Bus4-button-LEDs"
-msgstr ""
+msgstr "04-Mux-4-1-Bus4-button-LEDs"
 
 #: translation.js:436
 msgid ""
@@ -1600,7 +1600,7 @@ msgstr "**Mux-4-1 de 4 bits**"
 
 #: translation.js:439
 msgid "05-Mux-8-1-button-LED"
-msgstr ""
+msgstr "05-Mux-8-1-button-LED"
 
 #: translation.js:440
 msgid "Counter-x03: 3-bits counter"
@@ -1764,7 +1764,7 @@ msgstr "### 1.5%"
 
 #: translation.js:477
 msgid "06-Mux-8-1-Bus4-button-LEDs"
-msgstr ""
+msgstr "06-Mux-8-1-Bus4-button-LEDs"
 
 #: translation.js:478
 msgid "4bits constant value: 1"
@@ -1800,7 +1800,7 @@ msgstr "**Mux-8-1 de 4 bits**"
 
 #: translation.js:485
 msgid "07-deMux-1-2-button-LED"
-msgstr ""
+msgstr "07-deMux-1-2-button-LED"
 
 #: translation.js:486
 msgid ""
@@ -1822,7 +1822,7 @@ msgstr "**DeMux-1-2**"
 
 #: translation.js:489
 msgid "08-deMux-1-2-Bus-button-LED"
-msgstr ""
+msgstr "08-deMux-1-2-Bus-button-LED"
 
 #: translation.js:490
 msgid ""
@@ -1838,7 +1838,7 @@ msgstr ""
 
 #: translation.js:492
 msgid "09-deMux-1-4-button-LEDs"
-msgstr ""
+msgstr "09-deMux-1-4-button-LEDs"
 
 #: translation.js:493
 msgid ""
@@ -1968,7 +1968,7 @@ msgstr ""
 #: translation.js:793 translation.js:798 translation.js:803 translation.js:808
 #: translation.js:813
 msgid "01-manual-test"
-msgstr ""
+msgstr "01-manual-test"
 
 #: translation.js:534
 msgid "DeMux-14-Bus"
@@ -2022,7 +2022,7 @@ msgstr ""
 
 #: translation.js:585
 msgid "1-bit-Reg-rst: 1-Bit register with reset"
-msgstr ""
+msgstr "1-bit-Reg-rst: Registro de 1-bit con reset"
 
 #: translation.js:586
 msgid "8bits constant value: 0"
@@ -2089,11 +2089,11 @@ msgstr ""
 #: translation.js:668 translation.js:673 translation.js:674 translation.js:679
 #: translation.js:696
 msgid "01-manual-testing"
-msgstr ""
+msgstr "01-manual-testing"
 
 #: translation.js:663
 msgid "0%"
-msgstr ""
+msgstr "0%"
 
 #: translation.js:664
 msgid "25%"
