@@ -1014,12 +1014,12 @@ msgid "D Flip-flop (verilog implementation)"
 msgstr ""
 
 #: translation.js:332
-#, fuzzy, javascript-format
+#, fuzzy
 msgid ""
 "## Example: Manual testing of the 2-to-1 Mux\n"
 "\n"
 "The LED is on (at its maximum bright) when the button is not pressed.  \n"
-"When the button is pressed a 50% duty cycle signal is sent to the  \n"
+"When the button is pressed a 50 percent duty cycle signal is sent to the  \n"
 "LED. The LED is on but less bright"
 msgstr ""
 "## Ejemplo: Prueba manual del Mux-2-1\n"
@@ -1034,8 +1034,7 @@ msgid "T-Flip flop"
 msgstr ""
 
 #: translation.js:334
-#, javascript-format
-msgid "50% duty cycle"
+msgid "50 percent duty cycle"
 msgstr ""
 
 #: translation.js:335
