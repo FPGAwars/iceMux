@@ -1025,23 +1025,23 @@ msgstr "Alhambra-II"
 #: translation.js:538 translation.js:556 translation.js:571 translation.js:585
 #: translation.js:597 translation.js:613 translation.js:630
 msgid "Nandland-go-board"
-msgstr ""
+msgstr "Nandland-go-board"
 
 #: translation.js:329 translation.js:363 translation.js:382 translation.js:478
 #: translation.js:491 translation.js:539 translation.js:557 translation.js:572
 #: translation.js:586 translation.js:598 translation.js:614 translation.js:631
 msgid "ULX3S-12F"
-msgstr ""
+msgstr "ULX3S-12F"
 
 #: translation.js:330 translation.js:364 translation.js:383 translation.js:479
 #: translation.js:492 translation.js:540 translation.js:558 translation.js:573
 #: translation.js:587 translation.js:599 translation.js:615 translation.js:632
 msgid "iCEBreaker"
-msgstr ""
+msgstr "iCEBreaker"
 
 #: translation.js:331
 msgid "iCESuger-1.5"
-msgstr ""
+msgstr "iCESuger-1.5"
 
 #: translation.js:332 translation.js:348 translation.js:349 translation.js:350
 #: translation.js:352
@@ -1145,7 +1145,6 @@ msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr "Generic: Constante genérica de 2-bits"
 
 #: translation.js:355
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 2-to-1 Mux\n"
 "\n"
@@ -1156,31 +1155,31 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del Mux-2-1\n"
 "\n"
-"El LED se enciende (a su maxáximo brillo) cuando el botón no se aprieta.  \n"
+"El LED verde se enciende (a su máximo brillo) cuando el botón no se "
+"aprieta.  \n"
 "Cuando el botón se aprieta, una señal con ciclo de trabajo del 50 se "
 "envía  \n"
-"al LED. El LED se enciende pero con menos brillo"
+"al LED. El LED verde se enciende pero con menos brillo"
 
 #: translation.js:356
-#, fuzzy
 msgid ""
 "Switch for selecting the  \n"
 "channel to send to the LED"
 msgstr ""
-"botón para seleccionar el  \n"
+"Interruptor para seleccionar el  \n"
 "canal a enviar al LED"
 
 #: translation.js:357
 msgid "## RGB LED"
-msgstr ""
+msgstr "## LED RGB"
 
 #: translation.js:358
 msgid "Red and blue disabled"
-msgstr ""
+msgstr "Rojo y azul deshabilitados"
 
 #: translation.js:359
 msgid "Negative logic"
-msgstr ""
+msgstr "Lógica negativa"
 
 #: translation.js:360
 msgid ""
@@ -1188,16 +1187,19 @@ msgid ""
 "* ON: 1\n"
 "* OFF: 0"
 msgstr ""
+"Lógica positiva:  \n"
+"* ON: 1\n"
+"* OFF: 0"
 
 #: translation.js:362
 msgid "Nandlang-go-board"
-msgstr ""
+msgstr "Nandlang-go-board"
 
 #: translation.js:365 translation.js:384 translation.js:480 translation.js:493
 #: translation.js:541 translation.js:559 translation.js:574 translation.js:588
 #: translation.js:600 translation.js:616 translation.js:633
 msgid "iCESugar-1.5"
-msgstr ""
+msgstr "iCESugar-1.5"
 
 #: translation.js:366 translation.js:371 translation.js:372 translation.js:373
 #: translation.js:374
@@ -1233,18 +1235,15 @@ msgid "**4-bits 2-to-1 Mux**"
 msgstr "**Mux-2-1 de 4 bits**"
 
 #: translation.js:375
-#, fuzzy
 msgid "Bus4-Split-1-3: Split the 4-bits bus into two: 1-bit and 3-bits buses"
 msgstr ""
-"Bus3-Split-2-1: Dividir el bus de 3-bits bus en dos: buses de 2 bits y 1 bit"
+"Bus4-Split-1-3: Dividir el bus de 4-bits bus en dos: buses de 1 bit y 3 bits"
 
 #: translation.js:376
-#, fuzzy
 msgid "not-x3: 3-bits not gate"
-msgstr "Counter-x03: Contador de 3-bits"
+msgstr "not-x3: Puerta not de 3 bits"
 
 #: translation.js:377
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 2-to-1 Mux\n"
 "\n"
@@ -1254,21 +1253,21 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del Mux-2-1 de 4 bits\n"
 "\n"
-"El botón selecciona qué número se muestra en los LEDS. El canal 0  \n"
-"contiene el número de 4 bits `1010`y el canal 1 tiene `0101`"
+"El interruptor selecciona qué número se muestra en el LED RGB. El canal 0  \n"
+"contiene el número de 4 bits `1010`y el canal 1 tiene `0101`. El bit más  \n"
+"significativo se muestra en un LED externo"
 
 #: translation.js:378
-#, fuzzy
 msgid ""
 "switch for selecting the  \n"
 "channel to send to the RGB LED"
 msgstr ""
-"botón para seleccionar el  \n"
-"canal a enviar al LED"
+"interruptor para seleccionar el  \n"
+"canal a enviar al LED RGB"
 
 #: translation.js:379
 msgid "External LED"
-msgstr ""
+msgstr "LED externo"
 
 #: translation.js:385 translation.js:466 translation.js:467 translation.js:470
 #: translation.js:472
@@ -1786,28 +1785,26 @@ msgstr ""
 "(Sistema)"
 
 #: translation.js:468
-#, fuzzy
 msgid ""
 "Button-tic: Configurable button that emits a tic when it is pressed. ECP5 "
 "FPGA Family"
-msgstr "Button-tic: Botón configurable que emite un tic cuando se aprieta"
+msgstr ""
+"Button-tic: Botón configurable que emite un tic cuando se aprieta. Familia "
+"de FPGAs ECP5"
 
 #: translation.js:469
-#, fuzzy
 msgid "Configurable button (pull-up on/off. Not on/off). ECP5 FPGA family"
-msgstr "Botón configurable (pull-up on/off. Not on/off)"
+msgstr "Botón configurable (pull-up on/off. Not on/off). Familia de FPGAs ECP5"
 
 #: translation.js:471
 msgid "4bits constant value: 0"
 msgstr "Valor constante de 4 bits: 0"
 
 #: translation.js:473
-#, fuzzy
 msgid "not-x2: 2-bits not gate"
-msgstr "Counter-x03: Contador de 3-bits"
+msgstr "not-x2: Puerta not de 2 bits"
 
 #: translation.js:474
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-to-1 Mux\n"
 "\n"
@@ -1820,16 +1817,15 @@ msgstr ""
 "\n"
 "Cuatro señales con ciclos de trabajo del 100%, 50%, 25% y 0% se seleccionan "
 "y se muestran  \n"
-"en el LED7. Cuando el bóton se aprieta, el siguiente canal se selecciona, "
-"comenzando por el canal 0"
+"en el LED verde. Cuando el bóton se aprieta, el siguiente canal se "
+"selecciona, comenzando por el canal 0"
 
 #: translation.js:475
-#, fuzzy
 msgid ""
 "switches for selecting the  \n"
 "channel to send to the LEDs"
 msgstr ""
-"botón para seleccionar el  \n"
+"interruptor para seleccionar el  \n"
 "canal a enviar a los LEDs"
 
 #: translation.js:481 translation.js:484 translation.js:485 translation.js:486
@@ -1854,7 +1850,6 @@ msgid "**4-bits 4-to-1 Mux**"
 msgstr "**Mux-4-1 de 4 bits**"
 
 #: translation.js:488
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 4-to-1 Mux\n"
 "\n"
@@ -1863,8 +1858,8 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del Mux-4-1 de 4 bits\n"
 "\n"
-"Los botones selecciona qué número se muestra en los LEDs: `0101`, `1010`, "
-"`0011`, `1100`"
+"Los interruptores seleccionan qué número se muestra en el LED RGB: `0101`, "
+"`1010`, `0011`, `1100`"
 
 #: translation.js:494 translation.js:531 translation.js:532 translation.js:533
 #: translation.js:534
@@ -2044,7 +2039,6 @@ msgid "### 1.5%"
 msgstr "### 1.5%"
 
 #: translation.js:535
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 8-to-1 Mux\n"
 "\n"
@@ -2056,17 +2050,16 @@ msgstr ""
 "\n"
 "Ocho señales con ciclos de trabajo del 100%, 50%, 25%, 12%, 6%, 3% y 1.5% se "
 "seleccionan y se muestran  \n"
-"en el LED7. Cuando el botón se aprieta, el siguiente canal se selecciona, "
-"comenzando por el canal 0"
+"en el LED verde. Cuando el botón se aprieta, el siguiente canal se "
+"selecciona, comenzando por el canal 0"
 
 #: translation.js:536
-#, fuzzy
 msgid ""
 "switches for selecting the  \n"
 "channel "
 msgstr ""
-"botón para seleccionar el  \n"
-"canal a enviar al LED"
+"interruptor para seleccionar el  \n"
+"canal"
 
 #: translation.js:542 translation.js:549 translation.js:550 translation.js:551
 #: translation.js:552
@@ -2106,7 +2099,6 @@ msgid "**4-bits 8-to-1 Mux**"
 msgstr "**Mux-8-1 de 4 bits**"
 
 #: translation.js:553
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 8-to-1 Mux\n"
 "\n"
@@ -2115,12 +2107,12 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del Mux-8-1 de 4 bits\n"
 "\n"
-"Los botones seleccionan qué número se muestra en los LEDS:  `0x1`,`0x2`,"
-"`0x4`,`0x8`,`0x9`,`0xA`,`0xC`, `0xF`"
+"Los interruptores seleccionan qué número se muestra en el LED RGB:  `0x1`,"
+"`0x2`,`0x4`,`0x8`,`0x9`,`0xA`,`0xC`, `0xF`"
 
 #: translation.js:554
 msgid "RGB LED"
-msgstr ""
+msgstr "LED RGB"
 
 #: translation.js:560 translation.js:563 translation.js:564 translation.js:565
 #: translation.js:567
@@ -2150,7 +2142,6 @@ msgid "3bits constant value: 0"
 msgstr "Valor constante de 3 bits: 0"
 
 #: translation.js:568
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-2 DeMux\n"
 "\n"
@@ -2161,12 +2152,12 @@ msgstr ""
 "## Ejemplo: Prueba manual del DeMux-1-2\n"
 "\n"
 "El bit 1 se envía bien al canal 0 ó al canal 1 dependiendo del  \n"
-"botón. Cuando el botón se pulsa, el LED1 se activa. Cuando el botón  \n"
-"no se aprieta, el LED0 se enciende"
+"interruptor. Cuando está activado, el LED RGB se pone verde. Cuando está  \n"
+"desactivado, el LED RGB se pone rojo"
 
 #: translation.js:569
 msgid "Blue LED OFF"
-msgstr ""
+msgstr "Led azul apagado"
 
 #: translation.js:575 translation.js:577 translation.js:580 translation.js:581
 #: translation.js:582
@@ -2186,20 +2177,18 @@ msgstr ""
 "los 4 LEDs de menor peso"
 
 #: translation.js:578
-#, fuzzy
 msgid ""
 "Display8-4: Display a 8-bits value on an  4-LEDs. The sel input selects the "
 "nibble to display "
 msgstr ""
-"Display16-8: Mostrar un valor de 16-bits en 8 LEDs. La entrada sel "
-"selecciona el byte a mostrar "
+"Display8-4: Mostrar un valor de 8-bits en 4 LEDs. La entrada sel selecciona "
+"el byte a mostrar "
 
 #: translation.js:579
 msgid "Counter-x01: 1-bit counter"
 msgstr "Counter-x01: Contador de 1-bit"
 
 #: translation.js:583
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 4-bits 1-to-2 DeMux\n"
 "\n"
@@ -2208,8 +2197,8 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del DeMux 1-2 de 4 bits\n"
 "\n"
-"La constante de 4-bits se saca por los 4 LEDS de mayor peso o por  \n"
-"los 4 LEDs de menor peso"
+"La constante de 4-bits se saca por el canal 0 ó 1, que a su vez  \n"
+"se puede seleccionar para poner el LED RGB verde"
 
 #: translation.js:589 translation.js:591 translation.js:592 translation.js:593
 #: translation.js:594
@@ -2231,7 +2220,6 @@ msgstr ""
 "el siguiente LED se enciende"
 
 #: translation.js:595
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-4 DeMux\n"
 "\n"
@@ -2240,9 +2228,8 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del DeMux-1-4\n"
 "\n"
-"El bit 1 se envía a los canales 0-3 dependiendo del  \n"
-"contador. Cuando el botón se pulsa, el contador se incrementa y  \n"
-"el siguiente LED se enciende"
+"El bit 1 se envía a los canales 0-3 dependiendo de  \n"
+"los interruptores. Cada canal se conecta a un LED diferente"
 
 #: translation.js:601 translation.js:606 translation.js:607 translation.js:608
 #: translation.js:609
@@ -2281,7 +2268,7 @@ msgstr "Valor constante de 2 bits: 0"
 
 #: translation.js:611
 msgid "External LEDs"
-msgstr ""
+msgstr "LEDs externos"
 
 #: translation.js:617 translation.js:624 translation.js:625 translation.js:626
 #: translation.js:627
@@ -2323,7 +2310,6 @@ msgid "Channel 7"
 msgstr "Canal 7"
 
 #: translation.js:628
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 1-to-8 DeMux\n"
 "\n"
@@ -2333,9 +2319,10 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del DeMux-1-8\n"
 "\n"
-"La constante 1 se envía a los canales de salida 0-7 dependiendo del  \n"
-"contador. Cuando el botón se aprieta, el contador se incrementa y  \n"
-"el siguiente LED se enciende"
+"La constante 1 se envía a los canales de salida 0-7 dependiendo de  \n"
+"los interruptores. Los 8 canales se salida se agrupan en un byte. El "
+"interruptor S1  \n"
+"determina qué nibble se muestra en los LEDs"
 
 #: translation.js:634 translation.js:637 translation.js:639 translation.js:640
 #: translation.js:641
@@ -2365,16 +2352,14 @@ msgstr ""
 "el siguiente LED se enciende"
 
 #: translation.js:638
-#, fuzzy
 msgid ""
 "Display16-4: Display a 16-bits value on an  4-LEDs. The sel input selects "
 "the byte to display "
 msgstr ""
-"Display16-8: Mostrar un valor de 16-bits en 8 LEDs. La entrada sel "
+"Display16-4: Mostrar un valor de 16-bits en 4 LEDs. La entrada sel "
 "selecciona el byte a mostrar "
 
 #: translation.js:642
-#, fuzzy
 msgid ""
 "## Example: Manual testing of the 2-bits 1-to-8 DeMux\n"
 "\n"
@@ -2384,13 +2369,14 @@ msgid ""
 msgstr ""
 "## Ejemplo: Prueba manual del DeMux-1-8 de 2 bits\n"
 "\n"
-"La constante 0x3 se envía a los canales de salida 0-7 dependiendo del  \n"
-"contador. Cuando el botón se aprieta, el contador se incrementa y  \n"
-"el siguiente LED se enciende"
+"La constante 0x3 se envía a los canales de salida 0-7 dependiendo de  \n"
+"los interruptores. El botón externo selecciona qué grupo de 4 bits se "
+"muestra  \n"
+"en el LED RGB"
 
 #: translation.js:643
 msgid "External button"
-msgstr ""
+msgstr "Botón externo"
 
 #: translation.js:659 translation.js:660 translation.js:662 translation.js:667
 #: translation.js:669 translation.js:671 translation.js:677 translation.js:678
@@ -2735,7 +2721,7 @@ msgstr "Generic: Constante genérica de 15-bits"
 
 #: translation.js:896
 msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
-msgstr "UINT8-7bits: Extender un entero sin signo de 7 a 8 bits"
+msgstr "UINT8-7bits: Extender un entero sin signo de 7 a 8 bits "
 
 #: translation.js:897
 msgid "Bus7-Join-1-7: Join the two buses into an 8-bits Bus"
