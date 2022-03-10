@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 
 ## Blocks
 * **DeMux**
@@ -216,6 +216,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 04-Mux-4-1-Bus4-button-LEDs
   * **iCEBreaker**
     * 04-Mux-4-1-Bus4-button-LEDs
+  * **iCESugar-1.5**
+    * 04-Mux-4-1-Bus4-button-LEDs
 * **05-Mux-8-1**
   * **Alhambra-II**
     * 05-Mux-8-1-button-LED
@@ -225,6 +227,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 05-Mux-8-1-button-LED
   * **iCEBreaker**
     * 05-Mux-8-1-button-LED
+  * **iCESugar-1.5**
+    * 05-Mux-8-1-button-LED
 * **06-Mux-8-1-Bus**
   * **Alhambra-II**
     * 06-Mux-8-1-Bus4-button-LEDs
@@ -233,6 +237,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **ULX3S-12F**
     * 06-Mux-8-1-Bus4-button-LEDs
   * **iCEBreaker**
+    * 06-Mux-8-1-Bus4-button-LEDs
+  * **iCESugar-1.5**
     * 06-Mux-8-1-Bus4-button-LEDs
 * **07-Demux-1-2-button-LED**
   * **Alhambra-II**
