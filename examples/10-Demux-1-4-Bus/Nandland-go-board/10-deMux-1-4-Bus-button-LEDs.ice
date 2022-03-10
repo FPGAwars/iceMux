@@ -8,7 +8,7 @@
     "image": ""
   },
   "design": {
-    "board": "iCEBreaker",
+    "board": "go-board",
     "graph": {
       "blocks": [
         {
@@ -20,23 +20,23 @@
             "pins": [
               {
                 "index": "3",
-                "name": "LED5",
-                "value": "21"
+                "name": "LED4",
+                "value": "60"
               },
               {
                 "index": "2",
                 "name": "LED3",
-                "value": "25"
+                "value": "59"
               },
               {
                 "index": "1",
-                "name": "LED4",
-                "value": "23"
+                "name": "LED2",
+                "value": "57"
               },
               {
                 "index": "0",
-                "name": "LED2",
-                "value": "27"
+                "name": "LED1",
+                "value": "56"
               }
             ],
             "virtual": false
@@ -54,8 +54,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "BTN1",
-                "value": "20"
+                "name": "SW1",
+                "value": "53"
               }
             ],
             "virtual": false,
@@ -74,8 +74,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "BTN2",
-                "value": "19"
+                "name": "SW2",
+                "value": "51"
               }
             ],
             "virtual": false,
@@ -83,25 +83,6 @@
           },
           "position": {
             "x": 448,
-            "y": 472
-          }
-        },
-        {
-          "id": "50b9258a-2f80-443b-9284-20d7da9ddc48",
-          "type": "basic.output",
-          "data": {
-            "name": "",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED1",
-                "value": "26"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 1120,
             "y": 472
           }
         },
@@ -215,18 +196,6 @@
           "position": {
             "x": 616,
             "y": 456
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "873a44ab-3094-4afe-bb6e-23d82f1fc39b",
-          "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
-          "position": {
-            "x": 984,
-            "y": 472
           },
           "size": {
             "width": 96,
@@ -362,17 +331,6 @@
             "block": "ae79f9b4-9931-43f3-b7dc-b9b410ba4133",
             "port": "21bc142d-a93a-430d-b37a-326435def9f9"
           }
-        },
-        {
-          "source": {
-            "block": "873a44ab-3094-4afe-bb6e-23d82f1fc39b",
-            "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
-          },
-          "target": {
-            "block": "50b9258a-2f80-443b-9284-20d7da9ddc48",
-            "port": "in"
-          },
-          "vertices": []
         }
       ]
     }
