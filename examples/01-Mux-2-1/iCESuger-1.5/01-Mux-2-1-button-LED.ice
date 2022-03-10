@@ -199,12 +199,12 @@
           "id": "5b510fa7-57bd-410d-937c-214ba78ca67f",
           "type": "basic.info",
           "data": {
-            "info": "button for selecting the  \nchannel to send to the LED",
+            "info": "Switch for selecting the  \nchannel to send to the LED",
             "readonly": true
           },
           "position": {
-            "x": 192,
-            "y": 480
+            "x": 232,
+            "y": 624
           },
           "size": {
             "width": 232,

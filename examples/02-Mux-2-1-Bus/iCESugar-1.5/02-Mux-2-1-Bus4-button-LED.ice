@@ -110,7 +110,7 @@
           "id": "6981dc81-e55c-4ec7-86ad-d585e88de5e9",
           "type": "basic.info",
           "data": {
-            "info": "## Example: Manual testing of the 4-bits 2-to-1 Mux\n\nThe button selects which number is displayed on the RGB LED. Channel 0  \ncontains the 4-bit number `1010` and the channel 1 has `0101`. The most  \nsignificant bit is displayed on a external LED",
+            "info": "## Example: Manual testing of the 4-bits 2-to-1 Mux\n\nThe switch selects which number is displayed on the RGB LED. Channel 0  \ncontains the 4-bit number `1010` and the channel 1 has `0101`. The most  \nsignificant bit is displayed on a external LED",
             "readonly": true
           },
           "position": {
@@ -178,12 +178,12 @@
           "id": "d0986bdb-6e47-4363-ae47-f81e87faf969",
           "type": "basic.info",
           "data": {
-            "info": "button for selecting the  \nchannel to send to the LED",
+            "info": "switch for selecting the  \nchannel to send to the RGB LED",
             "readonly": true
           },
           "position": {
-            "x": 224,
-            "y": 472
+            "x": 216,
+            "y": 624
           },
           "size": {
             "width": 232,
