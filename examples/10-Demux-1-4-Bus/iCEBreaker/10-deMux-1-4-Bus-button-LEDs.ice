@@ -8,7 +8,7 @@
     "image": ""
   },
   "design": {
-    "board": "go-board",
+    "board": "iCEBreaker",
     "graph": {
       "blocks": [
         {
@@ -20,23 +20,23 @@
             "pins": [
               {
                 "index": "3",
-                "name": "LED4",
-                "value": "60"
+                "name": "LED5",
+                "value": "21"
               },
               {
                 "index": "2",
                 "name": "LED3",
-                "value": "59"
+                "value": "25"
               },
               {
                 "index": "1",
-                "name": "LED2",
-                "value": "57"
+                "name": "LED4",
+                "value": "23"
               },
               {
                 "index": "0",
-                "name": "LED1",
-                "value": "56"
+                "name": "LED2",
+                "value": "27"
               }
             ],
             "virtual": false
@@ -54,8 +54,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "SW1",
-                "value": "53"
+                "name": "BTN1",
+                "value": "20"
               }
             ],
             "virtual": false,
@@ -74,8 +74,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "SW2",
-                "value": "51"
+                "name": "BTN2",
+                "value": "19"
               }
             ],
             "virtual": false,

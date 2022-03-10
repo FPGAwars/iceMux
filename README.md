@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
 
 ## Blocks
 * **DeMux**
@@ -179,82 +179,132 @@ For installing and using this colection in Icestudio follow these steps:
     * 01-Mux-2-1-button-LED
   * **Nandland-go-board**
     * 01-Mux-2-1-button-LED
+  * **ULX3S-12F**
+    * 01-Mux-2-1-button-LED
   * **iCEBreaker**
+    * 01-Mux-2-1-button-LED
+  * **iCESuger-1.5**
     * 01-Mux-2-1-button-LED
 * **02-Mux-2-1-Bus**
   * **Alhambra-II**
     * 02-Mux-2-1-Bus4-button-LED
   * **Nandlang-go-board**
     * 02-Mux-2-1-Bus4-button-LED
+  * **ULX3S-12F**
+    * 02-Mux-2-1-Bus4-button-LED
   * **iCEBreaker**
+    * 02-Mux-2-1-Bus4-button-LED
+  * **iCESugar-1.5**
     * 02-Mux-2-1-Bus4-button-LED
 * **03-Mux-4-1**
   * **Alhambra-II**
     * 03-Mux-4-1-button-LED
   * **Nandland-go-board**
     * 03-Mux-4-1-button-LED
+  * **ULX3S-12F**
+    * 03-Mux-4-1-button-LED
   * **iCEBreaker**
+    * 03-Mux-4-1-button-LED
+  * **iCESugar-1.5**
     * 03-Mux-4-1-button-LED
 * **04-Mux-4-1-Bus**
   * **Alhambra-II**
     * 04-Mux-4-1-Bus4-button-LEDs
   * **Nandland-go-board**
     * 04-Mux-4-1-Bus4-button-LEDs
+  * **ULX3S-12F**
+    * 04-Mux-4-1-Bus4-button-LEDs
   * **iCEBreaker**
+    * 04-Mux-4-1-Bus4-button-LEDs
+  * **iCESugar-1.5**
     * 04-Mux-4-1-Bus4-button-LEDs
 * **05-Mux-8-1**
   * **Alhambra-II**
     * 05-Mux-8-1-button-LED
   * **Nandland-go-board**
     * 05-Mux-8-1-button-LED
+  * **ULX3S-12F**
+    * 05-Mux-8-1-button-LED
   * **iCEBreaker**
+    * 05-Mux-8-1-button-LED
+  * **iCESugar-1.5**
     * 05-Mux-8-1-button-LED
 * **06-Mux-8-1-Bus**
   * **Alhambra-II**
     * 06-Mux-8-1-Bus4-button-LEDs
   * **Nandland-go-board**
     * 06-Mux-8-1-Bus4-button-LEDs
+  * **ULX3S-12F**
+    * 06-Mux-8-1-Bus4-button-LEDs
   * **iCEBreaker**
+    * 06-Mux-8-1-Bus4-button-LEDs
+  * **iCESugar-1.5**
     * 06-Mux-8-1-Bus4-button-LEDs
 * **07-Demux-1-2-button-LED**
   * **Alhambra-II**
     * 07-deMux-1-2-button-LED
   * **Nandland-go-board**
     * 07-deMux-1-2-button-LED
+  * **ULX3S-12F**
+    * 07-deMux-1-2-button-LED
   * **iCEBreaker**
+    * 07-deMux-1-2-button-LED
+  * **iCESugar-1.5**
     * 07-deMux-1-2-button-LED
 * **08-Demux-1-2-Bus**
   * **Alhambra-II**
     * 08-deMux-1-2-Bus-button-LED
   * **Nandland-go-board**
     * 08-deMux-1-2-Bus-button-LED
+  * **ULX3S-12F**
+    * 08-deMux-1-2-Bus-button-LED
   * **iCEBreaker**
+    * 08-deMux-1-2-Bus-button-LED
+  * **iCESugar-1.5**
     * 08-deMux-1-2-Bus-button-LED
 * **09-Demux-1-4**
   * **Alhambra-II**
     * 09-deMux-1-4-button-LEDs
   * **Nandland-go-board**
     * 09-deMux-1-4-button-LEDs
+  * **ULX3S-12F**
+    * 09-deMux-1-4-button-LEDs
   * **iCEBreaker**
+    * 09-deMux-1-4-button-LEDs
+  * **iCESugar-1.5**
     * 09-deMux-1-4-button-LEDs
 * **10-Demux-1-4-Bus**
   * **Alhambra-II**
     * 10-deMux-1-4-Bus-button-LEDs
   * **Nandland-go-board**
     * 10-deMux-1-4-Bus-button-LEDs
+  * **ULX3S-12F**
+    * 10-deMux-1-4-Bus-button-LEDs
+  * **iCEBreaker**
+    * 10-deMux-1-4-Bus-button-LEDs
+  * **iCESugar-1.5**
+    * 10-deMux-1-4-Bus-button-LEDs
 * **11-Demux-1-8**
   * **Alhambra-II**
     * 11-deMux-1-8-button-LEDs
   * **Nandland-go-board**
     * 11-deMux-1-8-button-LEDs
+  * **ULX3S-12F**
+    * 11-deMux-1-8-button-LEDs
   * **iCEBreaker**
+    * 11-deMux-1-8-button-LEDs
+  * **iCESugar-1.5**
     * 11-deMux-1-8-button-LEDs
 * **12-Demus-1-8-Bus**
   * **Alhambra-II**
     * 12-deMux-1-8-Bus-button-LEDs
   * **Nandland-go-board**
     * 12-deMux-1-8-Bus-button-LEDs
+  * **ULX3S-12F**
+    * 12-deMux-1-8-Bus-button-LEDs
   * **iCEBreaker**
+    * 12-deMux-1-8-Bus-button-LEDs
+  * **iCESugar-1.5**
     * 12-deMux-1-8-Bus-button-LEDs
 * **TESTs**
   * **DeMux**
