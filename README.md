@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/93) |
 
 ## Blocks
 * **DeMux**
@@ -249,6 +249,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 07-deMux-1-2-button-LED
   * **iCEBreaker**
     * 07-deMux-1-2-button-LED
+  * **iCESugar-1.5**
+    * 07-deMux-1-2-button-LED
 * **08-Demux-1-2-Bus**
   * **Alhambra-II**
     * 08-deMux-1-2-Bus-button-LED
@@ -257,6 +259,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **ULX3S-12F**
     * 08-deMux-1-2-Bus-button-LED
   * **iCEBreaker**
+    * 08-deMux-1-2-Bus-button-LED
+  * **iCESugar-1.5**
     * 08-deMux-1-2-Bus-button-LED
 * **09-Demux-1-4**
   * **Alhambra-II**
@@ -267,12 +271,18 @@ For installing and using this colection in Icestudio follow these steps:
     * 09-deMux-1-4-button-LEDs
   * **iCEBreaker**
     * 09-deMux-1-4-button-LEDs
+  * **iCESugar-1.5**
+    * 09-deMux-1-4-button-LEDs
 * **10-Demux-1-4-Bus**
   * **Alhambra-II**
     * 10-deMux-1-4-Bus-button-LEDs
   * **Nandland-go-board**
     * 10-deMux-1-4-Bus-button-LEDs
   * **ULX3S-12F**
+    * 10-deMux-1-4-Bus-button-LEDs
+  * **iCEBreaker**
+    * 10-deMux-1-4-Bus-button-LEDs
+  * **iCESugar-1.5**
     * 10-deMux-1-4-Bus-button-LEDs
 * **11-Demux-1-8**
   * **Alhambra-II**
@@ -283,6 +293,8 @@ For installing and using this colection in Icestudio follow these steps:
     * 11-deMux-1-8-button-LEDs
   * **iCEBreaker**
     * 11-deMux-1-8-button-LEDs
+  * **iCESugar-1.5**
+    * 11-deMux-1-8-button-LEDs
 * **12-Demus-1-8-Bus**
   * **Alhambra-II**
     * 12-deMux-1-8-Bus-button-LEDs
@@ -291,6 +303,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **ULX3S-12F**
     * 12-deMux-1-8-Bus-button-LEDs
   * **iCEBreaker**
+    * 12-deMux-1-8-Bus-button-LEDs
+  * **iCESugar-1.5**
     * 12-deMux-1-8-Bus-button-LEDs
 * **TESTs**
   * **DeMux**
