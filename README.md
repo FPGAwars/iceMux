@@ -80,7 +80,9 @@ For installing and using this colection in Icestudio follow these steps:
 * **Mux**
   * **01-bit**
     * **Mux-2-1**
+      * Mux-2-1-Bus
       * Mux-2-1
+      * MuxF-2-1
       * **Block**
         * Mux-2-1-Bus
         * Mux-2-1
