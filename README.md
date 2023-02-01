@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
 
 ## Blocks
 * **DeMux**
@@ -80,10 +80,11 @@ For installing and using this colection in Icestudio follow these steps:
 * **Mux**
   * **01-bit**
     * **Mux-2-1**
-      * Mux-2-1-Bus
-      * Mux-2-1-Verilog
       * Mux-2-1
-      * MuxF-2-1
+      * **Block**
+        * Mux-2-1-Bus
+        * Mux-2-1
+        * MuxF-2-1
     * **Mux-4-1**
       * Mux-4-1-Bus
       * Mux-4-1-verilog
