@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-01 19:48+0000\n"
+"POT-Creation-Date: 2023-02-02 08:32+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -344,7 +344,7 @@ msgstr "32-bits"
 msgid "Mux-2-1"
 msgstr "Mux-2-1"
 
-#: translation.js:116 translation.js:133 translation.js:138 translation.js:151
+#: translation.js:116 translation.js:133 translation.js:137 translation.js:151
 #: translation.js:157 translation.js:164 translation.js:167 translation.js:170
 #: translation.js:174 translation.js:195 translation.js:199 translation.js:780
 #: translation.js:791 translation.js:841 translation.js:860
@@ -413,7 +413,7 @@ msgstr "Mux-4-1-Bus"
 msgid "4-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
 msgstr "Multiplexor 4-1 (Canales de 1 bit). Entradas agrupadas en un bus"
 
-#: translation.js:137
+#: translation.js:138
 msgid "4-to-1 Multplexer (1-bit channels)"
 msgstr "Multiplexor 4-1 (Canales de 1 bit)"
 
