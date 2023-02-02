@@ -94,10 +94,11 @@ For installing and using this colection in Icestudio follow these steps:
         * Mux-4-1
         * MuxF-4-1
     * **Mux-8-1**
-      * Mux-8-1-Bus
-      * Mux-8-1-verilog
       * Mux-8-1
-      * MuxF-8-1
+      * **Block**
+        * Mux-8-1-Bus
+        * Mux-8-1
+        * MuxF-8-1
   * **02-bits**
     * **Mux-2-1**
       * Mux-2-1
