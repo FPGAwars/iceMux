@@ -218,6 +218,7 @@ gettext('Mux-2-1');
 gettext('2-to-1 Multplexer (6-bit channels)');
 gettext('Bus6-Split-2-4: Split the 6-bits bus into two buses of 2 and 4 wires');
 gettext('Bus6-Join-2-4: Join all the two buses into a 6-bits Bus');
+gettext('Blocks');
 gettext('Mux-2-1');
 gettext('2-to-1 Multplexer (7-bit channels)');
 gettext('Bus7-Join-3-4: Join the two buses into a 7-bits Bus');
