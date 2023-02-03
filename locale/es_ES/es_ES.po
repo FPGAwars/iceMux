@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 23:33+0000\n"
+"POT-Creation-Date: 2023-02-03 23:42+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -336,7 +336,7 @@ msgstr "32-bits"
 #: translation.js:259 translation.js:263 translation.js:265 translation.js:267
 #: translation.js:271 translation.js:273 translation.js:275 translation.js:279
 #: translation.js:281 translation.js:283 translation.js:287 translation.js:295
-#: translation.js:302 translation.js:307 translation.js:313 translation.js:319
+#: translation.js:301 translation.js:307 translation.js:313 translation.js:319
 #: translation.js:325 translation.js:331 translation.js:337 translation.js:848
 #: translation.js:851 translation.js:900 translation.js:909 translation.js:918
 #: translation.js:921 translation.js:924 translation.js:928 translation.js:938
@@ -745,7 +745,7 @@ msgstr ""
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr "Bus15-Join-7-8: Juntar los dos buses en uno de 15 bits"
 
-#: translation.js:289 translation.js:291 translation.js:297 translation.js:303
+#: translation.js:289 translation.js:291 translation.js:297 translation.js:302
 #: translation.js:309 translation.js:315 translation.js:321 translation.js:327
 #: translation.js:333 translation.js:339
 msgid "mux-2-1"
@@ -774,23 +774,23 @@ msgid "2-to-1 Multplexer (19-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 1 bits)"
 
 #: translation.js:299
-msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr "Multiplexor 2-1 (canales de 8 bits)"
-
-#: translation.js:300
 msgid ""
 "Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3, 8 and 8 wires"
 msgstr ""
 "Bus19-Split-3-8-8: Dividir el bus de 19-bits bus en tres buses de 3,8  y 8 "
 "cables"
 
-#: translation.js:301
+#: translation.js:300
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
 msgstr "Bus19-Join-3-8-8: Juntar los tres buses en uno de 19 bits"
 
-#: translation.js:304
+#: translation.js:303
 msgid "2-to-1 Multplexer (20-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 20 bits)"
+
+#: translation.js:304
+msgid "2-to-1 Multplexer (8-bit channels)"
+msgstr "Multiplexor 2-1 (canales de 8 bits)"
 
 #: translation.js:305
 msgid ""
