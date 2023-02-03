@@ -206,6 +206,8 @@ gettext('Bus4-Split-half: Split the 4-bits bus into two of the same size');
 gettext('Mux-2-1');
 gettext('Blocks');
 gettext('Mux-2-1');
+gettext('2-to-1 Multplexer (5-bit channels). Verilog implementation');
+gettext('Mux-2-1');
 gettext('Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits');
 gettext('Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus');
 gettext('Mux-2-1');
