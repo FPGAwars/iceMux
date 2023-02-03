@@ -198,6 +198,8 @@ gettext('Mux-4-1');
 gettext('4-to-1 Multplexer (4-bit channels)');
 gettext('Blocks');
 gettext('Mux-8-1');
+gettext('8-to-1 Multplexer (4-bit channels) (Verilog implementation)');
+gettext('Mux-8-1');
 gettext('8-to-1 Multplexer (4-bit channels)');
 gettext('Bus4-Join-half: Join the two buses into a 4-bits Bus');
 gettext('Bus4-Split-half: Split the 4-bits bus into two of the same size');
