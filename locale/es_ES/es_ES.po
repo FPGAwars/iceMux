@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 23:19+0000\n"
+"POT-Creation-Date: 2023-02-03 23:26+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -335,7 +335,7 @@ msgstr "32-bits"
 #: translation.js:249 translation.js:251 translation.js:255 translation.js:257
 #: translation.js:259 translation.js:263 translation.js:265 translation.js:267
 #: translation.js:271 translation.js:273 translation.js:275 translation.js:279
-#: translation.js:281 translation.js:283 translation.js:287 translation.js:294
+#: translation.js:281 translation.js:283 translation.js:287 translation.js:293
 #: translation.js:300 translation.js:305 translation.js:311 translation.js:317
 #: translation.js:323 translation.js:329 translation.js:335 translation.js:846
 #: translation.js:849 translation.js:898 translation.js:907 translation.js:916
@@ -468,7 +468,7 @@ msgstr "Multiplexor 8-1 (Canales de 1 bit). Versión invertida"
 #: translation.js:181 translation.js:189 translation.js:194 translation.js:199
 #: translation.js:207 translation.js:221 translation.js:231 translation.js:235
 #: translation.js:240 translation.js:248 translation.js:256 translation.js:264
-#: translation.js:272 translation.js:288 translation.js:295 translation.js:306
+#: translation.js:272 translation.js:288 translation.js:294 translation.js:306
 #: translation.js:312 translation.js:318 translation.js:324 translation.js:330
 #: translation.js:336
 msgid "Blocks"
@@ -745,7 +745,7 @@ msgstr ""
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr "Bus15-Join-7-8: Juntar los dos buses en uno de 15 bits"
 
-#: translation.js:289 translation.js:296 translation.js:301 translation.js:307
+#: translation.js:289 translation.js:295 translation.js:301 translation.js:307
 #: translation.js:313 translation.js:319 translation.js:325 translation.js:331
 #: translation.js:337
 msgid "mux-2-1"
@@ -756,21 +756,21 @@ msgid "2-to-1 Multplexer (16-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 16 bits)"
 
 #: translation.js:291
-msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr "Multiplexor 2-1 (canales de 8 bits)"
-
-#: translation.js:292
 msgid "Bus16-Split-half: Split the 16-bits bus into two buses of the same size"
 msgstr ""
 "Bus16-Split-half: Dividir el bus de 16-bits bus en dos buses del mismo tamaño"
 
-#: translation.js:293
+#: translation.js:292
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-half: Juntar los dos buses iguales en uno de 16 bits"
 
-#: translation.js:297
+#: translation.js:296
 msgid "2-to-1 Multplexer (19-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 1 bits)"
+
+#: translation.js:297
+msgid "2-to-1 Multplexer (8-bit channels)"
+msgstr "Multiplexor 2-1 (canales de 8 bits)"
 
 #: translation.js:298
 msgid ""
