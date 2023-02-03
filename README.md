@@ -154,6 +154,7 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * Mux-2-1
     * **Mux-4-1**
+      * Mux-4-1
       * **Blocks**
         * Mux-4-1
     * **Mux-8-1**
