@@ -183,6 +183,7 @@ For installing and using this colection in Icestudio follow these steps:
         * Mux-2-1
   * **15-bits**
     * **Mux-2-1**
+      * Mux-2-1
       * **Bocks**
         * Mux-2-1
   * **16-bits**
