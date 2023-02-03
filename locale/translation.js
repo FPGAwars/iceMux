@@ -230,6 +230,8 @@ gettext('Mux-4-1');
 gettext('Mux-8-1');
 gettext('Blocks');
 gettext('Mux-2-1');
+gettext('2-to-1 Multplexer (8-bit channels). Verilog implementation');
+gettext('Mux-2-1');
 gettext('Blocks');
 gettext('Mux-4-1');
 gettext('4-to-1 Multplexer (8-bit channels)');
