@@ -161,6 +161,8 @@ gettext('Channel A');
 gettext('Channel B');
 gettext('Blocks');
 gettext('Mux-4-1');
+gettext('4-to-1 Multplexer (2-bit channels). Verilog implementation');
+gettext('Mux-4-1');
 gettext('4-to-1 Multplexer (2-bit channels)');
 gettext('Channel D');
 gettext('Channel C');
