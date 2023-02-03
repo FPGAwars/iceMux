@@ -295,6 +295,8 @@ gettext('Bus16-Join-half: Join the two same halves into an 16-bits Bus');
 gettext('Mux-2-1');
 gettext('Blocks');
 gettext('mux-2-1');
+gettext('2-to-1 Multplexer (19-bit channels). Verilog implementation');
+gettext('mux-2-1');
 gettext('2-to-1 Multplexer (19-bit channels)');
 gettext('Bus19-Split-3-8-8: Split the 19-bits bus into three buses of 3, 8 and 8 wires');
 gettext('Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus');
