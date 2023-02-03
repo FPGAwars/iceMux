@@ -158,6 +158,7 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * Mux-4-1
     * **Mux-8-1**
+      * Mux-8-1
       * **Blocks**
         * Mux-8-1
   * **09-bits**
