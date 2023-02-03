@@ -168,6 +168,8 @@ gettext('Channel D');
 gettext('Channel C');
 gettext('Blocks');
 gettext('Mux-8-1');
+gettext('8-to-1 Multplexer (2-bit channels) (Verilog implementation)');
+gettext('Mux-8-1');
 gettext('8-to-1 Multplexer (2-bit channels)');
 gettext('Mux-2-1');
 gettext('Mux-4-1');
