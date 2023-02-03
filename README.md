@@ -142,6 +142,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **06-bits**
     * **Mux-2-1**
       * Mux-2-1
+      * **Block**
+        * Mux-2-1
   * **07-bits**
     * Mux-2-1
   * **08-bits**
