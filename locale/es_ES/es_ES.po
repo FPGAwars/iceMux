@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 19:28+0000\n"
+"POT-Creation-Date: 2023-02-03 19:33+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -333,7 +333,7 @@ msgstr "32-bits"
 #: translation.js:215 translation.js:217 translation.js:222 translation.js:224
 #: translation.js:228 translation.js:232 translation.js:234 translation.js:247
 #: translation.js:249 translation.js:251 translation.js:255 translation.js:257
-#: translation.js:262 translation.js:264 translation.js:268 translation.js:270
+#: translation.js:261 translation.js:263 translation.js:268 translation.js:270
 #: translation.js:274 translation.js:276 translation.js:280 translation.js:286
 #: translation.js:292 translation.js:297 translation.js:303 translation.js:309
 #: translation.js:315 translation.js:321 translation.js:327 translation.js:838
@@ -466,7 +466,7 @@ msgstr "Multiplexor 8-1 (Canales de 1 bit). Versión invertida"
 #: translation.js:155 translation.js:162 translation.js:169 translation.js:176
 #: translation.js:181 translation.js:189 translation.js:194 translation.js:199
 #: translation.js:207 translation.js:221 translation.js:231 translation.js:235
-#: translation.js:240 translation.js:248 translation.js:256 translation.js:263
+#: translation.js:240 translation.js:248 translation.js:256 translation.js:262
 #: translation.js:269 translation.js:281 translation.js:287 translation.js:298
 #: translation.js:304 translation.js:310 translation.js:316 translation.js:322
 #: translation.js:328
@@ -673,21 +673,21 @@ msgid "2-to-1 Multplexer (10-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 10 bits)"
 
 #: translation.js:259
-msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr "Multiplexor 2-1 (canales de 8 bits)"
-
-#: translation.js:260
 msgid "Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires"
 msgstr ""
 "Bus10-Split-2-8: Dividir el bus de 10-bits bus en dos buses de 2 y 8 cables"
 
-#: translation.js:261
+#: translation.js:260
 msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
 msgstr "Bus10-Join-2-8: Juntar los dos buses en uno de 10 bits"
 
-#: translation.js:265
+#: translation.js:264
 msgid "2-to-1 Multplexer (11-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 11 bits)"
+
+#: translation.js:265
+msgid "2-to-1 Multplexer (8-bit channels)"
+msgstr "Multiplexor 2-1 (canales de 8 bits)"
 
 #: translation.js:266
 msgid "Bus11-Split-3-8: Split the 11-bits bus into two buses of 3 and 8 wires"
