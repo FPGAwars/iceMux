@@ -287,6 +287,8 @@ gettext('Bus15-Join-7-8: Join the two buses into a 15-bits Bus');
 gettext('Mux-2-1');
 gettext('Blocks');
 gettext('mux-2-1');
+gettext('2-to-1 Multplexer (16-bit channels). Verilog implementation');
+gettext('mux-2-1');
 gettext('2-to-1 Multplexer (16-bit channels)');
 gettext('Bus16-Split-half: Split the 16-bits bus into two buses of the same size');
 gettext('Bus16-Join-half: Join the two same halves into an 16-bits Bus');
