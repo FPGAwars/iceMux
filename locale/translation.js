@@ -239,6 +239,8 @@ gettext('Mux-4-1');
 gettext('4-to-1 Multplexer (8-bit channels)');
 gettext('Blocks');
 gettext('Mux-8-1');
+gettext('8-to-1 Multplexer (8-bit channels) (Verilog implementation)');
+gettext('Mux-8-1');
 gettext('8-to-1 Multplexer (8-bit channels)');
 gettext('Bus8-Join-quarter: Join the four quarters into an 8-bits Bus');
 gettext('Bus8-Split-quarter: Split the 8-bits bus into four buses of the same size');
