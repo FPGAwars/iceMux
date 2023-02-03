@@ -163,46 +163,59 @@ For installing and using this colection in Icestudio follow these steps:
         * Mux-8-1
   * **09-bits**
     * **Mux-2-1**
-      * Mux-2-1
+      * **Blocks**
+        * Mux-2-1
   * **10-bits**
     * **Mux-2-1**
-      * Mux-2-1
+      * **Blocks**
+        * Mux-2-1
   * **11-bits**
     * **Mux-2-1**
-      * Mux-2-1
+      * **Blocks**
+        * Mux-2-1
   * **12-bits**
     * **Mux-2-1**
-      * Mux-2-1
+      * **Blocks**
+        * Mux-2-1
   * **15-bits**
     * **Mux-2-1**
-      * Mux-2-1
+      * **Bocks**
+        * Mux-2-1
   * **16-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **19-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **20-bits**
     * **Mux-2-1**
       * mux-2-1
   * **23-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **24-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **27-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **28-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **31-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
   * **32-bits**
     * **Mux-2-1**
-      * mux-2-1
+      * **Blocks**
+        * mux-2-1
 
 ## Examples
 * 000-index
