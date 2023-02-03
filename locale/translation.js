@@ -255,6 +255,8 @@ gettext('Bus8-Join-1-8: Join the two buses into an 9-bits Bus');
 gettext('Mux-2-1');
 gettext('Blocks');
 gettext('Mux-2-1');
+gettext('2-to-1 Multplexer (10-bit channels). Verilog implementation');
+gettext('Mux-2-1');
 gettext('2-to-1 Multplexer (10-bit channels)');
 gettext('Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires');
 gettext('Bus10-Join-2-8: Join the two buses into an 10-bits Bus');
