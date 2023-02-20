@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-20 09:42+0000\n"
+"POT-Creation-Date: 2023-02-20 10:44+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
@@ -364,18 +364,19 @@ msgstr "Mux-8-1"
 
 #: translation.js:118 translation.js:132 translation.js:141 translation.js:214
 msgid "Block"
-msgstr ""
+msgstr "Block"
 
 #: translation.js:119 translation.js:125 translation.js:869
 msgid "Mux-2-1-Bus"
 msgstr "Mux-2-1-Bus"
 
 #: translation.js:120
-#, fuzzy
 msgid ""
 "Mux-2-1-Bus-verilog: 2-to-1 Multplexer (1-bit channels). Inputs grouped into "
 "a Bus. Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit): Entradas agrupadas en un bus"
+msgstr ""
+"Mux-2-1-Bus-verilog: Multiplexor 2-1 (Canales de 1 bit): Entradas agrupadas "
+"en un bus. Implementación en verilog"
 
 #: translation.js:122
 msgid "2-to-1 Multplexer (1-bit channels). Verilog implementation"
@@ -386,9 +387,9 @@ msgid "MuxF-2-1"
 msgstr "MuxF-2-1"
 
 #: translation.js:124
-#, fuzzy
 msgid "MuxF-2-1-verilog: 2-to-1 Multplexer (1-bit channels). Fippled version"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr ""
+"MuxF-2-1-verilog: Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
 
 #: translation.js:126
 msgid "2-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus"
@@ -431,9 +432,8 @@ msgid "4-to-1 Multplexer (1-bit channels). Flipped version"
 msgstr "Multiplexor 4-1 (Canales de 1-bit). Versión invertida"
 
 #: translation.js:143
-#, fuzzy
 msgid "8-to-1 Multplexer (1-bit channels) (Verilog implementation)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 8-1 (Canales de 1 bit). Implementación en verilog"
 
 #: translation.js:144 translation.js:891
 msgid "Mux-8-1-Bus"
@@ -472,10 +472,9 @@ msgstr "Multiplexor 8-1 (Canales de 1 bit). Versión invertida"
 #: translation.js:312 translation.js:320 translation.js:328 translation.js:336
 #: translation.js:344 translation.js:352
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: translation.js:157
-#, fuzzy
 msgid "2-to-1 Multplexer (2-bit channels). Verilog implementation"
 msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
 
@@ -492,9 +491,8 @@ msgid "Channel B"
 msgstr "Canal B"
 
 #: translation.js:164
-#, fuzzy
 msgid "4-to-1 Multplexer (2-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 4-1 (Canales de 1 bit). Implementación en verilog"
 
 #: translation.js:166
 msgid "4-to-1 Multplexer (2-bit channels)"
@@ -509,54 +507,48 @@ msgid "Channel C"
 msgstr "Canal C"
 
 #: translation.js:171
-#, fuzzy
 msgid "8-to-1 Multplexer (2-bit channels) (Verilog implementation)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 8-1 (Canales de 2 bit). Implementación en verilog"
 
 #: translation.js:173
 msgid "8-to-1 Multplexer (2-bit channels)"
 msgstr "Multiplexor 8-1 (Canales de 2 bit)"
 
 #: translation.js:178
-#, fuzzy
 msgid "2-to-1 Multplexer (3-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 3-1 (Canales de 3 bit). Implementación en verilog"
 
 #: translation.js:180
 msgid "2-to-1 Multplexer (3-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 3 bits)"
 
 #: translation.js:183
-#, fuzzy
 msgid "4-to-1 Multplexer (3-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 4-1 (Canales de 3 bit). Implementación en verilog"
 
 #: translation.js:185
 msgid "4-to-1 Multplexer (3-bit channels)"
 msgstr "Multiplexer 4-1 (Canales de 3 bits)"
 
 #: translation.js:191
-#, fuzzy
 msgid "2-to-1 Multplexer (4-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 4 bit). Implementación en verilog"
 
 #: translation.js:193
 msgid "2-to-1 Multplexer (4-bit channels)"
 msgstr "Multiplexor 2-1 (canales de 4 bits)"
 
 #: translation.js:196
-#, fuzzy
 msgid "4-to-1 Multplexer (4-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 4-1 (Canales de 4 bit). Implementación en verilog"
 
 #: translation.js:198
 msgid "4-to-1 Multplexer (4-bit channels)"
 msgstr "Multiplexer 4-1 (Canales de 4 bits)"
 
 #: translation.js:201
-#, fuzzy
 msgid "8-to-1 Multplexer (4-bit channels) (Verilog implementation)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 8-1 (Canales de 4 bit). Implementación en verilog"
 
 #: translation.js:203
 msgid "8-to-1 Multplexer (4-bit channels)"
@@ -572,9 +564,8 @@ msgstr ""
 "Bus4-Split-half: Dividir el bus de 4-bits en dos buses del mismo tamaño"
 
 #: translation.js:209
-#, fuzzy
 msgid "2-to-1 Multplexer (5-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 5 bit). Implementación en verilog"
 
 #: translation.js:211
 msgid "Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits"
@@ -586,9 +577,8 @@ msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
 msgstr "Bus5-Join-1-4: Juntar los dos buses de 1 y 4 bits en uno de 5bits"
 
 #: translation.js:216
-#, fuzzy
 msgid "2-to-1 Multplexer (6-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 6 bit). Implementación en verilog"
 
 #: translation.js:218
 msgid "2-to-1 Multplexer (6-bit channels)"
@@ -603,9 +593,8 @@ msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
 msgstr "Bus6-Join-2-4: Juntar los dos buses en uno de 6 bits"
 
 #: translation.js:223
-#, fuzzy
 msgid "2-to-1 Multplexer (7-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 7 bit). Implementación en verilog"
 
 #: translation.js:225
 msgid "2-to-1 Multplexer (7-bit channels)"
@@ -620,23 +609,20 @@ msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
 msgstr "Bus7-Split-3-4: Dividir el bus de 7-bits en dos buses de 3 y 4 cables"
 
 #: translation.js:233
-#, fuzzy
 msgid "2-to-1 Multplexer (8-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 8 bit). Implementación en verilog"
 
 #: translation.js:237
-#, fuzzy
 msgid "4-to-1 Multplexer (8-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 4-1 (Canales de 8 bit). Implementación en verilog"
 
 #: translation.js:239
 msgid "4-to-1 Multplexer (8-bit channels)"
 msgstr "Multiplexer 4-1 (Canales de 8 bits)"
 
 #: translation.js:242
-#, fuzzy
 msgid "8-to-1 Multplexer (8-bit channels) (Verilog implementation)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 8-1 (Canales de 8 bit). Implementación en verilog"
 
 #: translation.js:244
 msgid "8-to-1 Multplexer (8-bit channels)"
@@ -653,9 +639,8 @@ msgstr ""
 "Bus8-Split-quarter: Dividir el bus de 8-bits en cuatro buses del mismo tamaño"
 
 #: translation.js:250
-#, fuzzy
 msgid "2-to-1 Multplexer (9-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 9 bit). Implementación en verilog"
 
 #: translation.js:252
 msgid "2-to-1 Multplexer (9-bit channels)"
@@ -670,9 +655,8 @@ msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
 msgstr "Bus8-Join-1-8: Juntar los dos buses en uno de 9 bits"
 
 #: translation.js:258
-#, fuzzy
 msgid "2-to-1 Multplexer (10-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 10 bit). Implementación en verilog"
 
 #: translation.js:260
 msgid "2-to-1 Multplexer (10-bit channels)"
@@ -688,9 +672,8 @@ msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
 msgstr "Bus10-Join-2-8: Juntar los dos buses en uno de 10 bits"
 
 #: translation.js:266
-#, fuzzy
 msgid "2-to-1 Multplexer (11-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 11 bit). Implementación en verilog"
 
 #: translation.js:268
 msgid "2-to-1 Multplexer (11-bit channels)"
@@ -706,9 +689,8 @@ msgid "Bus11-Join-3-8: Join the two buses into an 11-bits Bus"
 msgstr "Bus11-Join-3-8: Juntar los dos buses en uno de 11 bits"
 
 #: translation.js:274
-#, fuzzy
 msgid "2-to-1 Multplexer (12-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 12 bit). Implementación en verilog"
 
 #: translation.js:276
 msgid "2-to-1 Multplexer (12-bit channels)"
@@ -725,12 +707,11 @@ msgstr "Bus12-Join-4-8: Juntar los dos buses en uno de 12 bits"
 
 #: translation.js:280
 msgid "Bocks"
-msgstr ""
+msgstr "Blocks"
 
 #: translation.js:282
-#, fuzzy
 msgid "2-to-1 Multplexer (15-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 15 bit). Implementación en verilog"
 
 #: translation.js:284
 msgid "2-to-1 Multplexer (15-bit channels)"
@@ -754,9 +735,8 @@ msgid "mux-2-1"
 msgstr "mux-2-1"
 
 #: translation.js:290
-#, fuzzy
 msgid "2-to-1 Multplexer (16-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 16 bit). Implementación en verilog"
 
 #: translation.js:292
 msgid "2-to-1 Multplexer (16-bit channels)"
@@ -772,9 +752,8 @@ msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-half: Juntar los dos buses iguales en uno de 16 bits"
 
 #: translation.js:298
-#, fuzzy
 msgid "2-to-1 Multplexer (19-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 19 bit). Implementación en verilog"
 
 #: translation.js:300
 msgid "2-to-1 Multplexer (19-bit channels)"
@@ -792,9 +771,8 @@ msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
 msgstr "Bus19-Join-3-8-8: Juntar los tres buses en uno de 19 bits"
 
 #: translation.js:306
-#, fuzzy
 msgid "2-to-1 Multplexer (20-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 20 bit). Implementación en verilog"
 
 #: translation.js:308
 msgid "2-to-1 Multplexer (20-bit channels)"
@@ -811,9 +789,8 @@ msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
 msgstr "Bus20-Join-4-8-8: Juntar los tres buses en uno de 20 bits"
 
 #: translation.js:314
-#, fuzzy
 msgid "2-to-1 Multplexer (23-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 23 bit). Implementación en verilog"
 
 #: translation.js:316
 msgid "2-to-1 Multplexer (23-bit channels)"
@@ -830,9 +807,8 @@ msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
 msgstr "Bus23-Join-7-8-8: Juntar los tres buses en uno de 23 bits"
 
 #: translation.js:322
-#, fuzzy
 msgid "2-to-1 Multplexer (24-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 24 bit). Implementación en verilog"
 
 #: translation.js:324
 msgid "2-to-1 Multplexer (24-bit channels)"
@@ -851,9 +827,8 @@ msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
 msgstr "Bus24-Join-one-third: Juntar los tres buses en uno de 24 bits"
 
 #: translation.js:330
-#, fuzzy
 msgid "2-to-1 Multplexer (27-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 27 bit). Implementación en verilog"
 
 #: translation.js:332
 msgid "2-to-1 Multplexer (27-bit channels)"
@@ -872,9 +847,8 @@ msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
 msgstr "Bus27-Join-3-8-8-8: Juntar los cuatro buses en uno de 27 bits"
 
 #: translation.js:338
-#, fuzzy
 msgid "2-to-1 Multplexer (28-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 28 bit). Implementación en verilog"
 
 #: translation.js:340
 msgid "2-to-1 Multplexer (28-bit channels)"
@@ -893,9 +867,8 @@ msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
 msgstr "Bus28-Join-4-8-8-8: Juntar los cuatro buses en uno de 28 bits"
 
 #: translation.js:346
-#, fuzzy
 msgid "2-to-1 Multplexer (31-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 31 bit). Implementación en verilog"
 
 #: translation.js:348
 msgid "2-to-1 Multplexer (31-bit channels)"
@@ -914,9 +887,8 @@ msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
 msgstr "Bus31-Join-7-8-8-8: Juntar los cuatro buses en uno de 31 bits"
 
 #: translation.js:354
-#, fuzzy
 msgid "2-to-1 Multplexer (32-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Implementación en verilog"
+msgstr "Multiplexor 2-1 (Canales de 32 bit). Implementación en verilog"
 
 #: translation.js:356
 msgid "2-to-1 Multplexer (32-bit channels)"
@@ -2230,7 +2202,7 @@ msgid ""
 "channel "
 msgstr ""
 "interruptor para seleccionar el  \n"
-"canal"
+"canal  "
 
 #: translation.js:634 translation.js:641 translation.js:642 translation.js:643
 #: translation.js:644
