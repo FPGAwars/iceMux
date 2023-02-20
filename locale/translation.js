@@ -1031,6 +1031,3 @@ gettext('Alhambra-II');
 gettext('01-manual-test');
 gettext('Generic: 32-bits generic constant');
 gettext('## 32-bits Mux-2-1: Manual testing\n');
-gettext('01-manual-test');
-gettext('000-index');
-gettext('001-index');
