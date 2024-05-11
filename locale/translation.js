@@ -144,6 +144,8 @@ gettext('4-to-1 Multplexer (1-bit channels). Flipped version');
 gettext('Block');
 gettext('Mux-8-1');
 gettext('8-to-1 Multplexer (1-bit channels) (Verilog implementation)');
+gettext('Mux-8bus-1');
+gettext('Multiplexor de 8 a 1, con entradas de bus');
 gettext('Mux-8-1-Bus');
 gettext('8-to-1 Multplexer (1-bit channels). Inputs grouped into a Bus');
 gettext('Bus8-Split-all: Split the 8-bits bus into its wires');

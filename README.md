@@ -95,6 +95,7 @@ For installing and using this colection in Icestudio follow these steps:
         * MuxF-4-1
     * **Mux-8-1**
       * Mux-8-1
+      * Mux-8bus-1
       * **Block**
         * Mux-8-1-Bus
         * Mux-8-1
