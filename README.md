@@ -28,7 +28,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Language | Locale | Translated strings |
 |----------|--------|--------------------|
 | English  |  en    | ![](https://progress-bar.dev/100) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/97) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
 
 ## Blocks
 * **DeMux**
@@ -158,6 +158,8 @@ For installing and using this colection in Icestudio follow these steps:
       * Mux-2-1
       * **Blocks**
         * Mux-2-1
+    * **Mux-32-1**
+      * Mux-32-1
     * **Mux-4-1**
       * Mux-4-1
       * **Blocks**
