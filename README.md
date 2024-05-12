@@ -247,6 +247,8 @@ For installing and using this colection in Icestudio follow these steps:
         * mux-2-1
     * **Mux-4-1**
       * mux-4-1
+    * **Mux-8-1**
+      * mux-8-1
 
 ## Examples
 * 000-index

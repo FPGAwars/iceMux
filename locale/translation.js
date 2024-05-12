@@ -370,6 +370,7 @@ gettext('Bus31-Split-7-8-8-8: Split the 31-bits bus into four buses of 7,8, 8 an
 gettext('Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus');
 gettext('Mux-2-1');
 gettext('Mux-4-1');
+gettext('Mux-8-1');
 gettext('Blocks');
 gettext('mux-2-1');
 gettext('2-to-1 Multplexer (32-bit channels). Verilog implementation');
@@ -379,6 +380,8 @@ gettext('Bus32-Join-quarter: Join the four buses into an 32-bits Bus');
 gettext('Bus32-Split-quarter: Split the 32-bits bus into four buses of 8 wires');
 gettext('mux-4-1');
 gettext('8-to-1 Multplexer (32-bit channels). Verilog implementation');
+gettext('mux-8-1');
+gettext('8-to-1 Multplexer (32-bit channels) (Verilog implementation)');
 gettext('01-Mux-2-1');
 gettext('02-Mux-2-1-Bus');
 gettext('03-Mux-4-1');
