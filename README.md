@@ -123,6 +123,8 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * Mux-4-1
   * **04-bits**
+    * **Mux-16-1**
+      * Mux-16-1
     * **Mux-2-1**
       * Mux-2-1
       * **Blocks**
