@@ -20,7 +20,7 @@ Licensed under [GPL-2.0](https://opensource.org/licenses/GPL-2.0).
 
 For installing and using this colection in Icestudio follow these steps:
 
-* Download the collection: [stable](https://github.com/FPGAwars/iceMux/archive/refs/tags/v0.1.1.zip) or [development](https://github.com/FPGAwars/iceMux/archive/refs/heads/master.zip)
+* Download the collection: [stable](https://github.com/FPGAwars/iceMux/archive/refs/tags/v0.1.2.zip) or [development](https://github.com/FPGAwars/iceMux/archive/refs/heads/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Select the collection: *Select > Collection*
 
@@ -404,4 +404,4 @@ For installing and using this colection in Icestudio follow these steps:
 <!-- Badges -->
 [icestudio-image]: https://img.shields.io/badge/collection-icestudio-blue.svg
 [icestudio-url]: https://github.com/FPGAwars/icestudio
-[version-image]: https://img.shields.io/badge/version-v0.1.1-orange.svg
+[version-image]: https://img.shields.io/badge/version-v0.1.2-orange.svg

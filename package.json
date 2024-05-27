@@ -1,6 +1,6 @@
 {
   "name": "icemux",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Collection with muxes and demuxes",
   "header": "https://github.com/FPGAwars/iceMux/raw/main/wiki/Logo/iceMux-collection-github.png",
   "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
