@@ -106,6 +106,7 @@ gettext('13-bits');
 gettext('14-bits');
 gettext('15-bits');
 gettext('16-bits');
+gettext('17-bits');
 gettext('18-bits');
 gettext('19-bits');
 gettext('20-bits');
@@ -318,6 +319,9 @@ gettext('Bus16-Split-half: Split the 16-bits bus into two buses of the same size
 gettext('Bus16-Join-half: Join the two same halves into an 16-bits Bus');
 gettext('mux-4-1');
 gettext('16-to-1 Multplexer (16-bit channels). Verilog implementation');
+gettext('Mux-2-1');
+gettext('mux-2-1');
+gettext('2-to-1 Multplexer (17-bit channels). Verilog implementation');
 gettext('Mux-2-1');
 gettext('Mux-2-1');
 gettext('2-to-1 Multplexer (18-bit channels). Verilog implementation');
