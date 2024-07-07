@@ -346,6 +346,7 @@ gettext('Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus');
 gettext('Mux-2-1');
 gettext('mux-2-1');
 gettext('2-to-1 Multplexer (21-bit channels). Verilog implementation');
+gettext('Mux-2-1');
 gettext('mux-2-1');
 gettext('2-to-1 Multplexer (22-bit channels). Verilog implementation');
 gettext('Mux-2-1');

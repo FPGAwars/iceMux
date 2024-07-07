@@ -228,7 +228,8 @@ For installing and using this colection in Icestudio follow these steps:
     * **Mux-2-1**
       * mux-2-1
   * **22-bits**
-    * mux-2-1
+    * **Mux-2-1**
+      * mux-2-1
   * **23-bits**
     * **Mux-2-1**
       * mux-2-1
